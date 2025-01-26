@@ -1,0 +1,121 @@
+{
+  "Name": "Amit Deepak Deshmukh",
+  "DateOfBirth": "April 29, 1987",
+  "Gender": "Male",
+  "Email": "amitd92@gmail.com",
+  "PhoneNumber": "0788 3292816",
+  "Address": "Not Found",
+  "Skills": {
+    "technical_skills": [
+      "C",
+      "VB Framework",
+      "Drupal",
+      "MySQL",
+      "Oracle",
+      "C++",
+      "MatLab",
+      "MP1",
+      "MP3",
+      "MPEG1",
+      "Wimax",
+      "Database Management Systems"
+    ],
+    "other_skills": [
+      "Executive Member of ISTE Indian Society for Technical Education",
+      "Executive Member of NSS National Service Scheme",
+      "Member of the organising committee of Engineer 2008 and Engineer 2009 the annual technical symposium of NITK",
+      "Member of the organising committee of Incident 2007 2008 and 2009 the annual cultural festival of NITK"
+    ]
+  },
+  "Education": {
+    "pre_degree": [
+      {
+        "degree_name": "10th",
+        "institution": "Senior Secondary School Sector 7 Bhilai CBSE 2003",
+        "year_or_duration": "2003",
+        "cgpa_or_percentage": "84.4"
+      },
+      {
+        "degree_name": "12th",
+        "institution": "Senior Secondary School Sector 10 Bhilai CBSE 2005",
+        "year_or_duration": "2005",
+        "cgpa_or_percentage": "74.2"
+      }
+    ],
+    "bachelors": [
+      {
+        "degree_name": "B.Tech",
+        "institution": "NITK NITK Surathkal",
+        "year_or_duration": "2010",
+        "cgpa_or_percentage": "8.26"
+      }
+    ],
+    "masters": [
+      {
+        "degree_name": "Not Found",
+        "institution": "Not Found",
+        "year_or_duration": "Not Found",
+        "cgpa_or_percentage": "Not Found"
+      }
+    ]
+  },
+  "ExtraCurricularActivities": [
+    "Executive Member of ISTE Indian Society for Technical Education",
+    "Executive Member of NSS National Service Scheme",
+    "Member of the organising committee of Engineer 2008 and Engineer 2009 the annual technical symposium of NITK",
+    "Member of the organising committee of Incident 2007 2008 and 2009 the annual cultural festival of NITK"
+  ],
+  "Projects": [
+    {
+      "project_name": "Real Estate Portal",
+      "skills_used": [
+        "Oracle",
+        "VB Framework"
+      ]
+    },
+    {
+      "project_name": "MiniRel Project",
+      "skills_used": [
+        "C++"
+      ]
+    },
+    {
+      "project_name": "Computer Graphics Editor",
+      "skills_used": [
+        "C language"
+      ]
+    },
+    {
+      "project_name": "Summer Project",
+      "skills_used": [
+        "MatLab",
+        "MP1",
+        "MP3",
+        "MPEG1",
+        "Audio Samples"
+      ]
+    }
+  ],
+  "Internships": [
+    {
+      "company": "National Institute of Advanced Sciences Bangalore",
+      "year": "2008",
+      "skills": [
+        "MatLab",
+        "MP1",
+        "MP3",
+        "MPEG1"
+      ]
+    }
+  ],
+  "References": [
+    {
+      "name": "Prof. Timothy Poston",
+      "designation": "Chief Scientist PADO and Visiting Prof at NIAS IISC Bangalore India"
+    },
+    {
+      "name": "Prof. G. Ram Mohana Reddy",
+      "designation": "Dept. of Information Technology NITK Surathkal"
+    }
+  ]
+}<|end_of_turn|>

@@ -1,0 +1,127 @@
+{
+    'Name': 'syama r',
+    'DateOfBirth': 'july 23 1988',
+    'Gender': 'female',
+    'Email': 'syamar@gmail.com',
+    'PhoneNumber': '0484 2330407',
+    'Address': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025',
+    'Skills': {
+        'technical_skills': [
+            'java',
+            'apache abdera',
+            'c',
+            'php',
+            'css',
+            'oracle'
+        ],
+        'other_skills': [
+            'painting',
+            'pencil shading',
+            'sketching',
+            'watching tv',
+            'reading newspapers',
+            'browsing'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10+2th',
+                'institution': 'bhavans adarsha vidyalaya kakkanad',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '94.2'
+            },
+            {
+                'degree_name': 'xiith',
+                'institution': 'bhavans vidya mandir elamakkara',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '94.6'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'b.tech',
+                'institution': 'nitk',
+                'year_or_duration': '',
+                'cgpa_or_percentage': ''
+            }
+        ],
+        'masters': [
+            {
+                'degree_name': 'Not Found',
+                'institution': 'Not Found',
+                'year_or_duration': 'Not Found',
+                'cgpa_or_percentage': 'Not Found'
+            }
+        ]
+    },
+    'ExtraCurricularActivities': [
+        'artists forum spicmacay indian society for technical education nitk chapter hobbies and interests painting pencil shading sketching watching tv reading newspapers browsing few of my achievements in painting are 1. national scholarship in painting ccrt scholarship 2. international award in painting hydrangea award japan prize winning painting can be seen at http homepage2.nifty.comchildartfilee5w.html 3. iind place silver medal in international painting contest 2002 fai young artists contest conducted by federation of aeronautique internationale avenue mon repos 24 ch 1005 lusanne switzerland. painting can be seen at http www.fai.orgeducationcontestsartistswinners.aspid2002 . i was interviewed by leading national daily the hindu and it appeared in the column called young achievers. the article can be seen at http www.hinduonnet.comthehinduyw20030315stories200-3031-501000300.htm 4. in the sydney olympics visa olympics of the imagination art contest at the national level i got iii place. i am a very focused and hard working person. i dedicate myself fully to any task i take up and i believe that is one my plus points. the one thing which i have learnt from my projects internships and club activities is that you can achieve anything if you put in your hundred percent.'
+    ],
+    'Projects': [
+        {
+            'project_name': 'ibm lotus live connectors plug in',
+            'skills_used': [
+                'java',
+                'apache abdera'
+            ]
+        },
+        {
+            'project_name': 'online banking system',
+            'skills_used': [
+                'php',
+                'css',
+                'oracle'
+            ]
+        },
+        {
+            'project_name': 'borrowed virtual time scheduler',
+            'skills_used': [
+                'c'
+            ]
+        },
+        {
+            'project_name': 'research paper on ambi graph modeling ambient intelligent systems',
+            'skills_used': []
+        },
+        {
+            'project_name': 'online event management system',
+            'skills_used': [
+                'php',
+                'javascript',
+                'css',
+                'oracle'
+            ]
+        },
+        {
+            'project_name': 'snake game',
+            'skills_used': [
+                'c'
+            ]
+        },
+        {
+            'project_name': 'building a wireless sensor network using systemc and specc',
+            'skills_used': []
+        },
+        {
+            'project_name': 'developing a blocking software',
+            'skills_used': []
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'ibm india pvt. ltd',
+            'year': '2009',
+            'skills': [
+                'java',
+                'apache abdera'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'amit surana',
+            'designation': 'software engineer'
+        }
+    ]
+}<|end_of_turn|>

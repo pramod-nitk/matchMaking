@@ -1,0 +1,76 @@
+{
+ 'Name': 'Aditya P',
+ 'DateOfBirth': 'November 27, 1988',
+ 'Gender': 'Male',
+ 'Email': 'aditya.p.1988@gmail.com',
+ 'PhoneNumber': '+91 80 23494692',
+ 'Address': 'permanent address b.tech room d305 mega block nitk hostel suratkal 453 12th cross 2nd stage west of chord road mahalaxmipura bangalore 560086',
+ 'Skills': {
+  'technical_skills': [
+   '4 sem graphics editor with c',
+   '5 sem rdbms hospital management system with oracle and visual basic',
+   '7 sem website for online cinema ticket booking using php html mysql'
+  ],
+  'other_skills': [
+   'played in inter branch cricket volleyball handball table tennis tournaments'
+  ]
+ },
+ 'Education': {
+  'pre_degree': [
+   {
+    'degree_name': '10+2th',
+    'institution': 'national public school bangalore',
+    'year_or_duration': '2004',
+    'cgpa_or_percentage': '91.6'
+   },
+   {
+    'degree_name': 'xiith',
+    'institution': 'kishora kendra bangalore pre university board',
+    'year_or_duration': '2006',
+    'cgpa_or_percentage': '91.5'
+   },
+   {
+    'degree_name': 'Not Found'
+   }
+  ],
+  'bachelors': [
+   {
+    'degree_name': 'b.tech',
+    'institution': 'national institute of technology karnataka surathkal',
+    'year_or_duration': '2009 10',
+    'cgpa_or_percentage': '8.94'
+   }
+  ],
+  'masters': [
+   {
+    'degree_name': 'Not Found'
+   }
+  ]
+ },
+ 'ExtraCurricularActivities': [
+  'played in inter branch cricket volleyball handball table tennis tournaments punctual hardworking and dedicated towards the work taken up . 4 sem graphics editor with c 5 sem rdbms hospital management system with oracle and visual basic 7 sem website for online cinema ticket booking using php html mysql'
+ ],
+ 'Projects': [
+  {
+   'project_name': 'Not Found',
+   'skills_used': []
+  }
+ ],
+ 'Internships': [
+  {
+   'company': 'Not Found',
+   'year': 'Not Found',
+   'skills': []
+  }
+ ],
+ 'References': [
+  {
+   'name': 'Not Found',
+   'designation': 'Not Found'
+  },
+  {
+   'name': 'Not Found',
+   'designation': 'Not Found'
+  }
+ ]
+}<|end_of_turn|>

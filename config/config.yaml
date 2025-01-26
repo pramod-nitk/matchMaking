@@ -1,0 +1,14 @@
+llm_server:
+  base_url: "http://localhost:8080"
+embedding:
+  model_name: "all-MiniLM-L6-v2"
+
+paths:
+  input_pdf_path: "data/inputData/2.resumes_compiled.pdf"
+  output_folder: "data/studentsResumes/"
+  candidatesProfile: "processedData/candidatesProfiles/"
+  faissindex: "processedData/faissIndex/"
+  pdf2text: "processedData/pdf2text/"
+  embeddings: "processedData/embeddings/"
+  search_index: "processedData/search_index/"
+  database_path: "processedData/database/"

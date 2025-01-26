@@ -1,0 +1,58 @@
+{
+    "Name": "",
+    "DateOfBirth": "",
+    "Gender": "",
+    "Email": "",
+    "PhoneNumber": "",
+    "Address": "",
+    "Skills": {
+    "technical_skills": [],
+    "other_skills": []
+    },
+    "Education": {
+        "pre_degree": [
+            {
+                "degree_name": "",
+                "institution": "",
+                "year_or_duration": "",
+                "cgpa_or_percentage": ""
+                }
+                ],
+                "bachelors": [
+                    {
+                        "degree_name": "",
+                        "institution": "",
+                        "year_or_duration": "",
+                        "cgpa_or_percentage": ""
+                        }
+                        ],
+                        "masters": [
+                            {
+                                "degree_name": "",
+                                "institution": "",
+                                "year_or_duration": "",
+                                "cgpa_or_percentage": ""
+                            }
+                                ]
+                },
+                "ExtraCurricularActivities": [],
+                "Projects": [
+                    {
+                        "project_name": "",
+                        "skills_used": []
+                        }
+                        ],
+                "Internships": [
+                    {
+                        "company": "",
+                        "year": "",
+                        "skills": []
+                        }
+                        ],
+                "References": [
+                    {
+                        "name": "",
+                        "designation": ""
+                        }
+                        ]
+                        }

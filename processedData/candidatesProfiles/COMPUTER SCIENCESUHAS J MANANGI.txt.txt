@@ -1,0 +1,183 @@
+{
+    'Name': 'Suhas J Manangi',
+    'DateOfBirth': 'October 10, 1987',
+    'Gender': 'Male',
+    'Email': 'suhasjm@yahoo.com',
+    'PhoneNumber': '080 27832087 / 91-9535-616471',
+    'Address': 'B.Tech Room No. A102, Mega Block, NITK Hostels, NITK Surathkal, Karnataka 575025, India',
+    'Skills': {
+        'technical_skills': [
+            'C Programming',
+            'Java',
+            'C++',
+            'Python',
+            'Networking',
+            'Algorithms',
+            'Data Structures',
+            'Cryptography'
+        ],
+        'other_skills': [
+            'Tutoring',
+            'Teamwork',
+            'Communication',
+            'Leadership'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10+2th',
+                'institution': 'Sainik School Bijapur, Karnataka',
+                'year_or_duration': '2003',
+                'cgpa_or_percentage': '88'
+            },
+            {
+                'degree_name': 'XIth',
+                'institution': 'Sainik School Bijapur, Karnataka',
+                'year_or_duration': '2005',
+                'cgpa_or_percentage': '81'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': 'Not Found',
+                'cgpa_or_percentage': '7.52'
+            }
+        ],
+        'masters': [
+            {
+                'degree_name': 'Not Found',
+                'institution': 'Not Found',
+                'year_or_duration': 'Not Found',
+                'cgpa_or_percentage': 'Not Found'
+            }
+        ]
+    },
+    'ExtraCurricularActivities': [
+        'Co Curricular Activities 1:',
+        'Co Curricular Activities 2:',
+        'Co Curricular Activities 3:',
+        'Co Curricular Activities 4:',
+        'Co Curricular Activities 5:',
+        'Co Curricular Activities 6:',
+        'Co Curricular Activities 7:',
+    ],
+    'Projects': [
+        {
+            'project_name': 'Pohlig-Hellman and Pollard Rho Attack Tool',
+            'skills_used': [
+                'Cryptography',
+                'ECC',
+                'Pollard Rho Attack',
+                'EC Curves',
+            ]
+        },
+        {
+            'project_name': 'Code Coverage Tool',
+            'skills_used': [
+                'C Programming',
+                'Dynamic Analysis',
+                'HTML',
+            ]
+        },
+        {
+            'project_name': 'Wireless Mesh Networks',
+            'skills_used': [
+                'Wireless Networks',
+                'Routing Protocols',
+                'Channel Assignment',
+            ]
+        },
+        {
+            'project_name': 'Jooming',
+            'skills_used': [
+                'Text Navigation',
+                'Weighted Zooming',
+            ]
+        },
+        {
+            'project_name': 'TCP/IP Module into BIOS to Boot Remote Operating System',
+            'skills_used': [
+                'TCP/IP Protocol Stack',
+                'BIOS Level',
+            ]
+        },
+        {
+            'project_name': 'Elliptic Curve Cryptographic Security in Transmission Control Protocol',
+            'skills_used': [
+                'Elliptic Curve',
+                'TCP Protocol',
+                'Security',
+            ]
+        },
+        {
+            'project_name': 'Distributed DOS Attack Tool with IP Spoofing Capabilities',
+            'skills_used': [
+                'Distributed Denial of Service Attack',
+                'IP Spoofing',
+            ]
+        },
+        {
+            'project_name': 'Optimization of Recursive Descent Parser by Left Factoring and Elimination of Left Recursion',
+            'skills_used': [
+                'Top Down Parsers',
+                'Left Factoring',
+                'Elimination of Left Recursion',
+            ]
+        },
+        {
+            'project_name': 'Data Encryption/Decryption Tool',
+            'skills_used': [
+                'Data Encryption/Decryption',
+                'RC5',
+                'AES',
+            ]
+        },
+        {
+            'project_name': 'Online Telephone Directory',
+            'skills_used': [
+                'Database',
+                'GUI',
+            ]
+        },
+        {
+            'project_name': 'Solving 9x9 Sudoku using Constraint Satisfaction',
+            'skills_used': [
+                'Constraint Satisfaction',
+                'Problem Space Mechanism',
+            ]
+        },
+        {
+            'project_name': 'Brute Force Attack on DES Cipher',
+            'skills_used': [
+                'DES Cipher',
+                'Computer Grid',
+            ]
+        },
+    ],
+    'Internships': [
+        {
+            'company': 'Bosch India',
+            'year': 'Summer 2009',
+            'skills': [
+                'C Programming',
+                'Code Coverage Tool',
+            ]
+        },
+    ],
+    'References': [
+        {
+            'name': 'Dr. Tim Poston',
+            'designation': 'Professor at NIAS IISC Bangalore',
+            'email': 'tim.poston@gmail.com'
+        },
+        {
+            'name': 'Mr. Mahendra Pratap Singh',
+            'designation': 'Lecturer at Computer Science Department National Institute of Technology Karnataka',
+            'email': 'mps_82@aol.in'
+        },
+    ]
+}
+<|end_of_turn|>

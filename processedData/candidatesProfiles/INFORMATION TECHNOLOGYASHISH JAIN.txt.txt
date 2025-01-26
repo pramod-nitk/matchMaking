@@ -1,0 +1,115 @@
+{
+    'Name': 'Ashish Jain',
+    'DateOfBirth': 'July 7, 1988',
+    'Gender': 'Male',
+    'Email': 'ashish.sdr@gmail.com',
+    'PhoneNumber': '+91 08-0234-84579',
+    'Address': 'Mangalore 575025',
+    'Skills': {
+        'technical_skills': [
+            'C',
+            'C++',
+            'Juce',
+            'OpenGL',
+            'Python',
+            'VB.net',
+            'MSQL',
+            'JSON',
+            'Qt',
+            'Linux'
+        ],
+        'other_skills': ['Karate']
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': 'Xth St. Ann\'s High School',
+                'institution': 'Karnataka Board',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '93'
+            },
+            {
+                'degree_name': 'XIth S. Nijalingappa PUC College',
+                'institution': 'Karnataka Board',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '84'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '8.38'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'Being a core member of the colleges inter college cultural fest Incident 2009',
+        'Open Source Co-ordinator of College Technical Club Web Enthusiasts Club',
+        'Conducted Software Freedom Day in the college in 2008',
+        'Conducted Software Freedom Day 2009',
+        'Conducted Special Tutorial Classes for 1st Year B Tech Students of My College',
+        'Attended various Talks and Seminars Conducted by Other Clubs of the College on Topics like Multi Core Architecture Entrepreneurship etc',
+        'Elected the Class Prefect in 9th and 10th Standard'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Log File Analyzer Daemon',
+            'skills_used': [
+                'Python',
+                'JSON'
+            ]
+        },
+        {
+            'project_name': 'Application for Displaying Signals Obtained from Microcontroller using Qt and OpenGL',
+            'skills_used': [
+                'Qt',
+                'OpenGL'
+            ]
+        },
+        {
+            'project_name': 'Animation Package using C++ Juce and OpenGL',
+            'skills_used': [
+                'C++',
+                'Juce',
+                'OpenGL'
+            ]
+        },
+        {
+            'project_name': 'Mini Project on Computer Graphics',
+            'skills_used': [
+                'C++',
+                'OpenGL'
+            ]
+        },
+        {
+            'project_name': 'Mini Project on Database Management System (DBMS)',
+            'skills_used': [
+                'VB.net',
+                'MSQL'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Tachyon Technologies',
+            'year': '2008',
+            'skills': [
+                'Python',
+                'JSON'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Dr. P.C. Mathias',
+            'designation': 'Associate Professor'
+        },
+        {
+            'name': 'Dr. Ananthanarayana V S',
+            'designation': 'HOD Information Technology'
+        }
+    ]
+}<|end_of_turn|>

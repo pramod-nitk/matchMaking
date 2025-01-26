@@ -1,0 +1,61 @@
+{
+    'Name': 'Ashish G. Bhat',
+    'DateOfBirth': 'May 7, 1988',
+    'Gender': 'Male',
+    'Email': 'ashish.g.bhat@gmail.com',
+    'PhoneNumber': '080 26761492',
+    'Address': 'National Institute of Technology, Karnataka, Surathkal P.O. Srinivasnagar, Mangalore 575025',
+    'Skills': {
+        'technical_skills': [],
+        'other_skills': []
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10+2th',
+                'institution': 'Xth Chinmaya Vidyalaya Hubli',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '96.64'
+            },
+            {
+                'degree_name': 'XIth',
+                'institution': 'The National College Bangalore',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '89.66'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology, Karnataka, Surathkal P.O. Srinivasnagar, Mangalore 575025',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '7.59'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': ['About Myself'],
+    'Projects': [
+        {
+            'project_name': 'B.Tech Details',
+            'skills_used': []
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Mindtree Pvt Ltd',
+            'year': 'Not Found',
+            'skills': []
+        }
+    ],
+    'References': [
+        {
+            'name': 'Dr. Vinay Kumar',
+            'designation': 'Head of the Department Computer Engineering NITK Surathkal'
+        },
+        {
+            'name': 'Gautham Gopalakrishna',
+            'designation': 'R D Services Mindtree Global Village Bangalore'
+        }
+    ]
+}<|end_of_turn|>

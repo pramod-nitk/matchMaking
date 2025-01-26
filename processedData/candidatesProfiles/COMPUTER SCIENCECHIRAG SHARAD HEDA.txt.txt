@@ -1,0 +1,146 @@
+{
+    'Name': 'Chirag Sharad Heda',
+    'DateOfBirth': 'August 2, 1988',
+    'Gender': 'Male',
+    'Email': 'hedaheads@gmail.com',
+    'PhoneNumber': '080 26658253',
+    'Address': '605 Life is Beautiful Apartments, 4th T Block, Jayanagar, Bangalore 560041',
+    'Skills': {
+        'technical_skills': [
+            'C#',
+            'C++',
+            'Java',
+            'SQL',
+            'Python',
+            'MS SQL Server',
+            'Oracle',
+            'HTML',
+            'CSS',
+            'JavaScript',
+            'VBA',
+            'ASP.NET',
+            'Dreamweaver',
+            'Windows Server',
+            'Linux',
+            'Database',
+            'ERP',
+            'CMS',
+            'Graphics Editor',
+            'Quiz',
+            'Debater'
+        ],
+        'other_skills': [
+            'Leadership',
+            'Team work',
+            'Communication',
+            'Problem Solving',
+            'Decision Making',
+            'Time Management',
+            'Creativity',
+            'Presentation',
+            'Adaptability',
+            'Negotiation',
+            'Conflict Resolution',
+            'Delegation',
+            'Public Speaking',
+            'Mentoring',
+            'Coaching',
+            'Networking',
+            'Multitasking',
+            'Professionalism',
+            'Customer Service',
+            'Project Management',
+            'Team Work',
+            'Analytical Thinking',
+            'Planning',
+            'Strategic Thinking'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {'degree_name': '10th',
+             'institution': 'Sri Kumarans Childrens Home',
+             'year_or_duration': '2004',
+             'cgpa_or_percentage': '90.6'}
+        ],
+        'bachelors': [
+            {'degree_name': 'B.Tech',
+             'institution': 'National Institute of Technology, Karnataka Surathkal',
+             'year_or_duration': '2009',
+             'cgpa_or_percentage': '7.95'}
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        {'activity': 'Avid Quizzer and Debater'},
+        {'activity': 'Member of the Marketing Team for Engineer Golden Jubilee Edition'},
+        {'activity': 'Member of Office Committee Engineer 2008'},
+        {'activity': 'Member of Technites Committee Engineer 2009'}
+    ],
+    'Projects': [
+        {
+            'project_name': 'Software Engineering Project',
+            'skills_used': [
+                'C#',
+                'SQL',
+                'MS SQL Server',
+                'Oracle',
+                'Java',
+                'Wamp',
+                'Rss Feeds',
+                'Database',
+                'C++'
+            ]
+        },
+        {
+            'project_name': 'Database Project',
+            'skills_used': [
+                'C#',
+                'SQL',
+                'Rss Feeds',
+                'Database',
+                'C++'
+            ]
+        },
+        {
+            'project_name': 'Information Systems Project',
+            'skills_used': [
+                'Java',
+                'Wamp',
+                'Rss Feeds',
+                'Database',
+                'C++',
+                'Windows Server',
+                'Linux',
+                'ERP',
+                'CMS',
+                'Graphics Editor',
+                'MS SQL Server',
+                'Oracle'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'International Money Matters Pvt. Ltd.',
+            'year': '2009',
+            'skills': [
+                'Customer Relationship',
+                'Equity Research',
+                'Stock Selection',
+                'Database',
+                'Team Work',
+                'Analytical Thinking',
+                'Professionalism',
+                'Customer Service',
+                'Project Management'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Mr. Lovaii Lavlakhi',
+            'designation': 'Managing Director and CEO, International Money Matters Pvt. Ltd. Bangalore'
+        }
+    ]
+}<|end_of_turn|>

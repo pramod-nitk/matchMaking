@@ -1,0 +1,141 @@
+{
+    'Name': 'Suraj S',
+    'DateOfBirth': 'April 30, 1989',
+    'Gender': 'Male',
+    'Email': 'suraj.srinivasa@gmail.com',
+    'PhoneNumber': '08-0233-50222',
+    'Address': '575025 national institute of technology karnataka surathkal p.o srinivasnagar mangalore',
+    'Skills': {
+        'technical_skills': [
+            'C++',
+            'Ogre',
+            'Java',
+            'Java2Me',
+            'RDF Query Language',
+            'Bluetooth',
+            'Finite Automaton',
+            'C Graphics',
+            'Oracle',
+            'Java Swings',
+            'Sparql Protocol'
+        ],
+        'other_skills': [
+            'Table tennis',
+            'Football',
+            'Sincere',
+            'Diligent',
+            'Humble',
+            'Ethical',
+            'Team player'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'VVS Sardar Patel High School',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '90.24'
+            },
+            {
+                'degree_name': '12th',
+                'institution': 'KLE Society Karnataka PUC',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '84'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2010',
+                'cgpa_or_percentage': '6.95'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'Football',
+        'Table tennis',
+        'IEEE Student Chapter',
+        'NITK Football Team'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Virtual body anatomy project',
+            'skills_used': [
+                'Ogre',
+                'C++'
+            ]
+        },
+        {
+            'project_name': 'Cluster Management System',
+            'skills_used': [
+                'C'
+            ]
+        },
+        {
+            'project_name': 'Knowledge Based Engineering',
+            'skills_used': [
+                'Sparql Protocol',
+                'RDF Query Language',
+                'Protege'
+            ]
+        },
+        {
+            'project_name': 'Bluetooth file sharing system',
+            'skills_used': [
+                'J2ME'
+            ]
+        },
+        {
+            'project_name': 'Remote Desktop Control',
+            'skills_used': [
+                'Java'
+            ]
+        },
+        {
+            'project_name': 'Library Management System',
+            'skills_used': [
+                'Oracle',
+                'Java Swings'
+            ]
+        },
+        {
+            'project_name': 'Ping Pong Game',
+            'skills_used': [
+                'C Graphics'
+            ]
+        },
+        {
+            'project_name': 'Finite Automaton for Roman Numeral Reader',
+            'skills_used': [
+                'C'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'C DOT Bangalore',
+            'year': '2008',
+            'skills': [
+                'C',
+                'Java'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'alarmel Mangai',
+            'designation': 'C Research Engineer NMS Centre for Development of Telematics'
+        },
+        {
+            'name': 'Sir Ashutosh Mukherjee',
+            'designation': 'Professor Mathematical Modelling Unit National Institute of Advanced Studies Indian Institute of Science Campus Bangalore'
+        },
+        {
+            'name': 'Prof. Tim Poston',
+            'designation': 'Sir'
+        }
+    ]
+}<|end_of_turn|>

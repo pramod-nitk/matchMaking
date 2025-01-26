@@ -1,0 +1,26 @@
+{
+  'Name': 'Mayank Varma',
+  'DateOfBirth': 'July 25, 1989',
+  'Gender': 'Male',
+  'Email': 'mayankvarma2007@gmail.com',
+  'PhoneNumber': '0124 4082862, 9-9004-05994',
+  'Address': [{'permanent': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025', 'present': 'd 31 3rd floor raheja atlantis sector 31 gurgaon haryana 122001'}],
+  'Skills': {
+    'technical_skills': ['information system', 'book chapter', 'java database interaction module', 'computer graphics', 'demonstration and report on zfs file system', 'college website development', 'software for information hiding using steganography', 'analysis modification and enhancement of rulesets for the indian subcontinent', 'IBM Summer Internship'],
+    'other_skills': ['Not Found']
+  },
+  'Education': {
+    'pre_degree': [{'degree_name': 'Xth', 'institution': 'DAV Public School', 'year_or_duration': 'CBSE 2004', 'cgpa_or_percentage': '87.2'}],
+    'bachelors': {
+      'degree_name': 'B.Tech',
+      'institution': 'NITK',
+      'year_or_duration': '2010',
+      'cgpa_or_percentage': '8.91'
+    },
+    'masters': []
+  },
+  'ExtraCurricularActivities': [{'activity': 'Active member of the NSS Club in our college. Helped organise as well as took part in its activities such as blood donation camp and beach cleaning drive.', 'details': 'Member of IEEE Zealous, Badminton and Table Tennis player, as a result of which member of the final year team for both the sports.'}],
+  'Projects': [{'project_name': 'Not Found', 'skills_used': ['Not Found']}],
+  'Internships': [{'company': 'IBM India Software Laboratories', 'year': 'Amaralingeswara Rao Kaka', 'skills': ['Not Found']}],
+  'References': [{'name': 'K. Vinay Kumar', 'designation': 'Ex Head of Department, Computer Engineering, NITK Surathkal, ph 2474000 extn. 3403, vinay@nitk.ac.in'}]
+}<|end_of_turn|>

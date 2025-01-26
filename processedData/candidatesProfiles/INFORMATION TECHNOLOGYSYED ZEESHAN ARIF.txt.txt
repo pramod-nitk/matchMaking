@@ -1,0 +1,101 @@
+{
+    'Name': 'Syed Zeeshan Arif',
+    'DateOfBirth': 'September 16, 1988',
+    'Gender': 'Male',
+    'Email': 'sz.arif@live.com',
+    'PhoneNumber': '009-1990-0406016',
+    'Address': '2 Masjid Street, M.R. Palyam, J.C. Nagar, Bangalore 560 005',
+    'Skills': {
+        'technical_skills': [
+            'Neural Networks',
+            'Artificial Intelligence',
+            'Microsoft Application Platform Optimization',
+            'Symantec Sales Accreditation',
+            'Symantec Sales Expert',
+            'Symantec Endpoint Protection',
+            'Inter Branch Basketball Tournament',
+            'Department of Sales and Marketing',
+            'Forex Exchange Intelligent Trading Robot',
+            'Core Banking Solution',
+            'Infosys',
+            'Neural Networks'
+        ],
+        'other_skills': [
+            'Functional Technical Problem Solving',
+            'Outcome Oriented',
+            'Energetic and Dependable',
+            'Team Player',
+            'Resourceful',
+            'Strong Communication Skills',
+            'Forward Thinking',
+            'Innovative',
+            'Ability to work well under pressure',
+            'Prioritize effectively',
+            'Meet demanding deadlines'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'Xth Middle East International School Riyadh',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '79'
+            },
+            {
+                'degree_name': 'XIth',
+                'institution': 'Xiith International Indian School Riyadh',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '77.4'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '5.6'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'Co Curricular Activities'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Forex Exchange Intelligent Trading Robot using Neural Networks and AI',
+            'skills_used': [
+                'Neural Networks',
+                'Artificial Intelligence'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Arabic Computer Systems Saudi Arabia',
+            'year': '2008',
+            'skills': [
+                'Department of Sales and Marketing',
+                'Sales Intern'
+            ]
+        },
+        {
+            'company': 'Arab National Bank Riyadh Saudi Arabia',
+            'year': '2009',
+            'skills': [
+                'Core Banking Solution Implemented by Infosys'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Prof. G. Ram Mohana Reddy',
+            'designation': 'Professor and Head of Department of IT NITK Surathkal'
+        },
+        {
+            'name': 'Biju R. Mohan',
+            'designation': 'Lecturer Department of IT NITK Surathkal'
+        }
+    ]
+}<|end_of_turn|>

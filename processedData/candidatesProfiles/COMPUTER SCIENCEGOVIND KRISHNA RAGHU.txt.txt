@@ -1,0 +1,57 @@
+{
+    'Name': 'govind krishna raghu',
+    'DateOfBirth': 'february 27 1989',
+    'Gender': 'male',
+    'Email': 'govindkrishna@gmail.com',
+    'PhoneNumber': '+919-9004-05974',
+    'Address': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025 placements 2009 10',
+    'Skills': {
+        'technical_skills': ['c', 'c++', 'java', 'unix shell script', 'low level languages', 'assembly language', '8086', 'database', 'sql', 'oracle 10g', 'web technologies', 'html', 'jsp', 'php', 'cssjavascript', 'content management systems', 'magento', 'drupal'],
+        'other_skills': ['playing keyboard', 'playing guitar']
+    },
+    'Education': {
+        'pre_degree': [
+            {'degree_name': '10th', 'institution': 'Indian School Bahrain', 'year_or_duration': '2004', 'cgpa_or_percentage': '89.6'},
+            {'degree_name': 'xiith', 'institution': 'Indian School Doha', 'year_or_duration': '2006', 'cgpa_or_percentage': '91.6'}
+        ],
+        'bachelors': [
+            {'degree_name': 'B.Tech Computer Science', 'institution': 'National Institute of Technology Karnataka Surathkal', 'year_or_duration': '2009 10', 'cgpa_or_percentage': '8.09'}
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'member of the committee that organized incident 08 and 09 the cultural fest of nitk.',
+        'member of nss nitk chapter which is involved in social service activities.',
+        'organized quizzes quest 07 and 08 in qatar.',
+        'passion for music and plays the keyboard and guitar.'
+    ],
+    'Projects': [
+        {
+            'project_name': '1. image processing software',
+            'skills_used': ['c', 'c++', 'java', 'unix shell script', 'low level languages', 'assembly language', '8086', 'database', 'sql', 'oracle 10g', 'web technologies', 'html', 'jsp', 'php', 'cssjavascript', 'content management systems', 'magento', 'drupal']
+        },
+        {
+            'project_name': '2. railways reservation system',
+            'skills_used': ['jsp']
+        },
+        {
+            'project_name': '3. chess over lan',
+            'skills_used': ['java']
+        },
+        {
+            'project_name': '4. brick games in c',
+            'skills_used': ['c++']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'schogini systems',
+            'year': 'may jun 09',
+            'skills': ['c', 'c++', 'java', 'unix shell script', 'low level languages', 'assembly language', '8086', 'database', 'sql', 'oracle 10g', 'web technologies', 'html', 'jsp', 'php', 'cssjavascript', 'content management systems', 'magento', 'drupal']
+        }
+    ],
+    'References': [
+        {'name': 'mr. b.r. chandavarkar', 'designation': 'brc@nitk.ac.in'},
+        {'name': 'mr. sreeprakash', 'designation': 'nsree@schogini.com'}
+    ]
+}<|end_of_turn|>

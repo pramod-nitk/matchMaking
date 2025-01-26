@@ -1,0 +1,21 @@
+{
+    'Name': 'Neeraj Prasad',
+    'DateOfBirth': 'February 14, 1988',
+    'Gender': 'male',
+    'Email': 'neerajnitk.it@gmail.com',
+    'PhoneNumber': '09-4367-64523',
+    'Address': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025',
+    'Skills': {
+        'technical_skills': ['C, C++, C#, C++, C#, SQL', 'Web development', 'Java', 'Linux', 'Unix', 'Windows', 'Database management', 'Project management', 'Problem solving', 'Team work'],
+        'other_skills': ['goalkeeper', 'captain', 'active member', 'organizer']
+    },
+    'Education': {
+        'pre_degree': [{'degree_name': '10+2th', 'institution': 'Xth Don Bosco School Mizoram Board of Secondary Education', 'year_or_duration': '2004', 'cgpa_or_percentage': '68.6'}],
+        'bachelors': [{'degree_name': 'B.Tech Information Technology', 'institution': 'NITK Surathkal', 'year_or_duration': '', 'cgpa_or_percentage': ''}],
+        'masters': []
+    },
+    'ExtraCurricularActivities': ['convenor of light sound and decoration club', 'vice captain and goalkeeper of NITK football team', 'active member of NCC', 'active member of management forum', 'executive member of National Service Scheme NITK chapter', 'attended 5 days workshop of i point about personality development', 'voluntarily participate in international coastal clean up day at Surathkal'],
+    'Projects': [{'project_name': 'Graphics editor', 'skills_used': ['C', 'C++', 'C#', 'SQL', 'Web development', 'Linux', 'Unix', 'Windows', 'Database management', 'Project management', 'Problem solving', 'Team work']}, {'project_name': 'MiniRel', 'skills_used': ['C', 'C++', 'C#', 'SQL', 'Web development', 'Linux', 'Unix', 'Windows', 'Database management', 'Project management', 'Problem solving', 'Team work']}, {'project_name': 'Online Music Talent Hunt', 'skills_used': ['C', 'C++', 'C#', 'SQL', 'Web development', 'Linux', 'Unix', 'Windows', 'Database management', 'Project management', 'Problem solving', 'Team work']}],
+    'Internships': [{'company': 'BSNL', 'year': '', 'skills': ['C', 'C++', 'C#', 'SQL', 'Web development', 'Linux', 'Unix', 'Windows', 'Database management', 'Project management', 'Problem solving', 'Team work']}],
+    'References': []
+}<|end_of_turn|>

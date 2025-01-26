@@ -1,0 +1,39 @@
+{
+    'Name': 'Karthik',
+    'DateOfBirth': '02 May 1988',
+    'Gender': 'Male',
+    'Email': 'k9-8868-60603@gmail.com',
+    'PhoneNumber': '9-8452-94683',
+    'Address': 'Not Found',
+    'Skills': {
+        'technical_skills': ['Java', 'C#', 'C++', 'Python', 'C', 'SQL', 'Linux', 'UNIX', 'OS'],
+        'other_skills': ['Tae Kwon Do']
+    },
+    'Education': {
+        'pre_degree': [{'degree_name': '10th', 'institution': 'Sri Vani Education Centre', 'year_or_duration': '2004', 'cgpa_or_percentage': '93.28'}],
+        'bachelors': [{'degree_name': 'B.Tech', 'institution': 'National Institute of Technology Karnataka', 'year_or_duration': '2010', 'cgpa_or_percentage': '7.48'}],
+        'masters': [{'degree_name': '', 'institution': '', 'year_or_duration': '', 'cgpa_or_percentage': ''}]
+    },
+    'ExtraCurricularActivities': [
+        'Scouts and Guides Movement',
+        'Tae Kwon Do',
+        'Outdoor Sports: Cricket and Volleyball',
+        'Chess',
+        'Internet Awareness Drive'
+    ],
+    'Projects': [
+        {'project_name': '3d Boolean Operations', 'skills_used': ['C++', 'Java']},
+        {'project_name': 'LAN Talk Software', 'skills_used': ['Java']},
+        {'project_name': 'IMail Project', 'skills_used': ['Java']},
+        {'project_name': 'Online Laptop Customization Web Application', 'skills_used': ['Java']},
+        {'project_name': 'Computer Graphics Project', 'skills_used': ['C++']}
+    ],
+    'Internships': [
+        {
+            'company': 'Not Found',
+            'year': 'Not Found',
+            'skills': ['C++', 'Java', 'C', 'Python', 'SQL', 'Linux', 'UNIX', 'OS']
+        }
+    ],
+    'References': [{'name': 'Not Found', 'designation': 'Not Found'}]
+}<|end_of_turn|>

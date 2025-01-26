@@ -1,0 +1,129 @@
+{
+  'Name': 'Sankalp Pramod Dhanvijay',
+  'DateOfBirth': 'March 27, 1988',
+  'Gender': 'Male',
+  'Email': 'sankalp_dhanvijay@yahoo.co.in',
+  'PhoneNumber': '0712 2784997',
+  'Address': 'Plot No. 243 Empress Mill Society, opposite Narendranagar Ring Road, Shreenagar Nagpur, Maharashtra 440015',
+  'Skills': {
+    'technical_skills': [
+      'Databases developed a database for online reservation of an airline company',
+      'Web designing currently working on developing the college website of NITK. We are using the CMS Joomla 1.5.8 for the development',
+      'Graphics project developed a set of 3 games as a part of the computer graphics course',
+      'Text editor worked under the guidance of Prof. Tim Poston NIAS Bangalore to develop an editor which was specifically to be used for writing mathematical equations and solutions. The group project is still in developing stage',
+      'Website this project was again completed under the guidance of Prof. Tim Poston. In this we as a group made templates for a website on 2x2 matrix multiplication and a part of it also contained some important information on vectors along with some diagrams',
+      'Networking finished working on the project of simulation of http and ftp protocols as a group under the guidance of Lecturer Mahendra Pratap Singh of Computer Engineering Department'
+    ],
+    'other_skills': [
+      'Hardworking',
+      'Team player',
+      'Punctual',
+      'Good communication skills',
+      'Leadership',
+      'Problem-solving',
+      'Quick learner',
+      'Good time management skills',
+      'Strong analytical skills'
+    ]
+  },
+  'Education': {
+    'pre_degree': [
+      {
+        'degree_name': '10th',
+        'institution': 'Xth St. Xavier Maharashtra State Board',
+        'year_or_duration': '2004',
+        'cgpa_or_percentage': '85.33'
+      }
+    ],
+    'bachelors': [
+      {
+        'degree_name': 'B. Tech Computer Science',
+        'institution': 'National Institute of Technology Karnataka Surathkal',
+        'year_or_duration': '2009',
+        'cgpa_or_percentage': '6.97'
+      }
+    ],
+    'masters': [
+      {
+        'degree_name': 'Not Found',
+        'institution': 'Not Found',
+        'year_or_duration': 'Not Found',
+        'cgpa_or_percentage': 'Not Found'
+      }
+    ]
+  },
+  'ExtraCurricularActivities': [
+    'Winner in the event strawtegy at engineer 07',
+    'Executive member of incident cultural festival of NITK and engineer technical festival of NITK',
+    'Got 2nd prize in solo dance at Spandan 07',
+    'Got 2nd prize in solo dance at Spandan 08',
+    'Winner of Razzmatazz 09 1st prize inter branch dance competition',
+    'Got 2nd prize in duet dance at Spandan 09',
+    'Runners up of Razzmatazz 08',
+    'Taking part in dance competition since childhood',
+    'Hardworking',
+    'Team person',
+    'Punctual',
+    'Good communication skills',
+    'Leadership',
+    'Problem-solving',
+    'Quick learner',
+    'Good time management skills',
+    'Strong analytical skills'
+  ],
+  'Projects': [
+    {
+      'project_name': 'Databases developed a database for online reservation of an airline company',
+      'skills_used': [
+        'Java NetBeans as front end',
+        'Oracle 10g as backend'
+      ]
+    },
+    {
+      'project_name': 'Web designing currently working on developing the college website of NITK. We are using the CMS Joomla 1.5.8 for the development',
+      'skills_used': [
+        'CMS Joomla 1.5.8'
+      ]
+    },
+    {
+      'project_name': 'Graphics project developed a set of 3 games as a part of the computer graphics course',
+      'skills_used': [
+        'C'
+      ]
+    },
+    {
+      'project_name': 'Text editor worked under the guidance of Prof. Tim Poston NIAS Bangalore to develop an editor which was specifically to be used for writing mathematical equations and solutions. The group project is still in developing stage',
+      'skills_used': [
+        'C'
+      ]
+    },
+    {
+      'project_name': 'Website this project was again completed under the guidance of Prof. Tim Poston. In this we as a group made templates for a website on 2x2 matrix multiplication and a part of it also contained some important information on vectors along with some diagrams',
+      'skills_used': [
+        'HTML',
+        'CSS'
+      ]
+    },
+    {
+      'project_name': 'Networking finished working on the project of simulation of http and ftp protocols as a group under the guidance of Lecturer Mahendra Pratap Singh of Computer Engineering Department',
+      'skills_used': [
+        'C++'
+      ]
+    }
+  ],
+  'Internships': [
+    {
+      'company': 'Not Found',
+      'year': 'Not Found',
+      'skills': [
+        'Not Found'
+      ]
+    }
+  ],
+  'References': [
+    {
+      'name': 'Not Found',
+      'designation': 'Not Found'
+    }
+  ]
+}<|end_of_turn|>

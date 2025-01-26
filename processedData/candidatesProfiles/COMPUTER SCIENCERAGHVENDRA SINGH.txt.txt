@@ -1,0 +1,148 @@
+{
+  'Name': 'Raghvendra Singh',
+  'DateOfBirth': 'March 27 1989',
+  'Gender': 'Male',
+  'Email': 'acm.ragh@live.com',
+  'PhoneNumber': '+919-9168-16952',
+  'Address': 'Not Found',
+  'Skills': {
+    'technical_skills': [
+      'wireless sensor network',
+      'distributed system',
+      'enterprise management system',
+      'code implementing algebraic criteria for the stability of tensegrity rod and cable structures',
+      'algebraic criteria for the stability of tensegrity rod and cable structures',
+      'document navigation system',
+      'java',
+      'C',
+      'Python 2.5',
+      'C++',
+      'JavaScript',
+      'HTML'
+    ],
+    'other_skills': [
+      'management',
+      'team leading',
+      'communication'
+    ]
+  },
+  'Education': {
+    'pre_degree': [
+      {
+        'degree_name': '10th',
+        'institution': 'Gyan Sthali Public School Mahoba',
+        'year_or_duration': '2003',
+        'cgpa_or_percentage': '87.4'
+      },
+      {
+        'degree_name': 'XIth',
+        'institution': 'Gyan Sthali Public School Mahoba',
+        'year_or_duration': '2005',
+        'cgpa_or_percentage': '85'
+      }
+    ],
+    'bachelors': [
+      {
+        'degree_name': 'B.Tech',
+        'institution': 'National Institute of Technology Karnataka Surathkal',
+        'year_or_duration': '2009',
+        'cgpa_or_percentage': '9.01'
+      }
+    ],
+    'masters': [
+      {
+        'degree_name': 'Not Found',
+        'institution': 'Not Found',
+        'year_or_duration': 'Not Found',
+        'cgpa_or_percentage': 'Not Found'
+      }
+    ]
+  },
+  'ExtraCurricularActivities': [
+    'managed a team of 200 volunteers during engineer 2008 as part of publicity team.',
+    'one of the four opera campus crew member.',
+    'executive member of ISTE Indian Society for Technical Education at NITK.',
+    'executive member of DDFC Dance Dramatics and Fashion Club at NITK.',
+    'executive member of Open Open Source Enthusiastic Network at NITK.',
+    'executive member of Light and Sound Club at NITK.',
+    'executive member of Engineer 2008Publicity. Engineer is the annual technical festival of our college.',
+    'executive member of Incident 2008Publicity. Incident is the annual cultural festival of our college.'
+  ],
+  'Projects': [
+    {
+      'project_name': 'wireless sensor network',
+      'skills_used': [
+        'C++'
+      ]
+    },
+    {
+      'project_name': 'distributed system',
+      'skills_used': [
+        'C'
+      ]
+    },
+    {
+      'project_name': 'enterprise management system',
+      'skills_used': [
+        'C#',
+        'C++',
+        'Java'
+      ]
+    },
+    {
+      'project_name': 'document navigation system',
+      'skills_used': [
+        'Python 2.5'
+      ]
+    },
+    {
+      'project_name': 'code implementing algebraic criteria for the stability of tensegrity rod and cable structures',
+      'skills_used': [
+        'Python 2.5'
+      ]
+    },
+    {
+      'project_name': 'algebraic criteria for the stability of tensegrity rod and cable structures',
+      'skills_used': [
+        'Python 2.5'
+      ]
+    },
+    {
+      'project_name': 'Java applets',
+      'skills_used': [
+        'Java'
+      ]
+    },
+    {
+      'project_name': 'a simple paint like graphics editor',
+      'skills_used': [
+        'C'
+      ]
+    },
+    {
+      'project_name': '2 x 2',
+        'skills_used': [
+          'Java'
+        ]
+    }
+  ],
+  'Internships': [
+    {
+      'company': 'Not Found',
+      'year': 'Not Found',
+      'skills': [
+        'Not Found'
+      ]
+    }
+  ],
+  'References': [
+    {
+      'name': 'Prof. Tim Poston',
+      'designation': 'Assistant Professor, Department of Computer Engineering, National Institute of Technology Karnataka Surathkal'
+    },
+    {
+      'name': 'Prof. K. Chandrasekaran',
+      'designation': 'Assistant Professor, Department of Computer Engineering, National Institute of Technology Karnataka Surathkal'
+    }
+  ]
+}<|end_of_turn|>

@@ -1,0 +1,95 @@
+{
+    'Name': 'hariprasad hemanth kulkarni',
+    'DateOfBirth': '12 February 1989',
+    'Gender': 'male',
+    'Email': 'kulkarni.hariprasad@gmail.com',
+    'PhoneNumber': '08-0236-21320',
+    'Address': 'permanent address: b.tech details semester year s.g.p.a c.g.p.a pre degree 10+2th 10th details discipline institutio n university board year marks room no.d 118mega hostel block nitks hostels srinivasnagar mangalore 575025 h.no.787near venkateshwara templekote beedi sahakarnagar post at post kodigehalli bangalore 560092',
+    'Skills': {
+        'technical_skills': [
+            'finite automata for automatic teller machine as a mini project for the subject theory of computation',
+            'implemented game snake using c as a part of computer graphics lab',
+            'created a shell client which allowed a user to execute commands on a remote system by entering the commands on a local system as a part of the operating system mini project',
+            'developed a tourist guideindia website as a part of the database systems lab'
+        ],
+        'other_skills': [
+            'learning tabla under the guidance of my father sri.hemanth v. kulkarni',
+            'keen interest in various forms of music',
+            'keen interest in football',
+            'a member of spicmacaynitk chapter',
+            'participated in the internet awareness drive initiated by the computer science department in order to familiarize the local school children with the world of internet',
+            'an avid reader i have an interest in reading various forms of literature',
+            'i am a hard working and sincere person and enjoy learning new things and facing new challenges.i have the ability to implement concepts effectively.i am ready to learn new things and have the ability to work in a team and co ordinate with the team'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'yelahank abangal ore. xiith seshadri puram composit e pre universit y college',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '89.92'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'b.tech',
+                'institution': 'national institute of technology deemed university',
+                'year_or_duration': '2010',
+                'cgpa_or_percentage': '7.85'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'i am learning tabla under the guidance of my father sri.hemanth v. kulkarni',
+        'keen interest in various forms of music',
+        'keen interest in football',
+        'a member of spicmacaynitk chapter',
+        'participated in the internet awareness drive initiated by the computer science department in order to familiarize the local school children with the world of internet',
+        'an avid reader i have an interest in reading various forms of literature',
+        'i am a hard working and sincere person and enjoy learning new things and facing new challenges.i have the ability to implement concepts effectively.i am ready to learn new things and have the ability to work in a team and co ordinate with the team'
+    ],
+    'Projects': [
+        {
+            'project_name': 'finite automata for automatic teller machine as a mini project for the subject theory of computation',
+            'skills_used': [
+                'theory of computation'
+            ]
+        },
+        {
+            'project_name': 'implemented game snake using c as a part of computer graphics lab',
+            'skills_used': [
+                'c',
+                'computer graphics'
+            ]
+        },
+        {
+            'project_name': 'created a shell client which allowed a user to execute commands on a remote system by entering the commands on a local system as a part of the operating system mini project',
+            'skills_used': [
+                'operating system'
+            ]
+        },
+        {
+            'project_name': 'developed a tourist guideindia website as a part of the database systems lab',
+            'skills_used': [
+                'database systems'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'ness technologies pvt. ltd.',
+            'year': 'summer',
+            'skills': [
+                'sakkanan.packiaraj@ness.com'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'sandhya mandali',
+            'designation': 'senior manager development'
+        }
+    ]
+}<|end_of_turn|>

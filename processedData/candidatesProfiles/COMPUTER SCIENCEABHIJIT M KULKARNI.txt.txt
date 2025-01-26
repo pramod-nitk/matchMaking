@@ -1,0 +1,40 @@
+{
+  'Name': 'Abhijit M Kulkarni',
+  'DateOfBirth': 'September 8 1988',
+  'Gender': 'male',
+  'Email': ['mk.abhijit@gmail.com', 'pcm@sif.iisc.ernet.in'],
+  'PhoneNumber': ['080 23220713', '9-4807-08620', '0824 247400'],
+  'Address': '79 3rd cross near svk layout laxminagar basaveshwarnagar bangalore 560079',
+  'Skills': {
+    'technical_skills': ['customisation of dials and sliders using qt at iisc', 'rudimentary text editor using java at iisc', 'library database using vb and sql database systems', 'paint application algorithms as part of computer graphics project', 'worked on nctuns programs software engineering project'],
+    'other_skills': []
+  },
+  'Education': {
+    'pre_degree': [{'degree_name': '10+2th', 'institution': 'Kendriya Vidyalaya Rail Wheel Factory formerly Wheel and Axle Plant Yelahanka', 'year_or_duration': '2004', 'cgpa_or_percentage': '96.2'}],
+    'bachelors': [{'degree_name': 'B.Tech', 'institution': 'NITK Surathkal', 'year_or_duration': '2010', 'cgpa_or_percentage': '7.82'}],
+    'masters': []
+  },
+  'ExtraCurricularActivities': [
+    'sports: play cricket, table tennis and practice swimming',
+    'participated in programme for computer literacy in college',
+    'engineer got through initial rounds and competed in finals rounds of decathlon',
+    'misc. event and breakdown chemistry event',
+    'member of kannada vedike club at NITK',
+    'enjoy reading novels/magazines'
+  ],
+  'Projects': [
+    {'project_name': 'Customization of dials and sliders using Qt at IISc', 'skills_used': ['Qt']},
+    {'project_name': 'Rudimentary text editor using Java at IISc', 'skills_used': ['Java']},
+    {'project_name': 'Library database using VB and SQL database systems', 'skills_used': ['VB', 'SQL']},
+    {'project_name': 'Paint application algorithms as part of computer graphics project', 'skills_used': ['Paint']},
+    {'project_name': 'Worked on nctuns programs software engineering project', 'skills_used': ['nctuns']}
+  ],
+  'Internships': [
+    {'company': 'NMR Research Center Indian Institute of Science Bangalore', 'year': '2009', 'skills': ['Software Engineering']},
+    {'company': 'Prof P.C. Mathias', 'year': '2009', 'skills': ['NMR']}
+  ],
+  'References': [
+    {'name': 'Mr. K Vinay Kumar', 'designation': 'HOD Computer Engineering Department NITK Surathkal'},
+    {'name': 'Prof P.C. Mathias', 'designation': 'Associate Professor NMR Research Center Indian Institute of Science Bangalore'}
+  ]
+}<|end_of_turn|>

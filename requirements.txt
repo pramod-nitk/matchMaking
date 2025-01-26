@@ -1,0 +1,14 @@
+PyMuPDF==1.25.2
+PyPDF2==3.0.1
+resume-parser==0.8.4
+requests
+regex==2024.11.6
+sentence-transformers==3.4.0
+spacy==3.8.4
+transformers==4.48.1
+faiss-cpu
+tqdm
+PyYAML
+flake8
+black
+pylint

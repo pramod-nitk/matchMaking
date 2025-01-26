@@ -1,0 +1,153 @@
+{
+ 'Name': 'Denis Joseph',
+ 'DateOfBirth': 'March 21 1987',
+ 'Gender': 'Male',
+ 'Email': 'denisjoseph333@gmail.com',
+ 'PhoneNumber': '+91 824 2415085',
+ 'Address': 'Flat No 601 Regent Park Valencia Mangalore 575 002',
+ 'Skills': {
+  'technical_skills': [
+   'Computer Science',
+   'Java',
+   'VB.Net',
+   'PL/SQL',
+   'ASP.NET',
+   'SQL',
+   'SMTP',
+   'POP3',
+   'HTML',
+   'CSS',
+   'XML',
+   'Python',
+   'C++',
+   'C',
+   'Oracle',
+   'MySQL',
+   'MS Office',
+   'Linux',
+   'Unix',
+   'Networks',
+   'Database',
+   'E-commerce',
+   'Web Design',
+   'Web Development',
+   'Project Management'
+  ],
+  'other_skills': [
+   'Team Player',
+   'Adaptability',
+   'Leadership',
+   'Problem Solving',
+   'Communication',
+   'Creativity',
+   'Adventure',
+   'Self-Motivated',
+   'Fast Learner',
+   'Critical Thinking',
+   'Analytical Thinking',
+   'Responsibility',
+   'Passionate',
+   'Sincerity',
+   'Time Management',
+   'Flexibility',
+   'Decision Making',
+   'Team Work',
+   'Planning',
+   'Initiative',
+   'Goal Oriented',
+   'Strategic Thinking',
+   'Honesty',
+   'Humility',
+   'Empathy',
+   'Integrity',
+   'Active Listening',
+   'Professionalism'
+  ]
+ },
+ 'Education': {
+  'pre_degree': [
+   {
+    'degree_name': '10th',
+    'institution': 'Xth Sharada Vidyalaya Mangalore',
+    'year_or_duration': '2003',
+    'cgpa_or_percentage': '87'
+   },
+   {
+    'degree_name': 'XIth',
+    'institution': 'Canara Pre University College Mangalore',
+    'year_or_duration': '2005',
+    'cgpa_or_percentage': '90.5'
+   }
+  ],
+  'bachelors': [
+   {
+    'degree_name': 'B.Tech',
+    'institution': 'NITK Surathkal',
+    'year_or_duration': '2010',
+    'cgpa_or_percentage': '7.92'
+   }
+  ],
+  'masters': []
+ },
+ 'ExtraCurricularActivities': [
+  'Football',
+  'Hiking',
+  'Trekking',
+  'Adventure',
+  'Sports',
+  'Reading'
+ ],
+ 'Projects': [
+  {
+   'project_name': 'E-Transac',
+   'skills_used': [
+    'Web Development',
+    'HTML',
+    'CSS',
+    'Java',
+    'VB.NET',
+    'Database',
+    'SMTP',
+    'POP3',
+    'Networks'
+   ]
+  },
+  {
+   'project_name': 'SMTP and POP3',
+   'skills_used': [
+    'Networks',
+    'SMTP',
+    'POP3'
+   ]
+  }
+ ],
+ 'Internships': [
+  {
+   'company': 'Oracle Financial Services formerly iflexxolutions Bangalore',
+   'year': '2008 and 2009',
+   'skills': [
+    'Database',
+    'Oracle',
+    'SQL',
+    'VB.NET',
+    'ASP.NET',
+    'C++',
+    'C',
+    'Python',
+    'PL/SQL',
+    'Networks',
+    'Java',
+    'E-commerce',
+    'Web Development',
+    'Web Design',
+    'Project Management'
+   ]
+  }
+ ],
+ 'References': [
+  {
+   'name': 'Dr. Vinay Kumar',
+   'designation': 'HOD Computer Engineering Department NITK Sir Sudhir Babu Project Manager Oracle Financial Services Bangalore'
+  }
+ ]
+}<|end_of_turn|>

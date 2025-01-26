@@ -1,0 +1,112 @@
+{
+    'Name': 'tejinder singh',
+    'DateOfBirth': 'may 18 1987',
+    'Gender': 'male',
+    'Email': 'singhtejinder.nitk@gmail.com',
+    'PhoneNumber': '01-6422-21590',
+    'Address': 'house no. 19427 bibi wala road gali no. 2 bathinda punjab. pin 151001',
+    'Skills': {
+        'technical_skills': [
+            'rubiks cube',
+            'team management',
+            'web development',
+            'database management',
+            'graphics editor',
+            'c',
+            'visual basic'
+        ],
+        'other_skills': [
+            'dance',
+            'dramatics',
+            'fashion',
+            'quizzes',
+            'badminton',
+            'rubiks cube',
+            'team management',
+            'lead',
+            'enthusiastic',
+            'adaptable',
+            'optimistic',
+            'hard working',
+            'english',
+            'hindi',
+            'punjabi'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {'degree_name': '', 'institution': '', 'year_or_duration': '', 'cgpa_or_percentage': ''}
+        ],
+        'bachelors': [
+            {'degree_name': 'b.tech', 'institution': 'national institute of technology karnataka surathkal', 'year_or_duration': '', 'cgpa_or_percentage': '7.38'}
+        ],
+        'masters': [
+            {'degree_name': '', 'institution': '', 'year_or_duration': '', 'cgpa_or_percentage': ''}
+        ]
+    },
+    'ExtraCurricularActivities': [
+        'won the third prize in group dance competition during inter college fest incident 09.',
+        'coordinator of ddfc dance dramatics and fashion club the only cultural club in nitk.',
+        'executive member of national service scheme nss.',
+        'executive member of professional and academic counsel pace.',
+        'executive member in organizing incident 2008 2009 the cultural festival of our college.',
+        'participated in various college level competitions in various fields including dramatics quizzes fashion dance etc.',
+        'won many bhangra competitions at inter school and inter college level.',
+        'won the third prize in badminton during intra college fest phoenix 08.',
+        'ability to solve rubiks cube in 152 seconds.',
+        'ability to lead and manage a team.',
+        'optimistic approach in all situations.',
+        'hard working enthusiastic.',
+        'adaptable to different conditions.',
+        'seek to excel in the task at hand.'
+    ],
+    'Projects': [
+        {
+            'project_name': 'www.planurshadi.com',
+            'skills_used': [
+                'web development',
+                'database management',
+                'c',
+                'html',
+                'css',
+                'java',
+                'sql',
+                'jsp',
+                'javascript'
+            ]
+        },
+        {
+            'project_name': 'automated driving license with visual basic as front end and oracle 10g express edition as back end with a user friendly interface',
+            'skills_used': [
+                'visual basic',
+                'oracle 10g express edition'
+            ]
+        },
+        {
+            'project_name': 'mini relational database management system',
+            'skills_used': [
+                'mysql'
+            ]
+        },
+        {
+            'project_name': 'graphics editor in c in ivth semester',
+            'skills_used': [
+                'c',
+                'graphics',
+                'pattern generation',
+                'clipping transformations rotations scaling'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': '',
+            'year': '',
+            'skills': []
+        }
+    ],
+    'References': [
+        {'name': 'mrs. geetha', 'designation': 'lecturer department of information technology nitk surathkal mangalore'},
+        {'name': 'dr. ananthanarayana v s', 'designation': 'hod department of information technology nitk surathkal mangalore'}
+    ]
+}<|end_of_turn|>

@@ -1,0 +1,60 @@
+{
+  'Name': 'anand mathivanan',
+  'DateOfBirth': 'june 2 1988',
+  'Gender': 'male',
+  'Email': 'manand51@gmail.com',
+  'PhoneNumber': '9-8207-04328',
+  'Address': 'a 501teakwoodvasant gardens mulundwmumbai 900080',
+  'Skills': {
+    'technical_skills': [
+      'information technology'
+    ],
+    'other_skills': [
+      'vice sports captain', 'captain of volleyball and athletics team', 'executive member of the gaming committee'
+    ]
+  },
+  'Education': {
+    'pre_degree': [
+      {'degree_name': '10+2th', 'institution': 'xth dps kuwait cbse', 'year_or_duration': '2004', 'cgpa_or_percentage': '82.6'}
+    ],
+    'bachelors': [
+      {
+        'degree_name': 'b.tech',
+        'institution': 'national institute of technology karnataka surathkal p.o',
+        'year_or_duration': '2009 10',
+        'cgpa_or_percentage': '6'
+      }
+    ],
+    'masters': []
+  },
+  'ExtraCurricularActivities': [
+    'about myself',
+    'co curricular activities',
+    'reference 1',
+    'reference 2'
+  ],
+  'Projects': [
+    {'project_name': '', 'skills_used': []}
+  ],
+  'Internships': [
+    {
+      'company': 'honeywell',
+      'year': '2004',
+      'skills': ['information technology']
+    },
+    {
+      'company': 'axis solutions',
+      'year': '2006',
+      'skills': []
+    },
+    {
+      'company': 'knpc headquarters',
+      'year': '2008',
+      'skills': []
+    }
+  ],
+  'References': [
+    {'name': 'mr.ananthanarayana', 'designation': 'hod it dept nitksurathkal'},
+    {'name': 'mrs.geetha', 'designation': 'assistant lecturerit dept nitksurathkal'}
+  ]
+}<|end_of_turn|>

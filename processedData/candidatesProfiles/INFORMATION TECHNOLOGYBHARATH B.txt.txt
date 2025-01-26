@@ -1,0 +1,76 @@
+{
+    'Name': 'Bharath B',
+    'DateOfBirth': 'June 2 1988',
+    'Gender': 'Male',
+    'Email': 'bharath.boregowda@gmail.com',
+    'PhoneNumber': ['080 23394288', '+919-9004-06385'],
+    'Address': '154 9th main bcc layout ii stage vijayanagar',
+    'Skills': {
+        'technical_skills': ['AVR Atmel Microcontrollers', 'C++', 'CUDA', 'Java', 'Python'],
+        'other_skills': ['Hardworking', 'Intuitive', 'Diligent', 'Focused', 'Experimenting', 'Exploring', 'Initiative']
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': 'X',
+                'institution': 'Carmel High School',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '90.14'
+            },
+            {
+                'degree_name': 'XI',
+                'institution': 'St. Joseph',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '87.4'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '8.2'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'Member of IEEE Students Chapter at NITK',
+        'Member of Social Service Club Genesis for the past 2 years',
+        'Build Autonomous Robots using AVR Atmel Microcontrollers'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Digital Anatomist',
+            'skills_used': ['AVR Atmel Microcontrollers', 'C++', 'CUDA', 'Java', 'Python']
+        },
+        {
+            'project_name': 'Implementation of STAP Algorithms for Radar Signal Processing using CUDA Architecture',
+            'skills_used': ['CUDA', 'C++', 'Physics']
+        },
+        {
+            'project_name': 'Database Application for HAL Medical Health Division',
+            'skills_used': ['C++', 'Python']
+        },
+        {
+            'project_name': 'NMR Research Center IISc on Nvidia CUDA',
+            'skills_used': ['CUDA']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'National Institute of Technology Karnataka Surathkal',
+            'year': '2008',
+            'skills': ['Java', 'Python']
+        },
+        {
+            'company': 'HAL Medical Health Division',
+            'year': '2008',
+            'skills': ['Java', 'Python']
+        }
+    ],
+    'References': [
+        {'name': '', 'designation': ''},
+        {'name': '', 'designation': ''}
+    ]
+}<|end_of_turn|>

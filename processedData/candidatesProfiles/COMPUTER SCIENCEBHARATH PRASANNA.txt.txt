@@ -1,0 +1,36 @@
+{
+    'Name': 'bharath prasanna',
+    'DateOfBirth': 'may 2 1989',
+    'Gender': 'male',
+    'Email': 'bharath2589@gmail.com',
+    'PhoneNumber': '080 41260724',
+    'Address': '560076',
+    'Skills': {
+        'technical_skills': ['java', 'jsp', 'c++', 'c#', 'database management', 'data structures', 'computer networks', 'web based applications'],
+        'other_skills': ['football', 'cricket', 'basketball', 'puzzles', 'crosswords']
+    },
+    'Education': {
+        'pre_degree': [
+            {'degree_name': '10th', 'institution': 'national public schoolrajajinagar', 'year_or_duration': '2004', 'cgpa_or_percentage': '91.4'},
+            {'degree_name': 'xiith', 'institution': 'national public schoolrajajinagar', 'year_or_duration': '2006', 'cgpa_or_percentage': '90.6'}
+        ],
+        'bachelors': [
+            {'degree_name': 'b.tech', 'institution': 'national institute of technology karnataka surathkal', 'year_or_duration': '2009', 'cgpa_or_percentage': '7.09'}
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': ['about myself', 'co curricular activities', 'participation in quizzes and literary events', 'organised and participated in technical events as part of ieee', 'technical areas of interest', 'other interests', 'i enjoy playing football,cricket and basketball', 'solving puzzles and crosswords'],
+    'Projects': [
+        {'project_name': 'developed an asset management system', 'skills_used': ['jsp', 'c#', 'database management', 'web based applications']},
+        {'project_name': 'minimization of the leeching problem in bittorrent protocol', 'skills_used': ['c++']},
+        {'project_name': 'implementation of the rsa encryption algorithm', 'skills_used': ['java']}
+    ],
+    'Internships': [
+        {'company': 'dynpro india pvt. ltd.', 'year': 'may 2009', 'skills': ['web based applications']},
+        {'company': 'july 2009', 'year': 'july 2009', 'skills': ['c#', 'database management', 'data structures', 'computer networks']}
+    ],
+    'References': [
+        {'name': 'mr. k vinay kumar', 'designation': 'asst professor department of computer engineering nitk surathkal'},
+        {'name': 'dr. t g basavaraju', 'designation': 'asst professor department of computer engineering nitk surathkal'}
+    ]
+}<|end_of_turn|>

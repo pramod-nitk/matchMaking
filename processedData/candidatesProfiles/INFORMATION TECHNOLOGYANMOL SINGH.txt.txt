@@ -1,0 +1,99 @@
+{
+    'Name': 'Anmol Singh',
+    'DateOfBirth': 'July 17, 1988',
+    'Gender': 'male',
+    'Email': 'anmol1788@gmail.com',
+    'PhoneNumber': ['+919-6784-71371', '+919-9864-03629'],
+    'Address': 'mangalore 575025',
+    'Skills': {
+        'technical_skills': [
+            'information technology',
+            'cgpa',
+            's.g.p.a',
+            'pre degree',
+            '10+2th',
+            '10th',
+            'xth st.edmunds i.c.s.e',
+            'xiith st.edmund m.b.o.s.e',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found'
+        ],
+        'other_skills': [
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found',
+            'Not Found'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'Not Found',
+                'year_or_duration': 'Not Found',
+                'cgpa_or_percentage': '80'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': 'Not Found',
+                'cgpa_or_percentage': '7.63'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        '1.executive member of indian society for technical education iste nitk chapter',
+        '2.executive member of national service scheme nss',
+        '3.executive member of engineer09annual techfest at nitk',
+        '4.core member of light and sound clubnitk',
+        '5.member of helpage india',
+        '6.recipient of the north east council nec scholarship till date during engineering',
+        '7.was a volunteer at the school for the physically challenged shillong during march april 04'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Not Found',
+            'skills_used': []
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Not Found',
+            'year': 'Not Found',
+            'skills': []
+        },
+        {
+            'company': 'Not Found',
+            'year': 'Not Found',
+            'skills': []
+        }
+    ],
+    'References': [
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        },
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        }
+    ]
+}<|end_of_turn|>

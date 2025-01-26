@@ -1,0 +1,105 @@
+{
+    'Name': 'Joel Praveen DSilva',
+    'DateOfBirth': 'September 22, 1988',
+    'Gender': 'Male',
+    'Email': 'joelrules22@gmail.com',
+    'PhoneNumber': '0824 231118',
+    'Address': 'b.tech room no a010 mega hostel block nitk hostels srinivasanagar surathkal 575025',
+    'Skills': {
+        'technical_skills': [
+            'jooming',
+            'document navigation system based on content based zooming',
+            '5th sem2008 online movie database website',
+            '6th sem2009 encryption software merging of rc5 with aes',
+            'implementation of the mentioned research work in merging rc5 with aes',
+            'extraction of data from an excel sheet using oracle forms',
+            'excel sheet can also be storedsaved as an xml page',
+            'using oracle parsers a code was built to extract the cell data of these xml pages so that it could be updated into the database thereby reducing the overhead of retyping the data into database'
+        ],
+        'other_skills': [
+            'active member of the nitk films club',
+            'executive member of incident 07 and incident 08 the cultural fest of nitk',
+            'interested in share marketing',
+            'participated in the mock stock event during incident',
+            'delivered seminar in the childrens carnival in the year 2008',
+            'participated in world year of physics 2005',
+            'contributed to helpage india and indian leprosy foundationilef',
+            'was the chief co-ordinator of crrescendo 09 the inter year fest',
+            'good team player',
+            'quick at finding the various dimensions with which a problem can be safely handled with less damage to the ongoing progress',
+            'can handle tough situations and can make decisions by considering all the possible alternatives for a problem and choose the best one with less risk factor and maximum output',
+            'stay by my decisions',
+            'dedicated and determined to the work assigned',
+            'can grasp new concepts and learn new subjects at the earliest'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10+2th',
+                'institution': 'Infant Jesus School Modankap',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '91.52'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '6.7'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'active member of the nitk films club',
+        'executive member of incident 07 and incident 08 the cultural fest of nitk',
+        'interested in share marketing',
+        'participated in the mock stock event during incident',
+        'delivered seminar in the childrens carnival in the year 2008',
+        'participated in world year of physics 2005',
+        'contributed to helpage india and indian leprosy foundationilef',
+        'was the chief co-ordinator of crrescendo 09 the inter year fest',
+        'good team player',
+        'quick at finding the various dimensions with which a problem can be safely handled with less damage to the ongoing progress',
+        'can handle tough situations and can make decisions by considering all the possible alternatives for a problem and choose the best one with less risk factor and maximum output',
+        'stay by my decisions',
+        'dedicated and determined to the work assigned',
+        'can grasp new concepts and learn new subjects at the earliest'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Jooming',
+            'skills_used': [
+                'document navigation system based on content based zooming',
+                'each word of any given sentence is given some weightage according to perimeters like part of speech to which the particular word belongs frequency of words in the text and many other factors',
+                '5th sem2008 online movie database website',
+                '6th sem2009 encryption software merging of rc5 with aes',
+                'implementation of the mentioned research work in merging rc5 with aes',
+                'june july2009 summer internship in maritime industrial services dubai'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Maritime Industrial Services',
+            'year': 'june july2009',
+            'skills': [
+                'extraction of data from an excel sheet using oracle forms',
+                'excel sheet can also be storedsaved as an xml page',
+                'using oracle parsers a code was built to extract the cell data of these xml pages so that it could be updated into the database thereby reducing the overhead of retyping the data into database'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Mrs. Saumya Hegde',
+            'designation': 'Dept. of Computer Engg. NITK'
+        },
+        {
+            'name': 'Prof. Tim Poston',
+            'designation': 'NAS National Institute for Advanced Studies IISC Campus Bangalore'
+        }
+    ]
+}<|end_of_turn|>

@@ -1,0 +1,21 @@
+{
+    'Name': 'Anand D Kelaginamani',
+    'DateOfBirth': 'May 1, 1988',
+    'Gender': 'Male',
+    'Email': 'anand2space@gmail.com',
+    'PhoneNumber': '08-3623-37635',
+    'Address': 'Renuka Nagar Gokul Road Hubli 120 Renuka Nagar Gokul Road Hubli',
+    'Skills': {
+        'technical_skills': ['C Java', 'JavaScript', 'Java Swing', 'Servlets', 'HTML', 'Ajax', 'PHP', 'SQL', 'CSS', 'Lex and Yacc', 'Programming', 'Operating Systems', 'Database Systems', 'Computer Networks', 'Distributed Computing Systems', 'Software Engineering', 'Unix', 'Compilers'],
+        'other_skills': ['Writing', 'Drawing', 'Composing Music', 'Chess', 'Carom', 'Cricket', 'Graphics Editor', 'GUI Software for Painting']
+    },
+    'Education': {
+        'pre_degree': [{'degree_name': 'Xth Kendriya Vidyalaya CBSE', 'institution': 'Not Found', 'year_or_duration': '2004', 'cgpa_or_percentage': '95.6'}],
+        'bachelors': [{'degree_name': 'B.Tech', 'institution': 'NITK', 'year_or_duration': '2010', 'cgpa_or_percentage': '7.10'}],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [{'activity': 'Executive Member of Management Forum', 'description': 'Marketing and Publicity Executive Member in the team organizing Cultural Fest Incident 2010.'}, {'activity': 'Debates and Extempore Speeches in School', 'description': 'Active participation in Debates and Extempore Speeches in School.'}],
+    'Projects': [{'project_name': 'Location Based Marketing Website', 'skills_used': ['Java Servlets', 'HTML', 'JavaScript', 'SQL', 'SMTP Protocol', 'SMPP Protocol']}],
+    'Internships': [{'company': 'Wyse Technologies', 'year': 'May 2009', 'skills': ['Java', 'PHP', 'MySQL', 'Apache', 'Ajax', 'HTML', 'CSS']}],
+    'References': [{'name': 'Mr Hemant Kumar', 'designation': 'SQA Manager'}, {'name': 'Mr Dinesh Premchandran', 'designation': 'Program Manager'}]
+}<|end_of_turn|>

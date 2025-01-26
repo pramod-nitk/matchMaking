@@ -1,0 +1,94 @@
+{
+  'Name': 'Johnson J Thomas',
+  'DateOfBirth': 'April 29 1988',
+  'Gender': 'male',
+  'Email': 'johnsonjthomas@gmail.com',
+  'PhoneNumber': '+14-1690-15102, 9-8804-63014',
+  'Address': 'National Institute of Technology Karnataka Surathkal P.O. Srinivasnagar Mangalore 575025',
+  'Skills': {
+    'technical_skills': [
+      'embedded software on ARM platform',
+      'visualization tool kit vtk opengl programming and implementation of serial communication in visual studio of nuclear magnetic resonancenmr spectroscopy',
+      'develop an application to facilitate easy issue of medical identity card to both employees of the company as well as to temporary staff',
+      'develop a graphical interface similar to Microsoft Paint',
+      'develop a mini relational database system min rel which could perform basic database operations',
+      'develop a website similar to Wikipedia'
+    ],
+    'other_skills': [
+      'Electrical and Electronics EngineersIEEE',
+      'Genesissocial Services',
+      'Computer Events Committee',
+      'Light Sound Club',
+      'Quick learner and can grasp new concepts very quickly',
+      'Sincere, hardworking, amicable, quickly adapting to new environments'
+    ]
+  },
+  'Education': {
+    'pre_degree': [
+      {
+        'degree_name': '10th',
+        'institution': 'Bishop Cotton Boys School',
+        'year_or_duration': '2004',
+        'cgpa_or_percentage': '89.3'
+      },
+      {
+        'degree_name': 'XIth',
+        'institution': 'St. Joseph Pre University College',
+        'year_or_duration': '2006',
+        'cgpa_or_percentage': '87'
+      }
+    ],
+    'bachelors': {
+      'degree_name': 'B.Tech',
+      'institution': 'National Institute of Technology Karnataka Surathkal',
+      'year_or_duration': '2009',
+      'cgpa_or_percentage': '8.78'
+    }
+  },
+  'ExtraCurricularActivities': [
+    'Member of Electrical and Electronics EngineersIEEE',
+    'Member of Genesissocial Services',
+    'Executive Member of Computer Events Committee at Engineer2009',
+    'Member of Light Sound Club',
+    'Participated in Automata at Engineer2009'
+  ],
+  'Projects': [
+    {
+      'project_name': 'Instrumentation of embedded software on ARM platform',
+      'skills_used': ['embedded software on ARM platform']
+    },
+    {
+      'project_name': 'A study of visualization tool kitvtk opengl programming and implementation of serial communication in visual studio of nuclear magnetic resonancenmr',
+      'skills_used': ['visualization tool kitvtk opengl programming and implementation of serial communication in visual studio of nuclear magnetic resonancenmr']
+    },
+    {
+      'project_name': 'Develop an application to facilitate easy issue of medical identity card to both employees of the company as well as to temporary staff',
+      'skills_used': ['visual studio as front end and Oracle 9i as back end']
+    },
+    {
+      'project_name': 'Develop a graphical interface similar to Microsoft Paint',
+      'skills_used': ['basic paint operations along with animation effects']
+    },
+    {
+      'project_name': 'Develop a mini relational database system min rel which could perform basic database operations',
+      'skills_used': ['basic database operations']
+    },
+    {
+      'project_name': 'Develop a website similar to Wikipedia',
+      'skills_used': ['basic wiki operations']
+    }
+  ],
+  'Internships': [
+    {
+      'company': 'Aircraft Division Hindustan Aeronautics Ltd (HAL)',
+      'year': 'Not Found',
+      'skills': ['develop an application to facilitate easy issue of medical identity card to both employees of the company as well as to temporary staff', 'visual studio as front end and Oracle 9i as back end', 'basic paint operations along with animation effects', 'basic database operations', 'basic wiki operations']
+    }
+  ],
+  'References': [
+    {
+      'name': 'Not Found',
+      'designation': 'Not Found'
+    }
+  ]
+}<|end_of_turn|>

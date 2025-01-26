@@ -1,0 +1,137 @@
+{
+ 'Name': 'Srikanth Raju',
+ 'DateOfBirth': 'August 11, 1988',
+ 'Gender': 'Male',
+ 'Email': 'srikiraju@gmail.com',
+ 'PhoneNumber': '+91-80-23380771',
+ 'Address': 'Permanent Address: national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025',
+ 'Skills': {
+   'technical_skills': [
+     'Developer',
+     'Software Developer',
+     'Programmer',
+     'SaaS',
+     'Web Calendar',
+     'SaaS Online Web Calendar for Dentists',
+     'Open Source Project',
+     'VLC Media Player',
+     'Bugfixes',
+     'Maintaining Modules',
+     'Medical Records Application',
+     'Medical Calendaring Application',
+     'Turbodoc',
+     'Design of the Product',
+     'Backend',
+     'Media Library',
+     'Organise Media on a System for VLC Media Player',
+     'Media Player'
+   ],
+   'other_skills': [
+     'Guitar',
+     'Tennis',
+     'Swimming',
+     'Self Motivated',
+     'Smart',
+     'Good Communicator',
+     'Fast Learner',
+     'Ability to Adjust and Work Under Pressure',
+     'Constant Changing Plans',
+     'Startup Experience',
+     'Planning',
+     'Management',
+     'Developing',
+     'Marketing',
+     'Music',
+     'Music Club in NITK',
+     'Executive Student Member IEEE NITK Student Chapter',
+     'Planning and Executing Numerous Activities, Workshops, and Contests',
+     'Inter College Technical Fest Engineer',
+     'Intra College Activities',
+     'Various Technical Clubs'
+   ]
+ },
+ 'Education': {
+   'pre_degree': [],
+   'bachelors': [
+     {
+       'degree_name': 'B.Tech',
+       'institution': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore',
+       'year_or_duration': '2006',
+       'cgpa_or_percentage': '7.92'
+     }
+   ],
+   'masters': []
+ },
+ 'ExtraCurricularActivities': [
+   'About Myself',
+   'Co Curricular Activities',
+   'Reference 1',
+   'Reference 2',
+   'Developer at self started company naabo solutions',
+   'Executive Student Member IEEE NITK Student Chapter',
+   'Guitar',
+   'Tennis',
+   'Swim',
+   'Music Club in NITK'
+ ],
+ 'Projects': [
+   {
+     'project_name': 'SaaS Based Web Portal System for Doctors',
+     'skills_used': [
+       'Developer',
+       'Software Developer',
+       'Programmer',
+       'SaaS',
+       'Web Calendar',
+       'SaaS Online Web Calendar for Dentists',
+       'Open Source Project',
+       'VLC Media Player',
+       'Bugfixes',
+       'Maintaining Modules',
+       'Medical Records Application',
+       'Medical Calendaring Application',
+       'Design of the Product',
+       'Backend',
+       'Media Library',
+       'Organise Media on a System for VLC Media Player',
+       'Media Player'
+     ]
+   }
+ ],
+ 'Internships': [
+   {
+     'company': 'naabo solutions',
+     'year': 'Summer 2008',
+     'skills': [
+       'Developer',
+       'SaaS Based Web Portal System for Doctors',
+       'Design of the Product',
+       'Backend',
+       'Media Library',
+       'Organise Media on a System for VLC Media Player',
+       'Media Player'
+     ]
+   },
+   {
+     'company': 'Google',
+     'year': 'Summer 2009',
+     'skills': [
+       'Summer of Code 2009',
+       'Backend',
+       'Media Library',
+       'Organise Media on a System for VLC Media Player',
+       'Media Player'
+     ]
+   }
+ ],
+ 'References': [
+   {
+     'name': 'Dr. Ananthanarayana V S',
+     'designation': 'HOD IT Department, NITK'
+   },
+   {
+     'name': 'Dr. Prakash Raghavendra',
+     'designation': 'Assistant Professor IT Department, NITK'
+   }
+ ]
+}<|end_of_turn|>

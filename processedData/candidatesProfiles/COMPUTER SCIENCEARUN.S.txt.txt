@@ -1,0 +1,21 @@
+{
+    'Name': 'arun.s',
+    'DateOfBirth': 'september 2 1988',
+    'Gender': 'male',
+    'Email': 'arunavsmys@gmail.com',
+    'PhoneNumber': '9-9861-14912',
+    'Address': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025',
+    'Skills': {
+        'technical_skills': ['computer science'],
+        'other_skills': ['Not Found']
+    },
+    'Education': {
+        'pre_degree': [{'degree_name': '10+2th', 'institution': 'xth c.f.t..r.i mysore karnataka state', 'year_or_duration': '2004', 'cgpa_or_percentage': '94.4'}],
+        'bachelors': [{'degree_name': 'b.tech', 'institution': 'national institute of technology karnataka surathkal', 'year_or_duration': '2009', 'cgpa_or_percentage': '5.92'}],
+        'masters': [{'degree_name': 'Not Found', 'institution': 'Not Found', 'year_or_duration': 'Not Found', 'cgpa_or_percentage': 'Not Found'}]
+    },
+    'ExtraCurricularActivities': [{'activity': 'Not Found'}],
+    'Projects': [{'project_name': '1computer graphics project implementation of m.s.paint.', 'skills_used': ['technical_skills']}, {'project_name': '2database management project railway reservation system.', 'skills_used': ['technical_skills']}, {'project_name': '3a project on implementation of smtp pop3 protocols.', 'skills_used': ['technical_skills']}, {'project_name': '4a project in itc company regarding tobacco crop estimation farmers database.', 'skills_used': ['Not Found']}],
+    'Internships': [{'company': 'Not Found', 'year': 'Not Found', 'skills': ['Not Found']}],
+    'References': [{'name': 'mr mahendra pratap singh', 'designation': 'lecturer computer department nitk surathkal'}, {'name': 'dr. t.g.basavraju', 'designation': 'asst.professor computer dapartment nitk surathkal'}]
+}<|end_of_turn|>

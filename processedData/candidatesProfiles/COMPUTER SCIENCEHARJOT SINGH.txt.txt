@@ -1,0 +1,24 @@
+{
+    'Name': 'harjot singh',
+    'DateOfBirth': 'january 19 1988',
+    'Gender': 'male',
+    'Email': 'harjotnitk@gmail.com',
+    'PhoneNumber': '9-0084-17406',
+    'Address': 'permanent address: b.tech details semester year s.g.p.a c.g.p.a pre degree 10+2th 10th details discipline institution university board year marks harjot singh b.tech room no. nitk hostels post office srinivasnagar nitk surathkal karnataka pin 575025 231 bnew aggar nagar ferozpur road ludhiana punjab pin 141012',
+    'Skills': {
+        'technical_skills': ['c', 'java', 'oracle sql', 'c programming', 'c++ programming', 'network management', 'ethical hacking', 'computer graphics editor', 'indian railway reservation system'],
+        'other_skills': ['cricket', 'athletics', 'dancing', 'drama', 'fashion', 'nss']
+    },
+    'Education': {
+        'pre_degree': [{'degree_name': '10th', 'institution': '', 'year_or_duration': '', 'cgpa_or_percentage': '88.2'}],
+        'bachelors': [{'degree_name': 'B.tech', 'institution': 'national institute of technology karnataka surathkal', 'year_or_duration': '2009 10', 'cgpa_or_percentage': '0 present'}],
+        'masters': []
+    },
+    'ExtraCurricularActivities': ['national level cricket player', 'district level athlete', 'dancer', 'executive member ddfc dance drama and fashion club', 'nss'],
+    'Projects': [{'project_name': 'computer graphics editor', 'skills_used': ['c']}, {'project_name': 'prototype of theindian railway reservation system', 'skills_used': ['java']}],
+    'Internships': [{'company': '', 'year': '', 'skills': []}],
+    'References': [{'name': '1i am national level cricket player and played for punjab.at present i am captain of my college cricket team.', 'designation': 'Not Found'}, {'name': '2i am a district level athlete and have won many certificates in 200 m400 m1500 mslow cyclinghammer throwdisc throw.', 'designation': 'Not Found'}, {'name': '3i am also a good dancer and at present i am captain of my college bhangra team.', 'designation': 'Not Found'}, {'name': '4i am an executive member ddfcdance drama and fashion club.', 'designation': 'Not Found'}, {'name': '5an active member of nssnational service scheme an active club that is concerned with the welfare of the society.', 'designation': 'Not Found'}, {'name': '6participated in the international coastal clean upday organised at surathkal beach. i am an honest and hardworking person who believes work is worship and considers success as a journey and not a destination.the principle of my life is do what ever you feel like but just take care that nobody gets hurt.i have the ability to grasp concept quickly and apply them effectively.i love to improve myself in each and every stage of my life.team work is what i believe in and can adapt to different systems quickly.i long to seek a work place where i face challenges and utilize my competenceskills and knowledge to achieve goals of the organization.', 'designation': 'Not Found'}]
+}
+ 
+
+<|end_of_turn|>

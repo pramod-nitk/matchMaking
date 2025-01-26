@@ -1,0 +1,88 @@
+{
+    'Name': 'Abhishek K',
+    'DateOfBirth': 'August 9, 1988',
+    'Gender': 'Male',
+    'Email': 'abhishek.kona@gmail.com',
+    'PhoneNumber': '+919-9168-09388',
+    'Address': '575025 Placements, 2009 10 B.Tech Branch Computer Science, abhishek k gender male reg. no. 06co05',
+    'Skills': {
+        'technical_skills': [
+            'developing a system for teaching mathematical concepts',
+            'web based widgets',
+            'real life deployment of a mesh network',
+            'working on developing a prototype editor for writing mathematical documents'
+        ],
+        'other_skills': [
+            'active member of eforea a forum for budding entrepreneurs',
+            'interested in web designing',
+            'worked on a real life deployment of a mesh network called des mesh http des mesh.net',
+            'worked on a project to analyse tcp behaviour under wireless mesh networks'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': 'Xth',
+                'institution': 'Xth Manasarovar Pushkarini Vidyashrama Mysore',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '93.6'
+            },
+            {
+                'degree_name': 'XIth',
+                'institution': 'Sadvidya Pre University College Karnataka',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '89.6'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009 10',
+                'cgpa_or_percentage': '7.92'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'Active member of eforea a forum for budding entrepreneurs',
+        'Interested in web designing and have developed the website for nitk ieee',
+        'Joint convenor of nitk IEEE Student Chapter',
+        'Public relations coordinator for Engineer the annual technical festival of nitk',
+        'Responsibilities include corporate relation maintenance, branding and marketing of the festival'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Project under Prof Tim Poston May July 2008 at National Institute of Advanced Sciences',
+            'skills_used': [
+                'Developing a system for teaching mathematical concepts',
+                'Developed a prototype editor for writing mathematical documents'
+            ]
+        },
+        {
+            'project_name': 'Worked at Lord of Odds a Pune based startup dealing with prediction markets November 2008',
+            'skills_used': [
+                'Developed web based widgets for the company'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Lord of Odds',
+            'year': 'November 2008',
+            'skills': [
+                'Developed web based widgets for the company'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Prof Timothy Poston',
+            'designation': 'Professor Mathematical Modelling Unit http://www.linkedin.com/in/timposton National Institute of Advanced Studies Bangalore'
+        },
+        {
+            'name': 'Prof Jochen H Schiller',
+            'designation': 'Head Computer Systems and Telematics and Vice President Freie University Berlin Germany http://cst.mi.fu-berlin.de/staff/schiller.htm'
+        }
+    ]
+}<|end_of_turn|>

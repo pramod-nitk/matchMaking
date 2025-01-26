@@ -1,0 +1,58 @@
+{
+    'Name': 'Arjun S Thampan',
+    'DateOfBirth': 'February 20, 1988',
+    'Gender': 'male',
+    'Email': 'arjunthampan@gmail.com',
+    'PhoneNumber': '08-0232-26268, 9-9004-08499',
+    'Address': 'permanent address',
+    'Skills': {
+        'technical_skills': ['information technology', 'managerial accounting and financial control', 'mini relational database system', 'computer graphics'],
+        'other_skills': ['treasurer', 'enthusiastic core member of ieee student branch of nitk.','member of the school football team', 'interact club rotary internationals service club at school.']
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10+2th',
+                'institution': 'Xth Presidency School',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '90.16'
+            },
+            {
+                'degree_name': 'XIth',
+                'institution': 'National Public School',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '91 supplementary'
+            }
+        ],
+        'bachelors': {
+            'degree_name': 'B.Tech',
+            'institution': 'National Institute of Technology Karnataka Surathkal P.O',
+            'year_or_duration': '2009',
+            'cgpa_or_percentage': '8.64'
+        }
+    },
+    'ExtraCurricularActivities': ['about myself', 'co curricular activities'],
+    'Projects': [
+        {
+            'project_name': 'Computer Graphics',
+            'skills_used': ['drawing and coloring cutting and pasting', 'mouse interface', 'instruction based display', 'pixel mapping display', '2d objects']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Emarat Maritime Limited',
+            'year': 'Not Found',
+            'skills': ['fleet information management systems', 'vessel reporting system and purchasing system']
+        }
+    ],
+    'References': [
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        },
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        }
+    ]
+}<|end_of_turn|>

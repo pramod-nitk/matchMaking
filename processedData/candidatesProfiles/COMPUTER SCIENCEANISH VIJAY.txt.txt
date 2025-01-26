@@ -1,0 +1,64 @@
+{
+  'Name': 'Anish Vijay',
+  'DateOfBirth': '05/02/1988',
+  'Gender': 'Male',
+  'Email': 'anishvijayanishvijay@gmail.com',
+  'PhoneNumber': '08-0232-21564',
+  'Address': 'Not Found',
+  'Skills': {
+    'technical_skills': ['C++', 'C', 'PHP', 'MySQL'],
+    'other_skills': ['Black Belt in Karate']
+  },
+  'Education': {
+    'pre_degree': [
+      {'degree_name': '10th', 'institution': 'Xth National Public School Rajajinagar Bangalore', 'year_or_duration': '2004', 'cgpa_or_percentage': '94.8'}
+    ],
+    'bachelors': [
+      {'degree_name': 'B.Tech', 'institution': 'National Institute of Technology Karnataka Surathkal', 'year_or_duration': '2009', 'cgpa_or_percentage': '7.8'}
+    ],
+    'masters': {
+      'degree_name': 'Not Found',
+      'institution': 'Not Found',
+      'year_or_duration': 'Not Found',
+      'cgpa_or_percentage': 'Not Found'
+    }
+  },
+  'ExtraCurricularActivities': [
+    'Enthusiastic core member of IEEE Student Branch of NITK.',
+    'Member of Literary Society and Debating LSD of NITK.',
+    'Executive Member of Literary Committee in Incident 09 Annual Cultural Fest of NITK.',
+    'Executive Member of Gaming Committee in Engineer 09 Annual Technical Fest of NITK.',
+    'Attended the All India Student Congress AISC 2007 held at Dhirubai Ambani Institute of Information and Communication Technology DA-IICT Gandhinagar India representing NITK IEEE.',
+    'Qualified for National Informatics Olympiad 2005.',
+    'Passed the KVPY Kishore Vigyan Protsahan Yojana exam in 2005.',
+    'Passed the NTSE State level and National level examinations.',
+    'Avid Quizzer Runner up at the All Asia Finals of the Bournvita Quiz Contest 2000.',
+    'Black Belt Holder in Karate.'
+  ],
+  'Projects': [
+    {
+      'project_name': 'Database Management Systems',
+      'skills_used': ['PHP', 'HTML', 'MySQL']
+    },
+    {
+      'project_name': 'Snake',
+      'skills_used': ['C++']
+    }
+  ],
+  'Internships': [
+    {
+      'company': 'Electronic and Radar Development Enterprises LRDE',
+      'year': 'Not Found',
+      'skills': ['C++']
+    },
+    {
+      'company': 'Encore Technologies Bangalore',
+      'year': 'Not Found',
+      'skills': ['C']
+    }
+  ],
+  'References': [
+    {'name': 'Mr. Viswam Gampala Scientist F E Division Radar LRDE DRDO Bangalore', 'designation': 'Scientist F E Division Radar LRDE DRDO'},
+    {'name': 'Mr. Kaushik V Shah Encore Technologies Bangalore', 'designation': 'Not Found'}
+  ]
+}<|end_of_turn|>

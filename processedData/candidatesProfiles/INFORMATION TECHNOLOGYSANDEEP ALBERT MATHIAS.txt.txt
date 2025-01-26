@@ -1,0 +1,82 @@
+{
+    'Name': 'Sandeep Albert Mathias',
+    'DateOfBirth': 'December 15, 1987',
+    'Gender': 'Male',
+    'Email': 'mathiassandeep@gmail.com',
+    'PhoneNumber': '08-0255-42367',
+    'Address': {
+        'Permanent': 'b52 Vijay Kiran Apartments, 32 Victoria Road, Bangalore 560047',
+        'Present': 'b.tech room b115 mega hostel block nitk hostels nitk surathkal'
+    },
+    'Skills': {
+        'technical_skills': ['c', 'c++', 'java', 'mysql', 'php', 'html', 'windows', 'linux', 'unix'],
+        'other_skills': ['quizzing', 'reading', 'writing', 'music', 'philately', 'books', 'movies']
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': 'Xth St. Joseph I.C.S.E.',
+                'institution': 'Xth St. Joseph',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '86'
+            },
+            {
+                'degree_name': 'XIth St. Joseph P.U.C.',
+                'institution': 'Xiith St. Joseph',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '82.33'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech Information Technology',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '7.48'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'represented NITK in various inter college quizzes held at NLSIU Bangalore, NITK Surathkal, IIT Bombay, IIT Madras and other colleges.',
+        'placed second at the inter college science and technology quiz and inter college business and technology quiz held at Engineer 2009.',
+        'placed second at the general quiz at Mood Indigo 2009 held at IIT Bombay.',
+        'Joint convenor of the literary stage and debating society NITK Surathkal.',
+        'Interests and hobbies include quizzing, reading, writing, music, philately.'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Basic computer games in C',
+            'skills_used': ['c', 'c++']
+        },
+        {
+            'project_name': 'AI for Kode Kombat',
+            'skills_used': ['c', 'c++']
+        },
+        {
+            'project_name': 'Editor using Java',
+            'skills_used': ['java']
+        },
+        {
+            'project_name': 'Online library system using MySQL',
+            'skills_used': ['mysql']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Not Found',
+            'year': 'Not Found',
+            'skills': ['Not Found']
+        }
+    ],
+    'References': [
+        {
+            'name': 'Dr. Ananthanarayana V. S.',
+            'designation': 'Professor, Department of Information Technology, NITK Surathkal'
+        },
+        {
+            'name': 'Dr. S. Prakash Raghavendra',
+            'designation': 'Assistant Professor, Department of Information Technology, NITK Surathkal'
+        }
+    ]
+}<|end_of_turn|>

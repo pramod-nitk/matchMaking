@@ -1,0 +1,116 @@
+{
+  'Name': 'srilekha vedula kameswari',
+  'DateOfBirth': 'december 17 1988',
+  'Gender': 'female',
+  'Email': 'srilekha.vk@gmail.com',
+  'PhoneNumber': ['011 26492615', '+919-9456-17247'],
+  'Address': [
+    'permanent address: b.tech room 108 block 3 girls hostel national institute of technology karnataka surathkal p.o.srinivasanagar',
+    'present address: 319 chandgi ram block asian games village khel gaon new delhi 110049'
+  ],
+  'Skills': {
+    'technical_skills': [
+      'graph theory',
+      'html',
+      'php',
+      'javascript',
+      'c',
+      'c++',
+      'linux platformubuntu using gcc compiler',
+      'mysql database',
+      'wamp server',
+      'html php',
+      'javascript',
+      'c',
+      'c++',
+      'visual basic',
+      'oracle',
+      'c',
+      'c',
+      'c'
+    ],
+    'other_skills': [
+      'treasurer of the nitk music club 2009 10',
+      'member of the office committee in the organising team of engineer 08 the technical fest of nitk',
+      'member of the musicals committee in incident 08 and incident 09 the cultural fest of nitk',
+      'pro nite coordinator for incident 10',
+      'performed and won first place at the music festival of allians francaise chennai'
+    ]
+  },
+  'Education': {
+    'pre_degree': [
+      {'degree_name': '10+2th 10th', 'institution': 'xth padma seshadri bala bhavan sr. secondary school chennai', 'year_or_duration': '2004', 'cgpa_or_percentage': '88.3'},
+      {'degree_name': 'xiith', 'institution': 'xiith maharishi vidya mandir chennai', 'year_or_duration': '2006', 'cgpa_or_percentage': '80'}
+    ],
+    'bachelors': [
+      {'degree_name': 'b.tech', 'institution': 'nitk surathkal', 'year_or_duration': '2010', 'cgpa_or_percentage': 'Not Found'}
+    ],
+    'masters': [
+      {'degree_name': 'Not Found', 'institution': 'Not Found', 'year_or_duration': 'Not Found', 'cgpa_or_percentage': 'Not Found'}
+    ]
+  },
+  'ExtraCurricularActivities': [
+    'executive member of institution of engineers nitk chapter',
+    'member of the office committee in the organising team of engineer 08 the technical fest of nitk',
+    'member of the musicals committee in incident 08 and incident 09 the cultural fest of nitk',
+    'pro nite coordinator for incident 10'
+  ],
+  'Projects': [
+    {
+      'project_name': 'research project on graph theory at iit delhi dept of computer scienceapril june 2009',
+      'skills_used': [
+        'c',
+        'c++',
+        'linux platformubuntu using gcc compiler',
+        'mysql database',
+        'wamp server'
+      ]
+    },
+    {
+      'project_name': 'internet technologies and application mini project jan april 2009',
+      'skills_used': [
+        'html',
+        'php',
+        'javascript',
+        'mysql database',
+        'wamp server'
+      ]
+    },
+    {
+      'project_name': 'software engineering mini projectjan april 2009',
+      'skills_used': [
+        'html',
+        'php',
+        'javascript'
+      ]
+    },
+    {
+      'project_name': 'database systems mini projectaug nov 2008',
+      'skills_used': [
+        'visual basic',
+        'oracle'
+      ]
+    },
+    {
+      'project_name': 'computer graphics mini projectjan april 2008',
+      'skills_used': [
+        'c'
+      ]
+    }
+  ],
+  'Internships': [
+    {
+      'company': 'Not Found',
+      'year': 'Not Found',
+      'skills': [
+        'Not Found'
+      ]
+    }
+  ],
+  'References': [
+    {
+      'name': 'Not Found',
+      'designation': 'Not Found'
+    }
+  ]
+}<|end_of_turn|>

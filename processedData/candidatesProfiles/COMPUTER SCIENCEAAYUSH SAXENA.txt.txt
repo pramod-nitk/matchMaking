@@ -1,0 +1,136 @@
+{
+    'Name': 'Aayush Saxena',
+    'DateOfBirth': 'October 14 1988',
+    'Gender': 'Male',
+    'Email': 'saxena.aaaaaa123@gmail.com',
+    'PhoneNumber': '09-4103-67829, 09-9004-14303',
+    'Address': [
+        {'permanent': '53 Indiranagar Colony, near Asian School, Dehradun, Uttarakhand.'},
+        {'present': 'B.Tech details:', 'pre_degree': [
+            {
+                'degree_name': 'Xth St. Jude School',
+                'institution': 'ICSE',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '90'
+            }
+        ], 'bachelors': [
+            {
+                'degree_name': 'XIth Kendriya Vidyalaya',
+                'institution': 'Forest Research Institute CBSE',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '88'
+            }
+        ]},
+        {'year_or_duration': '2009 10', 'degree_name': 'B.Tech', 'institution': 'National Institute of Technology Karnataka Surathkal'}
+    ],
+    'Skills': {
+        'technical_skills': [
+            'C, C++, Java, SQL, HTML, CSS, JavaScript, PHP, Python, MATLAB'
+        ],
+        'other_skills': [
+            'team work, intellect, planning things, interact well with people, ardent believer of work is worship, goal setter, strong determination'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': 'Xth St. Jude School',
+                'institution': 'ICSE',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '90'
+            }
+        ], 'bachelors': [
+            {
+                'degree_name': 'XIth Kendriya Vidyalaya',
+                'institution': 'Forest Research Institute CBSE',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '88'
+            }
+        ]},
+    'ExtraCurricularActivities': [
+        'Student Coordinator for College Website Development',
+        'Organizing Committee of Simplineer',
+        'Executive Member of Web Club of NIT Karnataka',
+        'Topper of Batch in 2006 07',
+        'National Level Chemistry Olympiad',
+        'Physics Olympiad',
+        'North India Topper with AIR 69 in NSTSE in 2004 05',
+        'Organized Unified Council',
+        'Qualified for the National Level Chemistry Olympiad in 2005 06',
+        'Rated among the top 10 students in Physics Olympiad 2005 06'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Clicker Response Systems',
+            'skills_used': [
+                'RF communication between the transreceiver of the hardware and code for the functioning of keypad and real time clock RTC of the hardware'
+            ]
+        },
+        {
+            'project_name': 'College Website Development',
+            'skills_used': [
+                'Joomla as the content management system and PHP for accessing underlying database'
+            ]
+        },
+        {
+            'project_name': 'Generic Steganograph',
+            'skills_used': [
+                'Algorithms of steganography. I worked upon image and audio steganography. For image lsb encoding algorithm was used and for audio I used huffman encoding with modification for compression and encrypting data in it'
+            ]
+        },
+        {
+            'project_name': 'Industrial Training in HCL Infosystems Noida',
+            'skills_used': []
+        },
+        {
+            'project_name': 'Airline Reservation System',
+            'skills_used': [
+                'J2EE based web application using JSP beans HTML reference 1 reference 2 co curricular activities CSS for front end and MySQL database server for back end'
+            ]
+        },
+        {
+            'project_name': 'Computer Graphics and Mathematics Summer 2008',
+            'skills_used': [
+                'Java applets as major component to describe the concepts of linear algebra and geometry linked up with 2x2 matrix'
+            ]
+        },
+        {
+            'project_name': 'Content Based Zooming Summer 2008',
+            'skills_used': [
+                'Python involving language processing which zooms in and out of document on the basis of content'
+            ]
+        },
+        {
+            'project_name': 'Conducted Workshop on Cyber Security Sub Topic Keyloggers',
+            'skills_used': []
+        },
+        {
+            'project_name': 'Conducted Workshop on Web Designing Sub Topic CSS',
+            'skills_used': []
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'IIT Bombay',
+            'year': '10th November 2008 to 9th December 2008',
+            'skills': [
+                'Worked on the establishment of rf communication between the transreceiver of the hardware and code for the functioning of keypad and real time clock rtc of the hardware'
+            ]
+        },
+        {
+            'company': 'HCL Infosystems',
+            'year': '10th November 2008 to 9th December 2008',
+            'skills': []
+        }
+    ],
+    'References': [
+        {
+            'name': 'Mr. Vinay Kumar',
+            'designation': 'HOD Department of Computer Engineering National Institute of Technology Karnataka Surathkal'
+        },
+        {
+            'name': 'Prof. Tim Poston',
+            'designation': 'Mathematical Modeling Unit NIAS IISC Bangalore'
+        }
+    ]
+}<|end_of_turn|>

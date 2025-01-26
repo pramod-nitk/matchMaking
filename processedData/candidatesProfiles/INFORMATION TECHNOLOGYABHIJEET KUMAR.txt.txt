@@ -1,0 +1,62 @@
+{
+    'Name': 'Abhijeet Kumar',
+    'DateOfBirth': '28 April 1986',
+    'Gender': 'Male',
+    'Email': 'abhijeet.k.shah@gmail.com',
+    'PhoneNumber': '+91-6454-243151',
+    'Address': '575025, national institute of technology karnataka surathkal p.o srinivasnagar mangalore',
+    'Skills': {
+        'technical_skills': [
+            'Mysql',
+            'Java',
+            'Web Development',
+            'Graphical Interface'
+        ],
+        'other_skills': [
+            'Handball',
+            'NCC',
+            'Blood Donation',
+            'NSS',
+            'Dance Dramatics and Fashion Club',
+            'Computer Science Committee',
+            'Hardworking',
+            'Sincere',
+            'Quick Learner',
+            'Smart Working'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {'degree_name': '10th', 'institution': 'Bishop Cotton School', 'year_or_duration': '2002', 'cgpa_or_percentage': '89.8'},
+            {'degree_name': 'Xth', 'institution': 'XIITH', 'year_or_duration': '2004', 'cgpa_or_percentage': '82.8'}
+        ],
+        'bachelors': [
+            {'degree_name': 'B.Tech', 'institution': 'NITK', 'year_or_duration': '2010', 'cgpa_or_percentage': '8.78'}
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'Member of NSS',
+        'Member of Light and Sound Club',
+        '3rd in 10000 mts.',
+        'Blood Donation Camps',
+        'NCC Certificate Holder',
+        '1st Position in Handball Competition',
+        'Member of DDF Dance Dramatics and Fashion Club',
+        'Executive Member of Computer Science Committee'
+    ],
+    'Projects': [
+        {'project_name': 'Mini Relational Database Management System', 'skills_used': ['Mysql', 'Java']},
+        {'project_name': 'Graphical Interface', 'skills_used': ['Graphical Interface']},
+        {'project_name': 'Web Based Drug Management System', 'skills_used': ['Web Development']},
+        {'project_name': 'Drug Management System', 'skills_used': ['Java', 'Mysql']}
+    ],
+    'Internships': [
+        {'company': 'BSNL', 'year': 'Not Found', 'skills': ['Information Technology']},
+        {'company': 'Department of Information Technology', 'year': 'Not Found', 'skills': ['Mysql', 'Java']}
+    ],
+    'References': [
+        {'name': 'Dr. B.K. Singh', 'designation': 'Head of Department, Department of Information Technology, NITK'},
+        {'name': 'Dr. G. Rammohan Reddy', 'designation': 'Head of Department, Department of Information Technology, NITK'}
+    ]
+}

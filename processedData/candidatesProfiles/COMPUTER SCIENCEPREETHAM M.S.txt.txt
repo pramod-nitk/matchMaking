@@ -1,0 +1,122 @@
+{
+    'Name': 'Preetham MS',
+    'DateOfBirth': 'January 9 1989',
+    'Gender': 'Male',
+    'Email': 'preethu.nitk@gmail.com',
+    'PhoneNumber': '09-4422-47124, 9-8863-87150',
+    'Address': 'Not Found',
+    'Skills': {
+        'technical_skills': [
+            'Java',
+            'C',
+            'C#',
+            'Bluetooth',
+            'FTP',
+            'TCP',
+            'Chat Application',
+            'J2ME',
+            'Network Simulation',
+            'Ogre',
+            'C++',
+            'OOP',
+            'Network File System',
+            'Database Systems',
+            'Software Engineering',
+            'C++',
+            'C',
+            'Java',
+            'Graphics',
+            'Bluetooth',
+            'J2ME'
+        ],
+        'other_skills': [
+            'Reading novels and fiction',
+            'Certified Japanese Language Course',
+            'Chess',
+            'Puzzles',
+            'Kannada Vedike NITK Chapter',
+            'Badminton'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'Vijaya High School',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '94'
+            },
+            {
+                'degree_name': 'XIth',
+                'institution': 'Vijaya Composite Pre University College',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '82'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'NITK',
+                'year_or_duration': '2010',
+                'cgpa_or_percentage': '7.77'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'Member of Kannada Vedike NITK Chapter',
+        'Playing Badminton'
+    ],
+    'Projects': [
+        {
+            'project_name': 'PingPong Game',
+            'skills_used': [
+                'C'
+            ]
+        },
+        {
+            'project_name': 'Pharmacy Database Project',
+            'skills_used': [
+                'Java'
+            ]
+        },
+        {
+            'project_name': 'Text Editor in Java',
+            'skills_used': [
+                'Java'
+            ]
+        },
+        {
+            'project_name': 'Network Simulation',
+            'skills_used': [
+                'NCTuns',
+                'FTP',
+                'TCP',
+                'Chat Application'
+            ]
+        },
+        {
+            'project_name': 'Network File System in Bluetooth Enabled Devices',
+            'skills_used': [
+                'J2ME'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Not Found',
+            'year': 'Not Found',
+            'skills': []
+        }
+    ],
+    'References': [
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        },
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        }
+    ]
+}<|end_of_turn|>

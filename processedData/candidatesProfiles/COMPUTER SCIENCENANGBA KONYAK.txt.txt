@@ -1,0 +1,93 @@
+{
+ 'Name': 'nangba konyak',
+ 'DateOfBirth': 'January 14 1985',
+ 'Gender': 'Male',
+ 'Email': 'nangba.xiv.8v@gmail.com',
+ 'PhoneNumber': '9-7414-22515',
+ 'Address': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025',
+ 'Skills': {
+  'technical_skills': [
+   'php',
+   'html',
+   'mysql',
+   'java',
+   'joomla',
+   'css'
+  ],
+  'other_skills': [
+   'cricket',
+   'martial arts',
+   'chess'
+  ]
+ },
+ 'Education': {
+  'pre_degree': [
+   {
+    'degree_name': '10+2th',
+    'institution': 'Don Bosco School, Mon',
+    'year_or_duration': '2003',
+    'cgpa_or_percentage': '62'
+   },
+   {
+    'degree_name': 'X',
+    'institution': 'Xth Don Bosco School, Mon',
+    'year_or_duration': '2003',
+    'cgpa_or_percentage': '62'
+   }
+  ],
+  'bachelors': [
+   {
+    'degree_name': 'B.Tech',
+    'institution': 'National Institute of Technology, Karnataka Surathkal',
+    'year_or_duration': '2010',
+    'cgpa_or_percentage': '5.32'
+   }
+  ],
+  'masters': [
+   {
+    'degree_name': 'Not Found',
+    'institution': 'Not Found',
+    'year_or_duration': 'Not Found',
+    'cgpa_or_percentage': 'Not Found'
+   }
+  ]
+ },
+ 'ExtraCurricularActivities': [
+  'member of nss light sound and yoga clubs at nitk.',
+  'an executive member of the college annual cultural fest for the last 3 years.',
+  'actively involved in numerous social activities such as ward and town cleaning drives tree planting beach cleaning and blood donation camp.'
+ ],
+ 'Projects': [
+  {
+   'project_name': 'Not Found',
+   'skills_used': [
+    'Not Found'
+   ]
+  },
+  {
+   'project_name': 'Not Found',
+   'skills_used': [
+    'Not Found'
+   ]
+  }
+ ],
+ 'Internships': [
+  {
+   'company': 'Not Found',
+   'year': 'Not Found',
+   'skills': [
+    'Not Found'
+   ]
+  }
+ ],
+ 'References': [
+  {
+   'name': 'Dr. T. G. Basavaraju',
+   'designation': 'Assistant Professor, Computer Engineering Department, NITK Surathkal Karnataka'
+  },
+  {
+   'name': 'Annappa',
+   'designation': 'Senior Lecturer, Computer Engineering Department, NITK Surathkal Karnataka'
+  }
+ ]
+}<|end_of_turn|>

@@ -1,0 +1,56 @@
+{
+    'Name': 'dilip kumar v m',
+    'DateOfBirth': 'September 28 1988',
+    'Gender': 'male',
+    'Email': 'dilipearly@gmail.com',
+    'PhoneNumber': '+919-9160-25747',
+    'Address': 'Not Found',
+    'Skills': {
+        'technical_skills': [],
+        'other_skills': []
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10+2th',
+                'institution': 'velammal mat hr sec school',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '64.36'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'b.tech',
+                'institution': 'national institute of technology karnataka surathkal',
+                'year_or_duration': '2009 10',
+                'cgpa_or_percentage': '4.17'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'about myself',
+        'co curricular activities',
+        'reference 1',
+        'reference 2'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Not Found',
+            'skills_used': []
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Not Found',
+            'year': 'Not Found',
+            'skills': []
+        }
+    ],
+    'References': [
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        }
+    ]
+}<|end_of_turn|>

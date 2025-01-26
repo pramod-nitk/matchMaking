@@ -1,0 +1,140 @@
+{
+    "Name": "Vikram Baghel",
+    "DateOfBirth": "April 30, 1989",
+    "Gender": "Male",
+    "Email": "vkmbaghel@gmail.com",
+    "PhoneNumber": "0-7741-232765",
+    "Address": [
+        {"permanent": "Not Found"},
+        {"present": "Not Found"}
+    ],
+    "Skills": {
+        "technical_skills": [
+            "Graphics Editor",
+            "Platform Windows XP",
+            "Language C",
+            "Project Involved Creation of a Simple Graphics Tool or Package",
+            "Platform Independent Language J2SE SQL JSP HTML",
+            "Database Oracle 10g",
+            "Platform Independent Language JSP HTML JavaScript Ajax",
+            "Platform Windows Technology C++",
+            "Implementation of TSP by Genetic Algorithm",
+            "Platform Windows Technology C.Net",
+            "User Validation Vulnerability Scanner",
+            "Light Weight Web Server",
+            "A Server Administration Module",
+            "Advanced Stealth Phishing by ARP and CAM Poisoning",
+            "SSL Digital Certificate",
+            "Advanced Stealth Phishing by ARP and CAM Poisoning",
+            "SSL Digital Certificate"
+        ],
+        "other_skills": [
+            "Not Found"
+        ]
+    },
+    "Education": {
+        "pre_degree": [
+            {
+                "degree_name": "10th",
+                "institution": "Xth Saraswati Shishu Mandir H.S. School",
+                "year_or_duration": "2003",
+                "cgpa_or_percentage": "85.5"
+            },
+            {
+                "degree_name": "12th",
+                "institution": "XIth Krishna Public School",
+                "year_or_duration": "2005",
+                "cgpa_or_percentage": "81.8"
+            }
+        ],
+        "bachelors": [
+            {
+                "degree_name": "B.Tech",
+                "institution": "National Institute of Technology Karnataka",
+                "year_or_duration": "2010",
+                "cgpa_or_percentage": "6.12"
+            }
+        ],
+        "masters": [
+            {
+                "degree_name": "Not Found",
+                "institution": "Not Found",
+                "year_or_duration": "Not Found",
+                "cgpa_or_percentage": "Not Found"
+            }
+        ]
+    },
+    "ExtraCurricularActivities": [
+        "Not Found"
+    ],
+    "Projects": [
+        {
+            "project_name": "Project Involved Creation of a Simple Graphics Tool or Package",
+            "skills_used": [
+                "Graphics Editor",
+                "Platform Windows XP",
+                "Language C",
+                "Project Involved Creation of a Simple Graphics Tool or Package"
+            ]
+        },
+        {
+            "project_name": "Passport Office Database",
+            "skills_used": [
+                "Platform Independent Language J2SE SQL JSP HTML",
+                "Database Oracle 10g"
+            ]
+        },
+        {
+            "project_name": "Advanced E-commerce Website",
+            "skills_used": [
+                "Platform Independent Language JSP HTML JavaScript Ajax",
+                "Database Oracle 10g"
+            ]
+        },
+        {
+            "project_name": "Implementation of TSP by Genetic Algorithm",
+            "skills_used": [
+                "Platform Windows Technology C++"
+            ]
+        },
+        {
+            "project_name": "User Validation Vulnerability Scanner",
+            "skills_used": [
+                "Platform Windows Technology C.Net"
+            ]
+        },
+        {
+            "project_name": "Light Weight Web Server",
+            "skills_used": [
+                "Platform Windows Technology C.Net"
+            ]
+        },
+        {
+            "project_name": "Advanced Stealth Phishing by ARP and CAM Poisoning",
+            "skills_used": [
+                "Platform Independent Technology Perl",
+                "Platform Independent Technology PHP",
+                "WincapLibPcapLibrary SSL Digital Certificate"
+            ]
+        }
+    ],
+    "Internships": [
+        {
+            "company": "Not Found",
+            "year": "Not Found",
+            "skills": [
+                "Not Found"
+            ]
+        }
+    ],
+    "References": [
+        {
+            "name": "Not Found",
+            "designation": "Not Found"
+        },
+        {
+            "name": "Not Found",
+            "designation": "Not Found"
+        }
+    ]
+}<|end_of_turn|>

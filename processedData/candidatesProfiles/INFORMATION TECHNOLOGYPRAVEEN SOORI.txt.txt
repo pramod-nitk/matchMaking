@@ -1,0 +1,44 @@
+{
+ 'Name': 'Praveen Soori',
+ 'DateOfBirth': 'September 3, 1988',
+ 'Gender': 'Male',
+ 'Email': 'praveenbhatsoori@gmail.com',
+ 'PhoneNumber': '08-3627-71537',
+ 'Address': 'Permanent Address: B.Tech room no c 002 mega hostel block nitk boys hostel surathkal mangalore. Hno 216 4th cross 2nd main narayanpur dharwad. Pincode 580008',
+ 'Skills': {
+ 'technical_skills': ['html', 'css', 'java', 'c', 'c++', 'php', 'python', 'javascript', 'mysql', 'sql'],
+ 'other_skills': ['chess', 'swimming', 'reading books']
+ },
+ 'Education': {
+ 'pre_degree': [{'degree_name': '10+2', 'institution': 'Xth Basel Mission English Medium High School Dharwad', 'year_or_duration': '2004', 'cgpa_or_percentage': '90.4'}],
+ 'bachelors': [{'degree_name': 'B.Tech', 'institution': 'National Institute of Technology Karnataka Surathkal', 'year_or_duration': '2009', 'cgpa_or_percentage': '8.46'}],
+ 'masters': []
+ },
+ 'ExtraCurricularActivities': [
+ '1. joint convenor of the tech support committee for engineer golden jubilee edition the annual technical fest of nitk',
+ '2. executive member of the publicity committee for crrescendo 2008 the intra college fest in my third year in v sem 3.',
+ '3. won 2nd prize in mock stock competition held during engineer 2007 in my first year',
+ '4. was a part of the team designing a portal for the workshop and exhibition on renewable energy organized by association of british scholarsabs and the british council in mangalore',
+ '5. interested in management and attended the workshop conducted by kpmg on six sigma during engineer 2009',
+ '6. attended a weeklong entrepreneurship awareness program conducted by state bank of india at nitk',
+ '7. was a part of the team designing a real estate website portal http://www.yourpropertystar.com and website for business complex http://www.beetlearcade.co.in',
+ '8. won 1st prize in district level chess tournament in 2004',
+ '9. My hobbies include playing chess swimming and reading books.'
+ ],
+ 'Projects': [
+ '1. Design and development of the information technology department internet website and intranet website a course management tool for the students and the faculty can interact',
+ '2. Worked on a project to facilitate online admissions to nits for Indian students studying abroad under Dr S R Prakash Assistant Professor Dept of IT NITK Surathkal',
+ '3. Was a part of the project team which designed the customer relation manager (crm) software and was involved in improvement of electronic clearance system for state bank of India Mangalore',
+ '4. A project on computer graphics animation package in the 4th semester as a part of the computer graphics mini project',
+ '5. A project on mini relational database in 5th semester using java which consisted of the basic functionalities of a database as a part of the database systems mini project',
+ '6. A project on internet technologies and applications did a application called i docs which allows multiple users to create and share documents online'
+ ],
+ 'Internships': [
+ '1. Company: State Bank of India Mangalore, Year: Not Found, Skills: html, css, java, c, c++, php, python, javascript, mysql, sql',
+ '2. Company: Not Found, Year: Not Found, Skills: Not Found'
+ ],
+ 'References': [
+ '1. Name: Dr. Ananthanarayana V.S, Designation: Professor Dept of Information Technology NITK Surathkal, Email: anvs@nitk.ac.in',
+ '2. Name: Dr S Raghavendra Prakash, Designation: Assistant Professor Dept of Information Technology NITK Surathkal, Email: srp@nitk.ac.in'
+ ]
+}<|end_of_turn|>

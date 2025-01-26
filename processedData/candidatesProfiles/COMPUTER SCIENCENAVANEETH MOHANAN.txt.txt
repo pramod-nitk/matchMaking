@@ -1,0 +1,37 @@
+{
+    'Name': 'Navaneeth Mohanan',
+    'DateOfBirth': 'November 21, 1988',
+    'Gender': 'Male',
+    'Email': 'navaneeth.mohan@gmail.com',
+    'PhoneNumber': '+91 497 2835236',
+    'Address': 'National Institute of Technology Karnataka Surathkal P.O Srinivasnagar Mangalore 575025',
+    'Skills': {
+        'technical_skills': ['Intel Open Computer Vision Libraries', 'Java', 'JDBC', 'Oracle 10g Express Edition', 'Intel Open Computer Vision Libraries', 'C++', 'C#', 'Java', 'Java', 'Oracle 10g Express Edition'],
+        'other_skills': ['Blackbelt in karate', 'President of School Alumni Association', 'Convenor of Rotaract Club NITK Chapter', 'Executive Member of Publicity Committee for Incident 2009', 'Executive Member of Informalz Committee for Incident 2008', 'Executive Member of Newsletter Committee for Engineer 2008', 'School Vice Headboy', 'High School Basketball Team Captain', 'Participated in Round Square International Service Project in Ladakh', 'Held a community hall for the village']
+    },
+    'Education': {
+        'pre_degree': [
+            {'degree_name': '10+2th', 'institution': 'Xth Indian School Al Ghubra Sultanate of Oman', 'year_or_duration': '2004', 'cgpa_or_percentage': '93.8'}
+        ],
+        'bachelors': [
+            {'degree_name': 'B.Tech', 'institution': 'National Institute of Technology Karnataka Surathkal', 'year_or_duration': '2009', 'cgpa_or_percentage': '8.39'}
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'Convenor of Rotaract Club NITK Chapter', 'Executive Member of Publicity Committee for Incident 2009', 'Executive Member of Informalz Committee for Incident 2008', 'Executive Member of Newsletter Committee for Engineer 2008', 'School Vice Headboy', 'High School Basketball Team Captain', 'Participated in Round Square International Service Project in Ladakh', 'Blackbelt in karate', 'President of School Alumni Association'
+    ],
+    'Projects': [
+        {'project_name': 'Digital Hampi', 'skills_used': ['Intel Open Computer Vision Libraries', 'Java', 'C++', 'C#', 'Java', 'Java']},
+        {'project_name': 'Hub Less LAN File Sharing Client', 'skills_used': ['Java']},
+        {'project_name': 'Stock Market Simulator', 'skills_used': ['JDBC']},
+        {'project_name': '2 Player LAN Chess Game', 'skills_used': ['C++']},
+        {'project_name': 'Snake and Ladder Game', 'skills_used': ['C++']}
+    ],
+    'Internships': [
+        {'company': 'Aerospace Defense and Satellite', 'year': 'Not Found', 'skills': ['Java', 'Java', 'Java', 'Oracle 10g Express Edition']}
+    ],
+    'References': [
+        {'name': 'Mr. Ramachandra Budhihal Senior Solution Architect Aerospace Defense and Satellite Wipro Technologies', 'designation': 'Not Found'}
+    ]
+}<|end_of_turn|>

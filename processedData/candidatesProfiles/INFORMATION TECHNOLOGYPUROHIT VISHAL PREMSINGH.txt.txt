@@ -1,0 +1,31 @@
+{
+ "Name": "Vishal Purohit",
+ "DateOfBirth": "November 16, 1986",
+ "Gender": "Male",
+ "Email": "vishal.purohit7@gmail.com",
+ "PhoneNumber": "022 28996766, +919-9004-14093",
+ "Address": [{"permanent": "B.Tech Room No 27, Seventh Block Hostel, NITK Hostels, NITK Surathkal, Mangalore 575025"},
+  {"present": "102 Swarna Hans Bldg Babhai Naka Borivali W Mumbai 92 Maharashtra."}],
+ "Skills": {
+  "technical_skills": ["Java", "Oracle", "2D Packages", "Graphics Editor", "Animation", "Professional Writers"],
+  "other_skills": ["Team Worker", "Communication", "Motivated", "Outgoing", "Organized", "Leadership", "Class Representative", "Convener of PACE Club"]
+  },
+ "Education": {
+  "pre_degree": [{"degree_name": "10th", "institution": "Holy Cross High School and Junior College", "year_or_duration": "2002", "cgpa_or_percentage": "75.86"}],
+  "bachelors": [{"degree_name": "B.Tech", "institution": "NITK Surathkal", "year_or_duration": "2010", "cgpa_or_percentage": "8.38"}],
+  "masters": []
+  },
+ "ExtraCurricularActivities": [{"class_representative": "Civil Engineering and Mining Engineering for the academic year 06 07"},
+  {"convener_of_pace_club": "Professional and Academic Counsel"},
+  {"vice_president": "Institute of EngineersIE NITK Chapter"},
+  {"chief_coordinator": "Engine Golden Jubilee EditionThe Annual Technical Symposium of NITK"}],
+ "Projects": [{"Project Name": "Developing a Math Editor", "Skills Used": ["Java", "Oracle"]},
+  {"Project Name": "Database Management System", "Skills Used": ["Oracle"]},
+  {"Project Name": "2x2", "Skills Used": ["Java Applets"]},
+  {"Project Name": "System Software for an Animation Package", "Skills Used": ["2D Packages", "Graphics Editor", "Classical Input Techniques", "Transformation and Animation"]}],
+ "Internships": [{"Company": "National Institute of Advanced Studies NIAS IISC Campus", "Year": "Not Found", "Skills": ["Java", "Professional Writers"]},
+  {"Company": "Not Found", "Year": "Not Found", "Skills": ["Oracle", "Database Management Systems"]},
+  {"Company": "National Institute of Information Technology", "Year": "Not Found", "Skills": ["Graphics Editor", "Animation"]}],
+ "References": [{"Name": "Not Found", "Designation": "Not Found"},
+  {"Name": "Not Found", "Designation": "Not Found"}]
+}<|end_of_turn|>

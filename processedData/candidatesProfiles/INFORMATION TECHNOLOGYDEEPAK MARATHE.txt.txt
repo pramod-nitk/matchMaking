@@ -1,0 +1,31 @@
+{
+  'Name': 'Deepak Marathe',
+  'DateOfBirth': 'December 8, 1988',
+  'Gender': 'male',
+  'Email': 'dpkmarathe@gmail.com',
+  'PhoneNumber': '08-2512-60395',
+  'Address': 'permanent address',
+  'Skills': {
+    'technical_skills': [
+      'programming languages: c, c++, j2se, j2me',
+      'platforms: windows xp, windows vista, linux, unix operating systems',
+      'scripting languages: mysql, oracle shell scripting',
+      'assembly language: 8086 assembly language programming',
+      'ide: netbeans, eclipse',
+      'web domain: html, javascript, jsp',
+      'servers: tomcat, glassfish v3',
+      'technologies: web services, hibernate, struts2, ajax, gwt',
+      'misc: google web toolkit, reporting tools like jasper'
+    ],
+    'other_skills': []
+  },
+  'Education': {
+    'pre_degree': [{'degree_name': '', 'institution': 'Xth Javahar Navodaya Vidyalaya', 'year_or_duration': '2004', 'cgpa_or_percentage': '86'}],
+    'bachelors': [{'degree_name': 'B.Tech', 'institution': 'National Institute of Technology', 'year_or_duration': '2009', 'cgpa_or_percentage': '8.05'}],
+    'masters': []
+  },
+  'ExtraCurricularActivities': [{'activity': 'Music'}],
+  'Projects': [{'project_name': 'Animation Package', 'skills_used': ['Java']}, {'project_name': 'Database Technologies', 'skills_used': ['Java']}, {'project_name': 'm-Bank', 'skills_used': ['J2ME']}, {'project_name': 'Online Chess Club', 'skills_used': ['ITA']}],
+  'Internships': [{'company': 'Tavant Technologies', 'year': 'Aug 2008 to Jun 2009', 'skills': ['Struts Framework MVC']}, {'company': 'Inat Technologies', 'year': '2008 to 2009', 'skills': ['Web Technologies']}],
+  'References': [{'name': '', 'designation': ''}]
+}<|end_of_turn|>

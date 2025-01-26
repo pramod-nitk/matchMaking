@@ -1,0 +1,85 @@
+{
+    'Name': 'rohan nanda',
+    'DateOfBirth': 'november 23 1988',
+    'Gender': 'male',
+    'Email': 'rohan.nanda@gmail.com',
+    'PhoneNumber': '09-9100-96001, 9-9004-14257',
+    'Address': 'permanent address: b.tech details semester year s.g.p.a c.g.p.a pre degree 10+2th 10th details discipline institution university board year marks rohan nanda b.tech room no. d 211 mega block nitk hostels nitk c 443 sarita vihar new delhi semester 1 dec 2006 6.57 6.57 semester 2 may 2007 7.83 7.15 semester 3 dec 2007 7.48 7.25 semester 4 may 2008 7.54 7.32 semester 5 dec 2008 6.4 7.14 semester 6 may 2009 6.72 7.07 xth indian school al ghubra muscat oman cbse aisse 2004 92.6 xiith indian school al ghubra muscat oman cbse aissce 2006 92 supplementary information extra curricular activities about myself co curricular activities reference 1 reference 2 the lead western music vocalist of the music club in college performed more than a dozen times on stage. a senior co ordinator of the dance drama fashion club in college overlooking the dramatics division. the executive member of the performing arts committee of the colleges cultural festival incident provided general and technical assistance managed some events. the president at the toastmasters youth leadership program conducted in oman. part of the gradual twists development team of the website www.gradualtwists.blogspot.com a confident and extrovert person with good conversational skills i have a result driven logical and methodical approach to achieving tasks and objectives. i have lived my entire school life in the middle eastoman dubai and kuwait which has given me an international exposure.during this journey i have come across people of different cultures which has taught me a lot about the world and has made me capable of working in any condition with efficiency. im gifted with a great sense of humor which has help shape my personality. im a participative team player. im able to understand the complexity of situations and im willing to provide as much creative input as needed to provide the desired output. i enjoy travelling and mingling with different cultures. in my free time i swim play tennis and sing. i am an enthusiastic trekker scaled the peaks of the himalayas. i am very passionate about music. worked as an intern for two months at aliment technologies bangalore developed an online order purchasing web application in asp .net technology using visual basic .net as the front end and sql server 2000 as the backend. the work done was much appreciated by the managing director. worked in the performing arts team as in charge of the colleges annual cultural fest incident. colleges fashion team stood 2nd. worked on a project as part of the database management systems course designed software to manage a gun and ammunition retail outlet. used visual basic as the front end and oracle express edition as the backend. worked as an intern in the group it division at aw rostamani group nissan learned about the different functionalities of the division interacted with the group it manager and his team. managed the sales of inventory required to be put up in the annual consumer fair exhibition 2006 held in oman at the international exhibition center in seeb. worked in the public relations team in school and led a team of south african delegates around oman. well versed with the concepts and syntax of c c++ visual basic .net visual basic. sebastian t samuel group it manager aw rostamanigroupnissan tel +971 4 2952 123 venkateswaran pn managing director aliment software technologies pvt ltd. website www.alimentglobal.com reference 1 reference 2 mob +971 50 5856340 fax +971 4 2951 233 p.o. box 183905 dubai uae email sebastian.samuel@awrostamani.com www.awrostamani.com 1012nd cross new byappanahalli extn.off old madras roadindiranagar postbangalore 560038. india office phone +91 80 2536 6478 2554 2904 2554 4348. e mail pnv@alimentglobal.com',
+    'Skills': {
+        'technical_skills': [
+            'c c++', 'visual basic .net', 'visual basic', 'asp.net', 'sql server 2000', 'oracle express edition', 'front end',
+            'backend'
+        ],
+        'other_skills': [
+            'lead western music vocalist', 'dance drama', 'performing arts', 'public relations', 'trekker', 'swimming',
+            'tennis', 'singing', 'international exposure', 'result driven logical and methodical approach', 'confident and extrovert',
+            'participative team player', 'understanding the complexity of situations', 'creative input', 'travelling', 'enjoying mingling with different cultures',
+            'enthusiastic trekker', 'passionate about music'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '',
+                'institution': '',
+                'year_or_duration': '',
+                'cgpa_or_percentage': ''
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'b.tech',
+                'institution': '',
+                'year_or_duration': '',
+                'cgpa_or_percentage': '7.07'
+            }
+        ],
+        'masters': [
+            {
+                'degree_name': '',
+                'institution': '',
+                'year_or_duration': '',
+                'cgpa_or_percentage': ''
+            }
+        ]
+    },
+    'ExtraCurricularActivities': [
+        'music club', 'dance drama', 'performing arts committee', 'toastmasters youth leadership', 'gradual twists development',
+        'trekking', 'music', 'travelling', 'public relations team'
+    ],
+    'Projects': [
+        {
+            'project_name': 'database management systems',
+            'skills_used': [
+                'visual basic', 'oracle express edition'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'aliment technologies bangalore',
+            'year': 'two months',
+            'skills': [
+                'asp.net', 'sql server 2000', 'visual basic .net', 'visual basic', 'front end',
+                'backend'
+            ]
+        },
+        {
+            'company': 'aw rostamani group nissan',
+            'year': '',
+            'skills': [
+                'different functionalities', 'group it', 'interacted with the group it manager and his team'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'sebastian t samuel',
+            'designation': 'group it manager aw rostamani group nissan'
+        },
+        {
+            'name': '',
+            'designation': ''
+        }
+    ]
+}<|end_of_turn|>

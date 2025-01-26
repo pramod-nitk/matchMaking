@@ -1,0 +1,82 @@
+{
+    "Name": "Bharath.S",
+    "DateOfBirth": "August 4 1988",
+    "Gender": "Male",
+    "Email": "bharates.7.007@gmail.com",
+    "PhoneNumber": "08-0234-22900",
+    "Address": "8792nd main d block 2nd stage rajajinagar bangalore 560010",
+    "Skills": {
+        "technical_skills": ["Java", "Mathematics", "Database", "Computer Graphics"],
+        "other_skills": ["Painting and Sketching", "Cricket", "Swimming", "Volleyball", "Badminton", "Table Tennis", "Reading Novels and Magazines"]
+    },
+    "Education": {
+        "pre_degree": [
+            {
+                "degree_name": "10th",
+                "institution": "Xth Mes Kishora Kendra High School",
+                "year_or_duration": "2004",
+                "cgpa_or_percentage": "93.82"
+            }
+        ],
+        "bachelors": [
+            {
+                "degree_name": "B.Tech",
+                "institution": "NITK",
+                "year_or_duration": "2010",
+                "cgpa_or_percentage": "7.99"
+            }
+        ],
+        "masters": []
+    },
+    "ExtraCurricularActivities": [
+        "Spicmacay",
+        "Internet Awareness Campaign",
+        "Painting and Sketching",
+        "Cricket",
+        "Swimming",
+        "Volleyball",
+        "Badminton",
+        "Table Tennis",
+        "Reading Novels and Magazines",
+        "State Level Ntse Scholarship"
+    ],
+    "Projects": [
+        {
+            "project_name": "Unfolding Mathematics",
+            "skills_used": ["Mathematics", "Java APIs", "Cross Reference", "Folding and Unfolding of Equations"]
+        },
+        {
+            "project_name": "LAN Talk Software",
+            "skills_used": ["Java APIs", "File Handling"]
+        },
+        {
+            "project_name": "Brief Implementation of File Handling Facilities",
+            "skills_used": ["Java", "IMAP Protocol"]
+        },
+        {
+            "project_name": "Online Laptop Customization Facilities",
+            "skills_used": ["Java"]
+        },
+        {
+            "project_name": "Game of Bricks",
+            "skills_used": ["Computer Graphics"]
+        }
+    ],
+    "Internships": [
+        {
+            "company": "National Institute of Advanced Studies (IISc)",
+            "year": "2009",
+            "skills": ["Mathematics", "Database", "Computer Graphics"]
+        }
+    ],
+    "References": [
+        {
+            "name": "Not Found",
+            "designation": "Not Found"
+        },
+        {
+            "name": "Not Found",
+            "designation": "Not Found"
+        }
+    ]
+}<|end_of_turn|>

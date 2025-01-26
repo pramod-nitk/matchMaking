@@ -1,0 +1,104 @@
+{
+  'Name': 'Ridhi Sahni',
+  'DateOfBirth': 'September 14, 1988',
+  'Gender': 'female',
+  'Email': 'ridhi14@gmail.com',
+  'PhoneNumber': '0091-9535-615880',
+  'Address': 'permanent address: b.tech room 139 ladies hostel nitk surathkal srinivasnagar 57 50 25 mangalore karnataka',
+  'Skills': {
+    'technical_skills': [
+      'computer science'
+    ],
+    'other_skills': [
+      'quiz',
+      'basketball',
+      'volleyball',
+      'soccer',
+      'tennis',
+      'chess',
+      'dance',
+      'maths',
+      'environment',
+      'general knowledge',
+      'science debate'
+    ]
+  },
+  'Education': {
+    'pre_degree': [
+      {
+        'degree_name': '10th',
+        'institution': 'Sharjah Indian School Sharjah',
+        'year_or_duration': '2004',
+        'cgpa_or_percentage': '91'
+      },
+      {
+        'degree_name': 'XIth',
+        'institution': 'Sharjah Indian School Sharjah',
+        'year_or_duration': '2006',
+        'cgpa_or_percentage': '87.8'
+      }
+    ],
+    'bachelors': [
+      {
+        'degree_name': 'B.Tech',
+        'institution': 'National Institute of Technology Karnataka Surathkal',
+        'year_or_duration': '2009',
+        'cgpa_or_percentage': '8.95'
+      }
+    ],
+    'masters': []
+  },
+  'ExtraCurricularActivities': [
+    'House Captain in a school with 4000+ students',
+    'Captain of basketball team',
+    'Vice Captain of the school team for CBSE UAE Cluster Inter School Basketball Tournament 2005.',
+    'Team Leader for Schools Science Exhibition',
+    'Participated in various maths environment and general knowledge quizzes',
+    'Participated in science debate and dance competitions',
+    'Participated in International and Gulf Olympiads in Chemistry Mathematics Science Environment',
+    'Participated in Children Helping Children Charity Campaign',
+    'Participated in Campus Clean Up Drive',
+    'Executive Member of Engineer Annual Technical Festival 2007 2008',
+    'Executive Member of Incident Annual Cultural Festival',
+    'Executive Member of Institution of Engineers India Chapter',
+    'Member of the Social Consciousness Club Genesis',
+    'Member of College Basketball Team',
+    'Guest Student Assistant at Laboratory for Experimental Economics',
+    'Worked under the guidance of Nobel Laureate Prof. Dr. Dr. H.C. Mult. R. Selten and Dr. Martin Hohnisch',
+    'Undertook several tasks in empirical data analysis',
+    'Undertook development of graphical user interface for data analysis in Java',
+    'Kemsol Middle East ERP Oracle Operator'
+  ],
+  'Projects': [
+    {
+      'project_name': 'Study of Image Processing Techniques and Related Developments',
+      'skills_used': [
+        'C',
+        'Digital Image Processing Techniques',
+        'Enhancement'
+      ]
+    }
+  ],
+  'Internships': [
+    {
+      'company': 'Kemsol Middle East',
+      'year': 'May July 2007',
+      'skills': [
+        'ERP',
+        'Data Extraction',
+        'Data Input',
+        'Operated ERP'
+      ]
+    }
+  ],
+  'References': [
+    {
+      'name': 'Vinay Kumar',
+      'designation': 'Head of Department Computer Science NITK Surathkal'
+    },
+    {
+      'name': 'Martin Hohnisch',
+      'designation': 'Senior Researcher Laboratory for Experimental Economics University of Bonn Bonn Germany'
+    }
+  ]
+}<|end_of_turn|>

@@ -1,0 +1,102 @@
+{
+    'Name': 'Karthik N',
+    'DateOfBirth': 'October 5, 1988',
+    'Gender': 'Male',
+    'Email': 'karthik889189@gmail.com',
+    'PhoneNumber': '080 28524201, 9-4483-63704',
+    'Address': 'No 42 43 Yamuna Road Manjunatha Layout Munnekolalu Maratahalli Post Bangalore 560037',
+    'Skills': {
+        'technical_skills': [
+            'Digital Image Processing',
+            'Aerial Image Exploitation',
+            'Lossless Compression'
+        ],
+        'other_skills': [
+            'Reading',
+            'Swimming',
+            'Cycling',
+            'Trekking'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'Xth New Horizon Public School',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '87.5'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '8.18'
+            }
+        ]
+    },
+    'ExtraCurricularActivities': [
+        'Executive Member of Rotaract Club NITK Chapter',
+        'Organised Beach Cleaning Drive',
+        'Organised Blood Donation Camp',
+        'Teaching NITK Government School Students',
+        'Trekking',
+        'Reading',
+        'Swimming',
+        'Cycling',
+        'Teaching NITK Government School Students'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Optimising Memory Transfers for Porting CPU Code Onto GPU for Supercomputing Applications',
+            'skills_used': ['Digital Image Processing']
+        },
+        {
+            'project_name': 'Database System for Hospital Administration System',
+            'skills_used': [
+                'Software Engineering',
+                'Networks Mini Project'
+            ]
+        },
+        {
+            'project_name': 'Software for Implementing Lossless Compression',
+            'skills_used': [
+                'Software Engineering',
+                'Networks Mini Project'
+            ]
+        },
+        {
+            'project_name': 'Port Forwarding Application for Enabling Access of Resources within a Network from the Outside',
+            'skills_used': ['Networks Mini Project']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Aerial Image Exploitation Laboratory',
+            'year': 'May-June 2008',
+            'skills': [
+                'Digital Image Processing',
+                'Aerial Image Exploitation'
+            ]
+        },
+        {
+            'company': 'Supercomputing Education and Research Centre',
+            'year': 'May-July 2009',
+            'skills': [
+                'Software Engineering',
+                'Networks Mini Project'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Mr Vinay Kumar HOD',
+            'designation': 'HOD Department of Computer Engineering, NITK Surathkal'
+        },
+        {
+            'name': 'Prof Govindarajan.R',
+            'designation': 'Chairman, SERC IISC Bangalore'
+        }
+    ]
+}<|end_of_turn|>

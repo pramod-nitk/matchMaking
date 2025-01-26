@@ -1,0 +1,64 @@
+{
+  'Name': 'anisha tanya lobo',
+  'DateOfBirth': 'April 19 1989',
+  'Gender': 'female',
+  'Email': 'anisha194@gmail.com',
+  'PhoneNumber': '0824 2426515',
+  'Address': [
+    {'permanent address': 'b.tech details semester year s.g.p.a c.g.p.a pre degree 10+2th 10th details discipline institution university board year marks anisha tanya lobo b.tech co aileen rodrigues 5 34 b dhake colony j.p. road andheri w mumbai 400053 maharashtra pearl house flat no 102 1st floor 284 davis road st thomas town bangalore 560084. karnataka.'},
+    {'present address': 'Not Found'}
+  ],
+  'Skills': {
+    'technical_skills': [
+      'java',
+      'c',
+      'visual basic',
+      'oracle 10g',
+      'php',
+      'javascript',
+      'html',
+      'css'
+    ],
+    'other_skills': [
+      'good communication and organizing skills',
+      'cultural and sports activities',
+      'optimistic and enthusiastic personality',
+      'sociable'
+    ]
+  },
+  'Education': {
+    'pre_degree': [
+      {'degree_name': '10+2th', 'institution': 'international indian school dammam', 'year_or_duration': '2004', 'cgpa_or_percentage': '91.8'}
+    ],
+    'bachelors': [
+      {'degree_name': 'b.tech', 'institution': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025', 'year_or_duration': '2009 10', 'cgpa_or_percentage': '8.15'}
+    ],
+    'masters': [
+      {'degree_name': 'Not Found', 'institution': 'Not Found', 'year_or_duration': 'Not Found', 'cgpa_or_percentage': 'Not Found'}
+    ]
+  },
+  'ExtraCurricularActivities': [
+    {'activity': 'office bearer in crrescendo', 'year': 'Not Found'},
+    {'activity': 'executive member of incident 09', 'year': 'Not Found'},
+    {'activity': 'helper for a childrens carnival 2008', 'year': 'Not Found'},
+    {'activity': 'participated in the group dance category for crrescendo 09', 'year': 'Not Found'}
+  ],
+  'Projects': [
+    {'project_name': 'developed a java based client simulator for integrated testing of a middleware messaging application for a fortune 500 bank', 'skills_used': ['java']},
+    {'project_name': 'developed a graphics editor using c language and visual basic', 'skills_used': ['c', 'visual basic']},
+    {'project_name': 'developed a medical database showing a list of various diseases and their symptoms using oracle 10g as the backend and php as the frontend', 'skills_used': ['oracle 10g', 'php']},
+    {'project_name': 'developed a smtp and pop3 protocol mailing agent simulator using java', 'skills_used': ['java']},
+    {'project_name': 'developed a graphics editor using c language and visual basic', 'skills_used': ['c', 'visual basic']},
+    {'project_name': 'developed a tic tac toe program', 'skills_used': ['Not Found']},
+    {'project_name': 'analysed traffic congestion of vehicular ad hoc networks using nctuns', 'skills_used': ['Not Found']},
+    {'project_name': 'worked on assignments to develop websites using .net framework mssql database and google map programming', 'skills_used': ['Not Found']}
+  ],
+  'Internships': [
+    {'company': 'mphasis', 'year': 'Not Found', 'skills': ['java']},
+    {'company': 'Not Found', 'year': 'Not Found', 'skills': ['Not Found']}
+  ],
+  'References': [
+    {'name': 'pushkar jamshedkar', 'designation': 'Not Found'},
+    {'name': 'puneet agarwal', 'designation': 'Not Found'}
+  ]
+}<|end_of_turn|>

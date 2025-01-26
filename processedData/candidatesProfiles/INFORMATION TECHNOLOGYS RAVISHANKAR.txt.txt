@@ -1,0 +1,63 @@
+{
+    'Name': 'S Ravishankar',
+    'DateOfBirth': 'December 4 1988',
+    'Gender': 'Male',
+    'Email': 'ravi41288@gmail.com',
+    'PhoneNumber': '+919-6113-62088',
+    'Address': '141 5th Cross Old 11th Cross First Main Gayathrinagar B Block Rajajinagar 2nd Stage Bangalore 560021',
+    'Skills': {
+        'technical_skills': ['SQL', 'C#', 'C++', 'Java', 'HTML', 'CSS', 'Javascript', 'MySQL', 'Python', 'Android', 'General Purpose Computing on Graphics Processing Unit (GPGPU)', 'NVIDIA CUDA'],
+        'other_skills': ['Enthusiastic', 'Good at Learning', 'Team Player']
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'Kendriya Vidyalaya Malleswaram Bangalore',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '89'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal P.O Srinivasnagar Mangalore',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '7.56'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': ['IEEE Student Branch of NITK', 'National Public School Football Team', 'National Talent Search Examination State Scholar Karnataka'],
+    'Projects': [
+        {
+            'project_name': 'Mini Relational Database System',
+            'skills_used': ['SQL', 'C#', 'C++', 'Java', 'HTML', 'CSS', 'Javascript', 'MySQL']
+        },
+        {
+            'project_name': 'Computer Graphics',
+            'skills_used': ['C#', 'C++', 'Java', 'HTML', 'CSS', 'Javascript', 'MySQL', 'Graphic User Interface']
+        },
+        {
+            'project_name': 'General Purpose Computing on Graphics Processing Unit (GPGPU)',
+            'skills_used': ['C++', 'Java', 'HTML', 'CSS', 'Javascript', 'MySQL', 'NVIDIA CUDA']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Not Found',
+            'year': 'Not Found',
+            'skills': ['Not Found']
+        }
+    ],
+    'References': [
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        },
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        }
+    ]
+}<|end_of_turn|>

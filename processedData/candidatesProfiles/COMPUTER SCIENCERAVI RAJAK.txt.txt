@@ -1,0 +1,63 @@
+{
+    'Name': 'Ravi Rajak',
+    'DateOfBirth': 'January 27, 1988',
+    'Gender': 'male',
+    'Email': 'rnitk27@gmail.com',
+    'PhoneNumber': '+919-9168-09759',
+    'Address': 'Not Found',
+    'Skills': {
+        'technical_skills': [
+            'java',
+            'html',
+            'css',
+            'javascript',
+            'php',
+            'python',
+            'c',
+            'c++',
+            'oracle sql'
+        ],
+        'other_skills': [
+            'team work',
+            'hard working',
+            'honest',
+            'confident',
+            'cheer leader',
+            'improve',
+            'work is worship',
+            'success',
+            'systematic efforts'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {'degree_name': '10th', 'institution': 'xth laban bengalee boys meghalaya board of secondary education', 'year_or_duration': '2004', 'cgpa_or_percentage': '76.17'},
+            {'degree_name': '11th', 'institution': 'xiith st. edmund meghalaya board of secondary education', 'year_or_duration': '2006', 'cgpa_or_percentage': '73.4'}
+        ],
+        'bachelors': [
+            {'degree_name': 'B.Tech', 'institution': 'National Institute of Technology Karnataka Surathkal', 'year_or_duration': '2010', 'cgpa_or_percentage': '7.13'}
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'nss',
+        'yoga club',
+        'international coastal clean up day',
+        'lights and sounds club'
+    ],
+    'Projects': [
+        {'project_name': 'Content Personalization of Web Application', 'skills_used': ['java', 'html', 'css', 'javascript']},
+        {'project_name': 'Indian Passport Office Database', 'skills_used': ['java', 'front end', 'database used oraclesql as back end']},
+        {'project_name': 'E Health Care Management System', 'skills_used': ['php', 'javascript', 'html']},
+        {'project_name': 'Online Calculator and Metric Convertor', 'skills_used': ['javascript']},
+        {'project_name': 'Analyzed the computational model of email systems', 'skills_used': ['Not Found']}
+    ],
+    'Internships': [
+        {'company': 'Goa Institute of Management', 'year': 'Not Found', 'skills': ['network management']},
+        {'company': 'Not Found', 'year': 'Not Found', 'skills': ['Not Found']}
+    ],
+    'References': [
+        {'name': 'Not Found', 'designation': 'Not Found'},
+        {'name': 'Not Found', 'designation': 'Not Found'}
+    ]
+}<|end_of_turn|>

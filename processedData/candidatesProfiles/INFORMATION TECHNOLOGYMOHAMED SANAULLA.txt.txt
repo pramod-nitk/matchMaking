@@ -1,0 +1,44 @@
+{
+  'Name': 'Mohamed Sanaulla',
+  'DateOfBirth': 'December 1, 1987',
+  'Gender': 'male',
+  'Email': 'sanaulla123@gmail.com',
+  'PhoneNumber': '+91 80 23229559',
+  'Address': 'b.tech room no d304 mega hostel block nitk hostels nitk surathkal srinivasnagar post 575025 karnataka 128 1st floor 2nd cross karnataka layout 1st stage bangalore 560086',
+  'Skills': {
+    'technical_skills': ['java', 'jsp', 'javafx', 'sql', 'database design', '2d graphics editor', 'animation', 'scan conversion algorithms', 'js', 'ajax', 'mysql', 'UML diagrams', 'REST API', 'C', 'ASP.NET'],
+    'other_skills': ['blogging', 'reading blogs', 'basketball', 'cricket']
+  },
+  'Education': {
+    'pre_degree': [
+      {'degree_name': '10+2th', 'institution': 'Xth Parvathamma Shamanur Shivashankarappa English Medium Residential School', 'year_or_duration': '2004', 'cgpa_or_percentage': '92.8'},
+      {'degree_name': 'XIth', 'institution': 'Kendriya Vidyalaya M G Railway Colony Bangalore', 'year_or_duration': '2006', 'cgpa_or_percentage': '92'}
+    ],
+    'bachelors': [
+      {'degree_name': 'B.Tech', 'institution': 'National Institute of Technology Karnataka', 'year_or_duration': '2009-2013', 'cgpa_or_percentage': '8.43'}
+    ],
+    'masters': []
+  },
+  'ExtraCurricularActivities': [
+    'Campus Ambassador for Sun Microsystems at NITK',
+    'Head Technical Support Letmeknow An Online Youth Information Portal.',
+    'Online Coordinator of the Web Enthusiasts Club at NITK',
+    'Executive Member of Business Events for Engineer Technical Fest NITK Surathkal',
+    'Participated in Great Indian Developer Summit 2008 and 2009',
+    'Played Basketball and Cricket'
+  ],
+  'Projects': [
+    {'project_name': 'jpaintman', 'skills_used': ['2d graphics editor', 'animation']},
+    {'project_name': 'jsql', 'skills_used': ['java', 'database design', 'sql']},
+    {'project_name': 'chess masters club', 'skills_used': ['jsp', 'ajax', 'mysql']},
+    {'project_name': 'ui client for google calendar', 'skills_used': ['javafx']}
+  ],
+  'Internships': [
+    {'company': 'Sun Microsystems', 'year': 'June - July 2009', 'skills': ['javafx', 'UI']},
+    {'company': 'Zealous Solutions', 'year': 'May - July 2008', 'skills': ['REST API', 'C', 'ASP.NET']}
+  ],
+  'References': [
+    {'name': 'Dr. G Ram Mohan Reddy', 'designation': 'Professor and Head Dept. of Information Technology, National Institute of Technology Karnataka'},
+    {'name': 'Dr. V. R. Sastry', 'designation': 'Head of Department, Training and Placement, National Institute of Technology Karnataka'}
+  ]
+}<|end_of_turn|>
