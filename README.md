@@ -116,23 +116,23 @@ We can Create our own docker and use that for this purpose.
 
 3. Extract JSON Data and Create Summaries
 ```
-python main.py --function json_extract \
-               --config config/config.yaml
+python main.py --function json_extract
 ```
 4. Generate Embeddings
 ```
-python main.py --function generate_embeddings \
-               --config config/config.yaml
+python main.py --function generate_embeddings 
 ```
 5. Index Embeddings in FAISS
 ```
-python main.py --function index_embeddings \
-               --config config/config.yaml
+python main.py --function index_embeddings
 ```
 6. Run API / Interactive Search
 ```
-python main.py --function run_api \
-               --config config/config.yaml
+python main.py --function run_api 
+```
+7. Get Insights
+```
+python main.py --function get_insights 
 ```
 #
 # Example Commands
