@@ -1,0 +1,21 @@
+{
+    'Name': 'kaarthik b',
+    'DateOfBirth': 'may 5 1989',
+    'Gender': 'male',
+    'Email': 'kaarthikb@gmail.com',
+    'PhoneNumber': '04-4249-15881',
+    'Address': ['575025 placements 2009 10 b.tech branch computer science', 'b.tech room no 567 mega hostel block nitk hostels nitk surathkal srinivasanagar 575025 421', 'rukmani road kalakshetra colony besant nagar chennai 600090'],
+    'Skills': {
+        'technical_skills': ['c.g.p.a. 7.66', 'semester 1 dec 2006 7.86', 'semester 2 may 2007 8.17', 'semester 3 dec 2007 7.96', 'semester 4 may 2008 7.08', 'semester 5 dec 2008 7.32', 'semester 6 may 2009 7.6'],
+        'other_skills': ['Not Found']
+    },
+    'Education': {
+        'pre_degree': [{'degree_name': '10+2th', 'institution': 'bala vidya mandir chennai', 'year_or_duration': '2004', 'cgpa_or_percentage': '90'}],
+        'bachelors': [{'degree_name': 'b.tech', 'institution': 'national institute of technology karnataka surathkal', 'year_or_duration': '2009 10', 'cgpa_or_percentage': '7.6'}],
+        'masters': {'Not Found'}
+    },
+    'ExtraCurricularActivities': ['about myself', 'co curricular activities'],
+    'Projects': [{'project_name': 'Not Found', 'skills_used': ['Not Found']}],
+    'Internships': [{'company': 'Not Found', 'year': 'Not Found', 'skills': ['Not Found']}],
+    'References': [{'name': 'Not Found', 'designation': 'Not Found'}]
+}<|end_of_turn|>

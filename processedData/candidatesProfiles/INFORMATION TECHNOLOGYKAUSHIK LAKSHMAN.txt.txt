@@ -1,0 +1,107 @@
+{
+    'Name': 'kaushik lakshman',
+    'DateOfBirth': 'january 14 1989',
+    'Gender': 'male',
+    'Email': 'kaushiklakshman@gmail.com',
+    'PhoneNumber': '08-0233-70943, 09-9004-14335',
+    'Address': '202 sindhu apartments 1000 hmt main road divanarapalaya bangalore 560054',
+    'Skills': {
+        'technical_skills': [
+            'information technology'
+        ],
+        'other_skills': [
+            'organizing committee of engineer',
+            'organising committee of slamdunk',
+            'organizer',
+            'member of the techspeak team',
+            'member of the college basketball team',
+            'participate in various literary activities'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10+2th',
+                'institution': 'xth vidya niketan school bangalore',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '84'
+            },
+            {
+                'degree_name': 'xiith',
+                'institution': 'national public school rajajinagar bangalore',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '90'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'b.tech',
+                'institution': 'national institute of technology karnataka surathkal p.o',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '7.57'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'executive member institution of engineers',
+        'executive member organizing committee of slamdunk',
+        'executive member organizing committee of engineer',
+        'member of the techspeak team',
+        'member of the college basketball team',
+        'participate in various literary activities'
+    ],
+    'Projects': [
+        {
+            'project_name': 'unfoldingmath',
+            'skills_used': [
+                'mathematics',
+                'computer',
+                'variable mapping',
+                'equation unfolding',
+                'graphics editor'
+            ]
+        },
+        {
+            'project_name': 'mobile services management system',
+            'skills_used': [
+                'development',
+                'database model',
+                'create',
+                'load',
+                'join',
+                'project',
+                'relational database model',
+                'functions'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'national institute of advanced studies bangalore',
+            'year': '2008',
+            'skills': [
+                'development of unfoldingmath',
+                'mathematics editor',
+                'creates mathematical and scientific documents on the computer',
+                'variable mapping',
+                'equation unfolding',
+                'academic projects documentation',
+                'software engineering',
+                'analysis on mobile services management system',
+                'design and implementation of a relational database model',
+                'create load join project',
+                'design and implementation of a graphics editor',
+                'fully functional animation features',
+                'dr. tim poston',
+                'sir ashutosh mukherjee'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'mr prashant pitti',
+            'designation': 'founder and ceo indiakhelo'
+        }
+    ]
+}<|end_of_turn|>

@@ -1,0 +1,182 @@
+{
+    'Name': 'Shreyas Tonse',
+    'DateOfBirth': 'September 22, 1988',
+    'Gender': 'Male',
+    'Email': 'shreyastonse@gmail.com',
+    'PhoneNumber': '9964380894',
+    'Address': [{'permanent': 'No 303 Janardana Towers, Next to Taluk Office, Udupi 576101'}, {'present': 'Mega Hostel Block, NITKS, Hostels, NITK Surathkal'}],
+    'Skills': {
+        'technical_skills': [
+            'Adobe Flex',
+            'AMFPHP',
+            'ASP.NET',
+            'Badminton',
+            'C',
+            'C#',
+            'CBSE',
+            'Cricket',
+            'Design',
+            'Football',
+            'Freelance Web Development',
+            'HTML',
+            'Java',
+            'JavaScript',
+            'Linux',
+            'Microsoft SQL Server',
+            'MySQL',
+            'Oracle',
+            'PHP',
+            'Photoshop',
+            'PowerPoint',
+            'Python',
+            'SQL',
+            'Tableau',
+            'WordPress',
+            'Web Design',
+            'Web Development',
+            'Web Services BPEL'
+        ],
+        'other_skills': [
+            'Artwork',
+            'Chess',
+            'Driving',
+            'Driving Town',
+            'Poster Design'
+        ]
+    },
+    'Education': {
+        'pre_degree': [{'degree_name': '', 'institution': 'Xth Dr S Radhakrishnan Vidyalaya', 'year_or_duration': '2004', 'cgpa_or_percentage': '90.93'}],
+        'bachelors': [
+            {'degree_name': 'B.Tech', 'institution': 'National Institute of Technology Karnataka Surathkal', 'year_or_duration': '2009', 'cgpa_or_percentage': '9.04'}
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        {'activity': 'E Forea Engineers Forum for Entrepreneurship Awareness'},
+        {'activity': 'The E Cell of NITK'},
+        {'activity': 'Adobe Developer Summit Hyderabad'},
+        {'activity': 'Technical Committee for Engineer Golden Jubilee Edition'},
+        {'activity': 'Virtual Bounty'},
+        {'activity': 'Publicity Committee for Engineer 08'},
+        {'activity': 'Print Media Publicity for Engineer 09'},
+        {'activity': 'British Council Association of British Scholars'},
+        {'activity': 'Workshop on Renewable Energy'},
+        {'activity': 'SAANIDHYA'},
+        {'activity': 'Beach Cleaning Initiatives at NITK'},
+        {'activity': 'Web Development Work'},
+        {'activity': 'Chess Club at NITK'},
+        {'activity': 'Club Hp Scholarship'},
+        {'activity': 'Cricket'},
+        {'activity': 'Football'},
+        {'activity': 'Badminton'},
+        {'activity': 'Poster and Other Art Work'},
+        {'activity': 'Traveling and Driving Around Town in My Car'}
+    ],
+    'Projects': [
+        {
+            'project_name': 'Virtual Bounty',
+            'skills_used': [
+                'Adobe Flex',
+                'Web Design',
+                'Web Development'
+            ]
+        },
+        {
+            'project_name': 'Course Management Tool Intranet',
+            'skills_used': [
+                'Adobe Flex',
+                'PHP'
+            ]
+        },
+        {
+            'project_name': 'CRM Software and Improvement of Electronic Clearing System (ECS)',
+            'skills_used': [
+                'Adobe Flex',
+                'Java',
+                'Linux',
+                'Web Services BPEL'
+            ]
+        },
+        {
+            'project_name': 'College Portal',
+            'skills_used': [
+                'Adobe Flex',
+                'PHP'
+            ]
+        },
+        {
+            'project_name': 'Design of Customer Relations Manager CRM Software',
+            'skills_used': [
+                'Java',
+                'Linux',
+                'Web Services BPEL'
+            ]
+        },
+        {
+            'project_name': 'Design of Internet Reference',
+            'skills_used': [
+                'Adobe Flex',
+                'PHP'
+            ]
+        },
+        {
+            'project_name': 'Web Technologies and Applications',
+            'skills_used': [
+                'Adobe Flex',
+                'PHP'
+            ]
+        },
+        {
+            'project_name': 'Online Examination System',
+            'skills_used': [
+                'ASP.NET',
+                'Java',
+                'Web Development'
+            ]
+        },
+        {
+            'project_name': 'Opera Campus Connect Program',
+            'skills_used': [
+                'PHP',
+                'MySQL'
+            ]
+        },
+        {
+            'project_name': 'PHP MySQL',
+                'skills_used': [
+                'PHP',
+                'MySQL'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'SocialWay',
+            'year': 'First Year',
+            'skills': [
+                'Web Development',
+                'Freelance Web Development',
+                'Web Design'
+            ]
+        },
+        {
+            'company': 'Tavant Technologies',
+            'year': 'First Year',
+            'skills': [
+                'Marketing',
+                'Web Development'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Dr Ananthanarayana',
+            'designation': 'Assistant Professor, Dept of IT, NITK Surathkal'
+        },
+        {
+            'name': 'Dr S Raghavendra Prakash',
+            'designation': 'Assistant Professor, Dept of IT, NITK Surathkal'
+        }
+    ]
+}
+<|end_of_turn|>

@@ -1,0 +1,21 @@
+{
+    'Name': 'preetam yogesh anchan',
+    'DateOfBirth': 'june 23 1988',
+    'Gender': 'male',
+    'Email': 'preetam.anchan@gmail.com',
+    'PhoneNumber': '08-2424-09002',
+    'Address': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025',
+    'Skills': {
+        'technical_skills': ['c', 'c++', 'photoshop', 'after effects', 'sony vegas', 'html', 'web 2.0 technologies'],
+        'other_skills': ['basketball', 'swimming', 'squash', 'table tennis', 'football', 'piano', 'karate', 'school monitor', 'prefect']
+    },
+    'Education': {
+        'pre_degree': [{'degree_name': '10+2th', 'institution': 'xth indian high school dubai cbse', 'year_or_duration': '2004', 'cgpa_or_percentage': '86'}],
+        'bachelors': [{'degree_name': 'b.tech', 'institution': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore', 'year_or_duration': '2009-2014', 'cgpa_or_percentage': '5.83'}],
+        'masters': []
+    },
+    'ExtraCurricularActivities': ['basketball', 'swimming', 'squash', 'table tennis', 'football', 'piano', 'karate', 'school monitor', 'prefect'],
+    'Projects': [],
+    'Internships': [{'company': 'govt. of dubai h.h. the rulers court', 'year': 'summer', 'skills': ['a+ certification', 'ms office', 'c++']}, {'company': 'ncr', 'year': 'summer', 'skills': ['network management', 'atm links']}],
+    'References': []
+}<|end_of_turn|>

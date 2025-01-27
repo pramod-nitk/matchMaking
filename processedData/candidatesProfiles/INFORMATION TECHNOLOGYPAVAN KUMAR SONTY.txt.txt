@@ -1,0 +1,92 @@
+{
+    "Name": "Pavan Kumar Sonty",
+    "DateOfBirth": "21 July 1989",
+    "Gender": "Male",
+    "Email": "pavansonty@gmail.com",
+    "PhoneNumber": "08-6628-83282",
+    "Address": "permanent address",
+    "Skills": {
+        "technical_skills": [
+            "computer graphics",
+            "database systems"
+        ],
+        "other_skills": [
+            "swimming"
+        ]
+    },
+    "Education": {
+        "pre_degree": [
+            {
+                "degree_name": "10th",
+                "institution": "Xth D.A.V Public School, V.T.P.S., S.S.C, A.P.",
+                "year_or_duration": "2004",
+                "cgpa_or_percentage": "86.5"
+            },
+            {
+                "degree_name": "XIth",
+                "institution": "Nalanda Jr. College, Vijayawada",
+                "year_or_duration": "2006",
+                "cgpa_or_percentage": "91.7"
+            }
+        ],
+        "bachelors": [
+            {
+                "degree_name": "B.Tech",
+                "institution": "National Institute of Technology Karnataka, Surathkal",
+                "year_or_duration": "2010",
+                "cgpa_or_percentage": "7.03"
+            }
+        ],
+        "masters": []
+    },
+    "ExtraCurricularActivities": [
+        "active member in web club.",
+        "active member in management forum.",
+        "state 3rd in Xth class maths quiz.",
+        "secured 1st in online maths contest of NITK Tech Fest in 2nd year of B.Tech.",
+        "1st prize in Xth class inter school chess competitions."
+    ],
+    "Projects": [
+        {
+            "project_name": "Computer Graphics Mini Project",
+            "skills_used": [
+                "developed an application programming interface with gui which is used to create and save animated figures."
+            ]
+        },
+        {
+            "project_name": "Database Systems Mini Project",
+            "skills_used": [
+                "developed a database management system for primitive Indian Railways using html as front end and oracle sql as the back end."
+            ]
+        },
+        {
+            "project_name": "MINREL",
+            "skills_used": [
+                "coded for rdbms in c which is similar in functionality to sql but with fewer functions."
+            ]
+        },
+        {
+            "project_name": "Online Counselling",
+            "skills_used": [
+                "developed a website for online counselling for KCET."
+            ]
+        }
+    ],
+    "Internships": [
+        {
+            "company": "Not Found",
+            "year": "Not Found",
+            "skills": []
+        }
+    ],
+    "References": [
+        {
+            "name": "Dr. Ananthanarayana V. S.",
+            "designation": "Professor and Head Dept. of Information Technology, National Institute of Technology Karnataka Surathkal"
+        },
+        {
+            "name": "Dr. Prakash Raghavendra",
+            "designation": "Assistant Professor, Department of Information Technology, National Institute of Technology Karnataka Surathkal"
+        }
+    ]
+}<|end_of_turn|>

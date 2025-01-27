@@ -1,0 +1,102 @@
+{
+    'Name': 'Kamlesh Kumar Chhetty',
+    'DateOfBirth': 'August 3, 1986',
+    'Gender': 'Male',
+    'Email': 'kamleshkc2002@gmail.com',
+    'PhoneNumber': '03-3224-20557',
+    'Address': 'Flat 6, Esplanade Mansion 14, Government Place, Kolkata 700069, West Bengal',
+    'Skills': {
+        'technical_skills': [
+            'C',
+            'C++',
+            'Java',
+            'C++',
+            'Oracle',
+            'Steganography'
+        ],
+        'other_skills': [
+            'Debater',
+            'Quiz Lover',
+            'Group Dance'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': 'Xth',
+                'institution': 'Kendriya Vidylalya Shahdol',
+                'year_or_duration': '2001',
+                'cgpa_or_percentage': '82'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Srinivasnagar P.O',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '6.65'
+            },
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'NITK Boys Hostel',
+                'year_or_duration': '2009-2010',
+                'cgpa_or_percentage': '6.47'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'Executive Member of the Indian Society for Technical Education ISTE Mangalore Chapter',
+        'Class Representative for my year',
+        'Active Participant in Sports Activities',
+        'Executive Member of Various Committees in College Fests like Engineer Incident and Crescendo',
+        'Active Participant in Various Events in the College',
+        'Enthusiastic Debater and Quiz Lover',
+        'Won First Prize in Group Dance Competition in Spandan 09',
+        'Elected Gaming Convenor for the Technical Fest Engineer 2009'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Snake Game',
+            'skills_used': [
+                'C',
+                'C++'
+            ]
+        },
+        {
+            'project_name': 'Database Management System for an Insurance Company',
+            'skills_used': [
+                'Java',
+                'C++'
+            ]
+        },
+        {
+            'project_name': 'Steganography Software',
+            'skills_used': [
+                'Java',
+                'C++'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'CMC Ltd Kolkata',
+            'year': '2009',
+            'skills': [
+                'Java',
+                'C++',
+                'Oracle'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Mr. K Vinay Kumar',
+            'designation': 'Assistant Professor, Department of Computer Engineering, National Institute of Technology Karnataka Srinivasnagar P.O, Surathkal, Karnataka State, India Pin 575 025'
+        },
+        {
+            'name': 'Dr. T G Basavaraju',
+            'designation': 'Assistant Professor, Department of Computer Engineering, National Institute of Technology Karnataka Srinivasnagar P.O, Surathkal, Karnataka State, India Pin 575 025'
+        }
+    ]
+}<|end_of_turn|>

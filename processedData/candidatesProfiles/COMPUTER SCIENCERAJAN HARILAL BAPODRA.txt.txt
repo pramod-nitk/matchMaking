@@ -1,0 +1,127 @@
+{
+ "Name": "Rajan Harilal Bapodra",
+ "DateOfBirth": "November 10, 1988",
+ "Gender": "Male",
+ "Email": "rajan_b007@hotmail.com",
+ "PhoneNumber": "+919-9450-47794",
+ "Address": "Not Found",
+ "Skills": {
+  "technical_skills": [
+   "C++",
+   "CG DBMS",
+   "Java",
+   "Java RMI",
+   "Android",
+   "MFC",
+   "OpenGL",
+   "Skia",
+   "Basic",
+   "Motion",
+   "Touch Interface",
+   "Blackjack",
+   "Widget Drawing",
+   "Media Player Application",
+   "Half Life 2 Mod"
+  ],
+  "other_skills": [
+   "Football",
+   "Reading Books",
+   "Listening to Music",
+   "Watching Movies",
+   "Computer Programming"
+  ]
+ },
+ "Education": {
+  "pre_degree": [
+   {
+    "degree_name": "10th",
+    "institution": "Sharjah Indian School Sharjah UAE",
+    "year_or_duration": "2004",
+    "cgpa_or_percentage": "87.6"
+   },
+   {
+    "degree_name": "XIITH",
+    "institution": "Sharjah Indian School Sharjah UAE",
+    "year_or_duration": "2006",
+    "cgpa_or_percentage": "90.8"
+   }
+  ],
+  "bachelors": [
+   {
+    "degree_name": "B.Tech",
+    "institution": "National Institute of Technology Karnataka",
+    "year_or_duration": "2010",
+    "cgpa_or_percentage": "8.05"
+   }
+  ],
+  "masters": [
+   {
+    "degree_name": "Not Found",
+    "institution": "Not Found",
+    "year_or_duration": "Not Found",
+    "cgpa_or_percentage": "Not Found"
+   }
+  ]
+ },
+ "ExtraCurricularActivities": [
+  "Inter school quiz competitions",
+  "Intra school drama competition",
+  "Interschool athletic meets",
+  "Phoenix - Annual sports festival of National Institute of Technology Karnataka in 2007",
+  "Tech activities - Annual tech festival of National Institute of Karnataka called Engineer"
+ ],
+ "Projects": [
+  {
+   "project_name": "E Invoice Handling",
+   "skills_used": [
+    "Java",
+    "Java RMI",
+    "Android",
+    "Distributed Calculator"
+   ]
+  },
+  {
+   "project_name": "Basic Paint Application",
+   "skills_used": [
+    "MFC",
+    "OpenGL",
+    "Skia",
+    "Basic",
+    "1 Dimensional Motion",
+    "Touch Interface",
+    "Android",
+    "Employing Skia Font API"
+   ]
+  },
+  {
+   "project_name": "Half Life 2 Mod",
+   "skills_used": [
+    "Basic",
+    "Widget Drawing",
+    "Media Player Application",
+    "Blackjack",
+    "Prof K.Chandrasekaran",
+    "Dr. B.R.Shankar"
+   ]
+  }
+ ],
+ "Internships": [
+  {
+   "company": "Not Found",
+   "year": "Not Found",
+   "skills": [
+    "Not Found"
+   ]
+  }
+ ],
+ "References": [
+  {
+   "name": "Not Found",
+   "designation": "Not Found"
+  },
+  {
+   "name": "Not Found",
+   "designation": "Not Found"
+  }
+ ]
+}<|end_of_turn|>

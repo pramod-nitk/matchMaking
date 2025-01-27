@@ -1,0 +1,69 @@
+{
+    "Name": "Abhishek S",
+    "DateOfBirth": "31 May 1988",
+    "Gender": "Male",
+    "Email": "abhi.kimi.msh@gmail.com",
+    "PhoneNumber": "080 23634868",
+    "Address": {
+        "permanent": "575025 placements 2009 10 b.tech branch computer science abhishek s",
+        "present": "e 1 505 white house 15th cross 6th main r.t nagar bangalore 560032"
+    },
+    "Skills": {
+        "technical_skills": ["electronics and radar development", "database systems"],
+        "other_skills": ["table tennis", "lawn tennis"]
+    },
+    "Education": {
+        "pre_degree": [
+            {
+                "degree_name": "10+2th",
+                "institution": "sindhi high school bangalore cbse",
+                "year_or_duration": "2004",
+                "cgpa_or_percentage": "93.4"
+            },
+            {
+                "degree_name": "xiith",
+                "institution": "sindhi high school bangalore cbse",
+                "year_or_duration": "2006",
+                "cgpa_or_percentage": "92.4"
+            }
+        ],
+        "bachelors": {
+            "degree_name": "b.tech",
+            "institution": "national institute of technology karnataka surathkal p.o",
+            "year_or_duration": "2006",
+            "cgpa_or_percentage": "7.46"
+        }
+    },
+    "ExtraCurricularActivities": [
+        "lawn tennis",
+        "table tennis"
+    ],
+    "Projects": [
+        {
+            "project_name": "Cricket website for the Indian Premier League",
+            "skills_used": ["database systems"]
+        }
+    ],
+    "Internships": [
+        {
+            "company": "LRDE Defense Research and Development Organization DRDO",
+            "year": "Not Found",
+            "skills": ["electronics and radar development"]
+        },
+        {
+            "company": "TCS",
+            "year": "Not Found",
+            "skills": ["database systems"]
+        }
+    ],
+    "References": [
+        {
+            "name": "Not Found",
+            "designation": "Not Found"
+        },
+        {
+            "name": "Mr. Viswam Gampala",
+            "designation": "Scientist F E Radar Division"
+        }
+    ]
+}<|end_of_turn|>

@@ -1,0 +1,78 @@
+{
+    'Name': 'Kamat Trivikram Alias Sayeel L',
+    'DateOfBirth': 'November 10, 1988',
+    'Gender': 'Male',
+    'Email': 'kamat.trivikram@gmail.com',
+    'PhoneNumber': '+91 832 2914572',
+    'Address': {
+        'permanent_address': 'House No. 13, Ward No. 14, Khorlim, Mapusa, Goa 403507',
+        'present_address': 'B.Tech Room No. D104, Mega Block, NITK Hostels, Srinivasanagar 575025'
+    },
+    'Skills': {
+        'technical_skills': ['C++', 'PHP', 'MySQL', 'Java', 'C#', 'HTML', 'CSS', 'JavaScript', 'Adobe Photoshop', 'Adobe Illustrator', 'Microsoft Office', 'Oracle SQL', 'Bootable USB', 'Bandwidth Monitoring', 'Graphics Editor'],
+        'other_skills': ['Creative Science', 'National Balshree Award', 'National Talent Search Examination Scholarship']
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': 'X',
+                'institution': 'Xth Saraswat Vidyalaya High School',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '90.67'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'NITK',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '8.69'
+            }
+        ]
+    },
+    'ExtraCurricularActivities': [
+        'Technical Coordinator of Engineer Golden Jubilee Edition',
+        'Executive Member of Technical Support Committee 2009 and Software Support Committee 2008 of Engineer. Club',
+        'Website Coordinator of Star Gazing Club at NITK',
+        'Treasurer of Web Enthusiasts Club at NITK'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Travel Based Social Network',
+            'skills_used': ['C++', 'PHP', 'MySQL', 'Java', 'C#', 'HTML', 'CSS', 'JavaScript', 'Adobe Photoshop', 'Adobe Illustrator', 'Microsoft Office', 'Oracle SQL', 'Bootable USB', 'Bandwidth Monitoring', 'Graphics Editor']
+        },
+        {
+            'project_name': 'Student Portal Website',
+            'skills_used': ['PHP', 'MySQL']
+        },
+        {
+            'project_name': 'Football Statistics Manager',
+            'skills_used': ['PHP', 'MySQL']
+        },
+        {
+            'project_name': 'Mini Relational DBMS',
+            'skills_used': ['C++']
+        },
+        {
+            'project_name': 'Graphics Editor',
+            'skills_used': ['C++', 'Java', 'C#', 'HTML', 'CSS', 'JavaScript']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Dlink Goa',
+            'year': 'May 2008',
+            'skills': ['Bootable USB', 'Bandwidth Monitoring']
+        }
+    ],
+    'References': [
+        {
+            'name': 'Dr. Prakash Raghavendra',
+            'designation': 'Assistant Professor Department of Information Technology NITK Surathkal'
+        },
+        {
+            'name': 'Dr. Shyam S. Kamath',
+            'designation': 'Assistant Professor Department of Macs NITK Surathkal'
+        }
+    ]
+}<|end_of_turn|>

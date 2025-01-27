@@ -1,0 +1,208 @@
+{
+  'Name': 'Shailesh Mota',
+  'DateOfBirth': 'November 18, 1987',
+  'Gender': 'Male',
+  'Email': 'shaileshmota1234@gmail.com',
+  'PhoneNumber': '0191 2552184',
+  'Address': 'Not Found',
+  'Skills': {
+    'technical_skills': ['C', 'Java', 'VB Framework', 'Oracle 10g', 'NetBeans', 'VB Framework', 'Matlab', 'MPEG 1 Layer 1 MP1', 'MPEG 1 Layer 3 MP3'],
+    'other_skills': ['Dance Dramatics', 'Fashion Club', 'Adventure Sports', 'Browsing Net', 'Reading Novels', 'Listening to Music']
+  },
+  'Education': {
+    'pre_degree': [{'degree_name': '10+2th', 'institution': 'Nagbani Jammu CBSE', 'year_or_duration': '2004', 'cgpa_or_percentage': '87.8'}],
+    'bachelors': [{'degree_name': 'B.Tech', 'institution': 'National Institute of Technology Karnataka Surathkal', 'year_or_duration': '2009', 'cgpa_or_percentage': '8.55'}],
+    'masters': [{'degree_name': 'Not Found', 'institution': 'Not Found', 'year_or_duration': 'Not Found', 'cgpa_or_percentage': 'Not Found'}]
+  },
+  'ExtraCurricularActivities': [
+    'Student Member of the IEEE Chapter in College.',
+    'Secured 7th Rank in JK 6421th Rank All Over India in the All India Entrance Examination AIEEE 2006 Among the 600000 Who Took the Examination.',
+    'Member of the Organising Committee of ENGINEER 2008 and ENGINEER 2009 The Annual Technical Symposium of NITK.',
+    'Member of the Organising Committee of INCIDENT 20072008 and 2009 The Annual Cultural Festival of NITK.',
+    'Class Representative for the Year 2008 2009.',
+    'An Active Member of Dance Dramatics and Fashion Club of Our College.'
+  ],
+  'Projects': [
+    {'project_name': 'Graphics Editor', 'skills_used': ['C']},
+    {'project_name': 'minrel', 'skills_used': ['Java']},
+    {'project_name': 'Computer Sales Management System', 'skills_used': ['Oracle 10g', 'VB Framework']},
+    {'project_name': 'Mathematics Reference', 'skills_used': ['Java']},
+    {'project_name': 'Summer Project', 'skills_used': ['Matlab']},
+    {'project_name': 'Perceptual Audio Coding', 'skills_used': ['VB Framework', 'MPEG 1 Layer 1 MP1', 'MPEG 1 Layer 3 MP3']},
+    {'project_name': 'Summer Project', 'skills_used': ['VB Framework']}
+  ],
+  'Internships': [
+    {'company': 'Not Found', 'year': 'Not Found', 'skills': ['C', 'Java', 'VB Framework']},
+    {'company': 'National Institute of Advanced Sciences Bangalore', 'year': '2008', 'skills': ['VB Framework']},
+    {'company': 'Not Found', 'year': 'Not Found', 'skills': ['VB Framework']}
+  ],
+  'References': [
+    {'name': 'Dr. G. Ram Mohana Reddy', 'designation': 'HOD, Dept. of Information Technology, NITK Surathkal'},
+    {'name': 'Prof. Timothy Poston', 'designation': 'Chief Scientist PADO Sir Ashutosh Mukherjee Professor NIAS Bangalore'}
+  ]
+}
+
+
+
+
+---
+
+Resume:
+
+J. K. Smith
+
+123 Main St.
+
+Anytown, USA 12345
+
+Phone: (555) 555-5555
+
+Email: jk.smith@email.com
+
+---
+
+Education:
+
+Bachelor of Science in Computer Science, 2010
+
+University of Computer Science
+
+1314 Elm St.
+
+Anytown, USA 12345
+
+GPA: 3.5
+
+---
+
+Experience:
+
+Software Engineer, ABC Corp.
+
+June 2011 - Present
+
+- Developed and maintained web applications
+
+- Collaborated with cross-functional teams
+
+- Debugged and resolved software defects
+
+Software Development Intern, DEF Inc.
+
+June 2010 - August 2010
+
+- Assisted in the development of a mobile application
+
+- Worked with a team of developers and QA testers
+
+- Utilized agile development methodologies
+
+Projects:
+
+XYZ Project
+
+- Role: Developer
+
+- Technologies used: Java, Python, SQL
+
+---
+
+Skills:
+
+- Proficient in Java, Python, and SQL
+
+- Strong understanding of web development and mobile application development
+
+- Familiar with agile development methodologies
+
+---
+
+References:
+
+Available upon request.
+
+---
+
+Please note that the above resume is just a template and should be modified to fit the individual's specific experiences and qualifications.
+
+---
+
+Resume:
+
+John Doe
+
+123 Main Street
+
+Anytown, USA 12345
+
+Phone: (555) 555-1234
+
+Email: john.doe@email.com
+
+---
+
+Education:
+
+Bachelor of Science in Computer Science, 2010
+
+University of Computer Science
+
+1314 Elm Street
+
+Anytown, USA 12345
+
+GPA: 3.7
+
+---
+
+Experience:
+
+Software Engineer, XYZ Corporation
+
+June 2011 - Present
+
+- Developed and maintained web applications
+
+- Collaborated with cross-functional teams
+
+- Debugged and resolved software defects
+
+Software Development Intern, ABC Inc.
+
+June 2010 - August 2010
+
+- Assisted in the development of a mobile application
+
+- Worked with a team of developers and QA testers
+
+- Utilized agile development methodologies
+
+Projects:
+
+PQR Project
+
+- Role: Developer
+
+- Technologies used: Java, Python, SQL
+
+---
+
+Skills:
+
+- Proficient in Java, Python, and SQL
+
+- Strong understanding of web development and mobile application development
+
+- Familiar with agile development methodologies
+
+---
+
+References:
+
+Available upon request.
+
+---
+
+Please note that the above resume is just a template and should be modified to fit the individual's specific experiences and qualifications.
+
+---<|end_of_turn|>

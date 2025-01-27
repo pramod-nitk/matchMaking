@@ -1,0 +1,99 @@
+{
+ 'Name': 'Shivanand Pawar',
+ 'DateOfBirth': 'February 16 1988',
+ 'Gender': 'male',
+ 'Email': 'shivanand.pawar@gmail.com',
+ 'PhoneNumber': '08-3624-42683',
+ 'Address': 'Not Found',
+ 'Skills': {
+  'technical_skills': [
+   'Not Found'
+  ],
+  'other_skills': [
+   'Not Found',
+   'Not Found',
+   'Not Found',
+   'Not Found'
+  ]
+ },
+ 'Education': {
+  'pre_degree': [
+   {
+    'degree_name': '10+2th',
+    'institution': 'High School, Dharwad, Karnatak State Board',
+    'year_or_duration': '2004',
+    'cgpa_or_percentage': '95.33'
+   },
+   {
+    'degree_name': 'XIITH',
+    'institution': 'Chetan Science Pre University College, Hubli',
+    'year_or_duration': '2006',
+    'cgpa_or_percentage': '88.5'
+   },
+   {
+    'degree_name': 'B.Tech',
+    'institution': 'National Institute of Technology, Karnataka, Surathkal',
+    'year_or_duration': '2010',
+    'cgpa_or_percentage': '6.76'
+   }
+  ],
+  'bachelors': [
+   {
+    'degree_name': 'B.Tech',
+    'institution': 'National Institute of Technology, Karnataka, Surathkal',
+    'year_or_duration': '2010',
+    'cgpa_or_percentage': '6.76'
+   }
+  ],
+  'masters': [
+   {
+    'degree_name': 'Not Found',
+    'institution': 'Not Found',
+    'year_or_duration': 'Not Found',
+    'cgpa_or_percentage': 'Not Found'
+   }
+  ]
+ },
+ 'ExtraCurricularActivities': [
+  'Not Found',
+  'Not Found'
+ ],
+ 'Projects': [
+  {
+   'project_name': 'Not Found',
+   'skills_used': [
+    'Not Found',
+    'Not Found',
+    'Not Found',
+    'Not Found',
+    'Not Found',
+    'Not Found',
+    'Not Found'
+   ]
+  }
+ ],
+ 'Internships': [
+  {
+   'company': 'Not Found',
+   'year': 'Not Found',
+   'skills': [
+    'Not Found',
+    'Not Found',
+    'Not Found',
+    'Not Found',
+    'Not Found',
+    'Not Found'
+   ]
+  }
+ ],
+ 'References': [
+  {
+   'name': 'Dr. Mohan Reddy',
+   'designation': 'HOD IT Department'
+  },
+  {
+   'name': 'Dinesh Naik',
+   'designation': 'Faculty Advisor IT Department'
+  }
+ ]
+}<|end_of_turn|>

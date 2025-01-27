@@ -1,0 +1,93 @@
+{
+ 'Name': 'ajay ramseshan',
+ 'DateOfBirth': 'september 4 1988',
+ 'Gender': 'male',
+ 'Email': 'ajayramaseshan@gmail.com',
+ 'PhoneNumber': '08-0267-86789',
+ 'Address': {
+  'permanent': 'Not Found'
+ },
+ 'Skills': {
+  'technical_skills': [
+   'Not Found'
+  ],
+  'other_skills': [
+   'play keyboard',
+   'core member ieee chapter',
+   'member spicmacay chapter',
+   'hardworking diligent person',
+   'good team player',
+   'adapt to new situations'
+  ]
+ },
+ 'Education': {
+  'pre_degree': [
+   {
+    'degree_name': '10+2th',
+    'institution': 'national public school bangalore',
+    'year_or_duration': '2004',
+    'cgpa_or_percentage': '94.4'
+   },
+   {
+    'degree_name': 'xiith',
+    'institution': 'national public school bangalore',
+    'year_or_duration': '2006',
+    'cgpa_or_percentage': '86'
+   }
+  ],
+  'bachelors': [
+   {
+    'degree_name': 'b.tech',
+    'institution': 'national institute of technology karnataka surathkal',
+    'year_or_duration': '2009',
+    'cgpa_or_percentage': '8.09'
+   }
+  ],
+  'masters': [
+   {
+    'degree_name': 'Not Found'
+   }
+  ]
+ },
+ 'ExtraCurricularActivities': [
+  'play keyboard',
+  'core member ieee chapter',
+  'member spicmacay chapter',
+  'hardworking diligent person',
+  'good team player',
+  'adapt to new situations'
+ ],
+ 'Projects': [
+  {
+   'project_name': 'project in silverlight and its applications in data visualisation in microsoft technology center bangalore during summer 2008',
+   'skills_used': [
+    'Not Found'
+   ]
+  },
+  {
+   'project_name': 'project in solving the k nearest neighbour problem on gpus in helsinki university of technology finland during summer 2009',
+   'skills_used': [
+    'Not Found'
+   ]
+  }
+ ],
+ 'Internships': [
+  {
+   'company': 'Not Found',
+   'year': 'Not Found',
+   'skills': [
+    'Not Found'
+   ]
+  }
+ ],
+ 'References': [
+  {
+   'name': 'ramkumar kothandaraman',
+   'designation': 'director microsoft technology center bangalore microsoft india'
+  },
+  {
+   'name': 'dr. amaury lendasse',
+   'designation': 'dept of computer engg helsinki university of technology otaniemi 02150 espoo finland'
+  }
+ ]
+}<|end_of_turn|>

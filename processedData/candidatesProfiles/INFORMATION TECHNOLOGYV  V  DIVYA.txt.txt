@@ -1,0 +1,95 @@
+{
+  'Name': 'V V Divya',
+  'DateOfBirth': 'December 5 1987',
+  'Gender': 'female',
+  'Email': 'atdivyaa@gmail.com',
+  'PhoneNumber': '0-3783-222604, 09-5356-16442',
+  'Address': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025',
+  'Skills': {
+    'technical_skills': [
+      'database management system',
+      'internet technology and application',
+      'software engineering',
+      'asp.net',
+      'vb',
+      'c'
+    ],
+    'other_skills': [
+      'hard working and sincere',
+      'interested in studying new technologies'
+    ]
+  },
+  'Education': {
+    'pre_degree': [
+      {
+        'degree_name': '10th',
+        'institution': 'Ramakrishna Mission School',
+        'year_or_duration': '2003',
+        'cgpa_or_percentage': '82.8'
+      },
+      {
+        'degree_name': 'XII',
+        'institution': 'Ramakrishna Mission School',
+        'year_or_duration': '2005',
+        'cgpa_or_percentage': '76.6'
+      }
+    ],
+    'bachelors': [
+      {
+        'degree_name': 'B.Tech',
+        'institution': 'National Institute of Technology Karnataka Surathkal',
+        'year_or_duration': '2009',
+        'cgpa_or_percentage': '6.34'
+      }
+    ],
+    'masters': [
+      {
+        'degree_name': '',
+        'institution': '',
+        'year_or_duration': '',
+        'cgpa_or_percentage': ''
+      }
+    ]
+  },
+  'ExtraCurricularActivities': [
+    'member of artist forum',
+    'member of spicmacaynitk chapter',
+    'member of nss club',
+    'member of genesis club'
+  ],
+  'Projects': [
+    {
+      'project_name': 'database management system',
+      'skills_used': ['asp.net', 'vb']
+    },
+    {
+      'project_name': 'internet technology and application',
+      'skills_used': ['asp.net']
+    },
+    {
+      'project_name': 'software engineering',
+      'skills_used': ['asp.net', 'c']
+    },
+    {
+      'project_name': 'online help desk using asp.net and vb',
+      'skills_used': ['asp.net', 'vb']
+    }
+  ],
+  'Internships': [
+    {
+      'company': 'SouthSoft Solutions Pvt Ltd',
+      'year': 'Not Found',
+      'skills': ['asp.net', 'c']
+    }
+  ],
+  'References': [
+    {
+      'name': 'Dr. G Ram Mohana Reddy',
+      'designation': 'Professor and Head, Department of Information Technology, National Institute of Technology Karnataka Surathkal'
+    },
+    {
+      'name': 'Mr. Dinesh Naik',
+      'designation': 'Lecturer, Department of Information Technology, National Institute of Technology Karnataka Surathkal'
+    }
+  ]
+}<|end_of_turn|>

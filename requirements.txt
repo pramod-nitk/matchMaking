@@ -12,3 +12,4 @@ PyYAML
 flake8
 black
 pylint
+matplotlib

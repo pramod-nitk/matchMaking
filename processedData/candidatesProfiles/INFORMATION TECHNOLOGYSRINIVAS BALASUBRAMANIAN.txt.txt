@@ -1,0 +1,148 @@
+{
+  "Name": "Srinivas Balasubramanian",
+  "DateOfBirth": "March 14, 1989",
+  "Gender": "Male",
+  "Email": "abishek3000@gmail.com",
+  "PhoneNumber": "04-4283-62594",
+  "Address": {
+    "Permanent": "Not Found"
+  },
+  "Skills": {
+    "technical_skills": [
+      "C++",
+      "C",
+      "J2ME",
+      "Java",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Python",
+      "SQL"
+    ],
+    "other_skills": [
+      "Basketball"
+    ]
+  },
+  "Education": {
+    "pre_degree": [
+      {
+        "degree_name": "X",
+        "institution": "XIITH",
+        "year_or_duration": "2006",
+        "cgpa_or_percentage": "92.2"
+      },
+      {
+        "degree_name": "X",
+        "institution": "XIITH",
+        "year_or_duration": "2004",
+        "cgpa_or_percentage": "93.6"
+      }
+    ],
+    "bachelors": [
+      {
+        "degree_name": "B.Tech.",
+        "institution": "National Institute of Technology Karnataka",
+        "year_or_duration": "2009",
+        "cgpa_or_percentage": "8.22"
+      }
+    ],
+    "masters": [
+      {
+        "degree_name": "Not Found"
+      }
+    ]
+  },
+  "ExtraCurricularActivities": [
+    "Playing cards",
+    "Computer Games",
+    "Cricket",
+    "Football",
+    "Watching movies",
+    "Participated in various quizzing and debate competitions",
+    "Participated in various online programming contests",
+    "Basketball"
+  ],
+  "Projects": [
+    {
+      "project_name": "Online Voting System",
+      "skills_used": [
+        "C++",
+        "J2ME",
+        "Java",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "project_name": "Tourism Portal",
+      "skills_used": [
+        "C++",
+        "J2ME",
+        "Java",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "project_name": "Graphics Editor",
+      "skills_used": [
+        "C++",
+        "J2ME",
+        "Java",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Python",
+        "SQL"
+      ]
+    }
+  ],
+  "Internships": [
+    {
+      "company": "Naabo",
+      "year": "Not Found",
+      "skills": [
+        "C++",
+        "C",
+        "J2ME",
+        "Java",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "company": "Microsoft India",
+      "year": "Not Found",
+      "skills": [
+        "C++",
+        "C",
+        "J2ME",
+        "Java",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Python",
+        "SQL"
+      ]
+    }
+  ],
+  "References": [
+    {
+      "name": "Not Found",
+      "designation": "Not Found"
+    },
+    {
+      "name": "Not Found",
+      "designation": "Not Found"
+    }
+  ]
+}<|end_of_turn|>

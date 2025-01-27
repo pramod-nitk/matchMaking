@@ -1,0 +1,95 @@
+{
+    'Name': 'parul chaurasia',
+    'DateOfBirth': 'october 4 1986',
+    'Gender': 'female',
+    'Email': 'stylishparul@gmail.com',
+    'PhoneNumber': '0755 2775475, 9-9456-14004',
+    'Address': 'permanent address b.tech details semester year s.g.p.a c.g.p.a pre degree 10+2th 10th details discipline institution university board year marks parul chaurasia b.tech room no. 13 iii block girls hostel nitk surathkal karnataka 575 025 33 phase ii jharneshwar complex jawahar chauk bhopal madhya pradesh 462 003',
+    'Skills': {
+        'technical_skills': [
+            'ogre',
+            '3d boolean operations'
+        ],
+        'other_skills': [
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10+2th',
+                'institution': 'xth st. mary m.p. state board',
+                'year_or_duration': '2002',
+                'cgpa_or_percentage': '85.8'
+            },
+            {
+                'degree_name': 'xiith',
+                'institution': 'xiith st. mary m.p. state board',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '86'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'b.tech',
+                'institution': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore',
+                'year_or_duration': '2009 10',
+                'cgpa_or_percentage': '7.36'
+            }
+        ],
+        'masters': [
+        ]
+    },
+    'ExtraCurricularActivities': [
+        'i am an executive member of indian society for technical education nitk.',
+        'i am an executive member and treasurer of management forum nitk.',
+        'i am an executive member of spic macay mangalore chapter nss nitk ddfc nitk.',
+        'i was the year representative of 2nd year girls in crrescendo 07.',
+        'i am a voracious reader and like sydney sheldon arthur conan doyle j.k.rowling.',
+        'i am a good learner and a very enthusiastic person.',
+        'i am very friendly and get along well with people.',
+        'i am very hard working, confident, adaptable, and ambitious person with good communication skills.',
+        'i love adventure and excitement.',
+    ],
+    'Projects': [
+        {
+            'project_name': 'summer project under prof.tim poston nias iisc campus may june 2009',
+            'skills_used': [
+                'ogre',
+                '3d boolean operations'
+            ]
+        },
+        {
+            'project_name': 'training at bsnl bhopal may june 2008',
+            'skills_used': [
+                'study and analysis of global systems for mobile communications'
+            ]
+        },
+        {
+            'project_name': 'elliptic curve cryptographic security in transmission control protocol. building security functions into the tcp protocol using elliptic curve cryptography making tcp secured thus making application layer free from security issues and providing process to process security.',
+            'skills_used': [
+                'tcp'
+            ]
+        },
+        {
+            'project_name': 'other curriculum mini projects.',
+            'skills_used': [
+                'Not Found'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Not Found',
+            'year': 'Not Found',
+            'skills': [
+                'Not Found'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        }
+    ]
+}<|end_of_turn|>

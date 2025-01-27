@@ -1,0 +1,112 @@
+{
+"Name": "Karkala Swathi Bhat",
+"DateOfBirth": "October 13, 1988",
+"Gender": "Female",
+"Email": "sbk1088@gmail.com",
+"PhoneNumber": "08-2582-30734, +919-8809-29104",
+"Address": {
+    "permanent": "National Institute of Technology Karnataka Surathkal P.O Srinivasnagar Mangalore 575025",
+    "present": "Not Found"
+},
+"Skills": {
+    "technical_skills": [
+        "c",
+        "html",
+        "javascript",
+        "php",
+        "web designing"
+    ],
+    "other_skills": [
+        "Not Found"
+    ]
+},
+"Education": {
+    "pre_degree": [
+        {
+            "degree_name": "10th",
+            "institution": "Our Own English High School Sharjah UAE",
+            "year_or_duration": "2004",
+            "cgpa_or_percentage": "88.8"
+        },
+        {
+            "degree_name": "12th",
+            "institution": "Our Own English High School Sharjah UAE",
+            "year_or_duration": "2006",
+            "cgpa_or_percentage": "88.2"
+        }
+    ],
+    "bachelors": [
+        {
+            "degree_name": "B.Tech Information Technology",
+            "institution": "National Institute of Technology Karnataka Surathkal",
+            "year_or_duration": "2006 - 2009",
+            "cgpa_or_percentage": "7.67"
+        }
+    ],
+    "masters": [
+        {
+            "degree_name": "Not Found",
+            "institution": "Not Found",
+            "year_or_duration": "Not Found",
+            "cgpa_or_percentage": "Not Found"
+        }
+    ]
+},
+"ExtraCurricularActivities": [
+    "Not Found"
+],
+"Projects": [
+    {
+        "project_name": "Graphics Mini Project",
+        "skills_used": [
+            "c"
+        ]
+    },
+    {
+        "project_name": "Mini Relational Database System",
+        "skills_used": [
+            "c"
+        ]
+    },
+    {
+        "project_name": "Digital Anatomy Project",
+        "skills_used": [
+            "Not Found"
+        ]
+    },
+    {
+        "project_name": "Software Engineering Miniproject",
+        "skills_used": [
+            "html",
+            "javascript",
+            "php"
+        ]
+    }
+],
+"Internships": [
+    {
+        "company": "Lamprell PLC",
+        "year": "2008",
+        "skills": [
+            "Not Found"
+        ]
+    },
+    {
+        "company": "Digital Anatomy Project",
+        "year": "Not Found",
+        "skills": [
+            "Not Found"
+        ]
+    }
+],
+"References": [
+    {
+        "name": "Not Found",
+        "designation": "Not Found"
+    },
+    {
+        "name": "Not Found",
+        "designation": "Not Found"
+    }
+]
+}<|end_of_turn|>

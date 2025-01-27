@@ -1,0 +1,124 @@
+{
+  "Name": "Vageesh H G",
+  "DateOfBirth": "October 17, 1988",
+  "Gender": "Male",
+  "Email": "vageesh.hg@gmail.com",
+  "PhoneNumber": "0820 2545056",
+  "Address": "Permanent Address: national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025",
+  "Skills": {
+    "technical_skills": [
+      "Familiar with programming languages like Java, Flex, PHP, C .NET",
+      "Worked on a project to facilitate online admissions to NITs for Indian students studying abroad under Dr. S. R. Prakash, Assistant Professor, Dept. of IT, NITK",
+      "Presented a seminar on PHP as a part of Open Source Talks in our college",
+      "Developed a computer graphics development tool using Java as a part of computer graphics mini-project",
+      "Currently working on designing Travel Buddy, a travel-based social networking site using Web 2.0 technologies",
+      "As a part of Database Systems course, developed a mini relational database model which was to mimic the core functionalities of a database using Java",
+      "Designed the internet http://infotech.nitk.ac.in and intranet website, a course management tool for the Department of Information Technology with the latter involving use of PHP for dynamic data management",
+      "Worked as the convenor of the technical committee for Golden Jubilee Edition of Engineer, a national level technical symposium of our college http://engineer.org.in",
+      "Worked as the part of the team which designed the Customer Relationship Manager (CRM) software and Electronic Clearance System (ECS) for State Bank of India Mangalore",
+    ],
+    "other_skills": []
+  },
+  "Education": {
+    "pre_degree": [
+      {
+        "degree_name": "10+2th",
+        "institution": "Manipal Pre-University College, Manipal",
+        "year_or_duration": "2004",
+        "cgpa_or_percentage": "96.64"
+      }
+    ],
+    "bachelors": [
+      {
+        "degree_name": "B.Tech",
+        "institution": "National Institute of Technology Karnataka Surathkal",
+        "year_or_duration": "2009",
+        "cgpa_or_percentage": "8.57"
+      }
+    ],
+    "masters": []
+  },
+  "ExtraCurricularActivities": [
+    {
+      "activity": "Entrepreneurial",
+      "description": "Member of a venture by name Tekyt along with my classmates for providing web designing services. The projects undertaken include website designed for an NGO in the service of differently abled children www.saanidhya.org. This project was undertaken without any cost to the NGO and the same was appreciated by Deputy Commissioner of Dakshina Kannada District."
+    },
+    {
+      "activity": "Social",
+      "description": "Worked as an executive member of the Interact Club in my high school."
+    },
+    {
+      "activity": "Extra Curricular",
+      "description": "Presented a project on the topic 'dying art of natural dyes' at the National Level Science Project Competition held at Kolkata organized by the National Children Science Congress in my 7th standard and was awarded the title of Junior Scientist."
+    },
+    {
+      "activity": "Extra Curricular",
+      "description": "Member of NITK IEEE Student Chapter (IEEE is Institute of Electrical and Electronics Engineers, a leading professional association for advancement of technology"
+    },
+    {
+      "activity": "Extra Curricular",
+      "description": "Won prizes in web designing competitions held by various organizations like Technoindia and also the Web Enthusiasts Club of our college."
+    },
+    {
+      "activity": "Extra Curricular",
+      "description": "Familiar with programming languages like Java, Flex, PHP, C .NET."
+    },
+    {
+      "activity": "Extra Curricular",
+      "description": "Worked on a project to facilitate online admissions to NITs for Indian students studying abroad under Dr. S. R. Prakash, Assistant Professor, Dept. of IT, NITK."
+    },
+    {
+      "activity": "Extra Curricular",
+      "description": "Presented a seminar on PHP as a part of Open Source Talks in our college."
+    },
+    {
+      "activity": "Extra Curricular",
+      "description": "Developed a computer graphics development tool using Java as a part of computer graphics mini-project."
+    },
+    {
+      "activity": "Extra Curricular",
+      "description": "Currently working on designing Travel Buddy, a travel-based social networking site using the Web 2.0 technologies."
+    },
+    {
+      "activity": "Extra Curricular",
+      "description": "As a part of Database Systems course, developed a mini relational database model which was to mimic the core functionalities of a database using Java."
+    },
+    {
+      "activity": "Extra Curricular",
+      "description": "Designed the internet http://infotech.nitk.ac.in and intranet website, a course management tool for the Department of Information Technology with the latter involving use of PHP for dynamic data management."
+    },
+    {
+      "activity": "Extra Curricular",
+      "description": "Worked as the convenor of the technical committee for Golden Jubilee Edition of Engineer, a national level technical symposium of our college http://engineer.org.in."
+    },
+    {
+      "activity": "Extra Curricular",
+      "description": "Worked as the part of the team which designed the Customer Relationship Manager (CRM) software and Electronic Clearance System (ECS) for State Bank of India Mangalore."
+    }
+  ],
+  "Projects": [
+    {
+      "project_name": "Website designed for an NGO in the service of differently abled children www.saanidhya.org",
+      "skills_used": [
+        "Familiar with programming languages like Java, Flex, PHP, C .NET",
+        "Worked on a project to facilitate online admissions to NITs for Indian students studying abroad under Dr. S. R. Prakash, Assistant Professor, Dept. of IT, NITK",
+        "Presented a seminar on PHP as a part of Open Source Talks in our college",
+        "Developed a computer graphics development tool using Java as a part of computer graphics mini-project",
+        "Currently working on designing Travel Buddy, a travel-based social networking site using the Web 2.0 technologies",
+        "As a part of Database Systems course, developed a mini relational database model which was to mimic the core functionalities of a database using Java",
+        "Designed the internet http://infotech.nitk.ac.in and intranet website, a course management tool for the Department of Information Technology with the latter involving use of PHP for dynamic data management",
+        "Worked as the convenor of the technical committee for Golden Jubilee Edition of Engineer, a national level technical symposium of our college http://engineer.org.in",
+        "Worked as the part of the team which designed the Customer Relationship Manager (CRM) software and Electronic Clearance System (ECS) for State Bank of India Mangalore"
+      ]
+    }
+  ],
+  "Internships": [
+    {
+      "company": "Tekyt",
+      "year": "2006",
+      "skills": [
+        "Familiar with programming languages like Java, Flex, PHP, C .NET",
+        "Worked on a project to facilitate online admissions to NITs for Indian students studying abroad under Dr. S. R. Prakash, Assistant Professor, Dept. of IT, NITK",
+        "Presented a seminar on PHP as a part of Open Source Talks in our college",
+        "Developed a computer graphics development tool using Java as a part of computer graphics mini-project",
+        "Currently working on designing Travel Buddy, a travel

@@ -1,0 +1,60 @@
+{
+ 'Name': 'Kumar Bharath P.',
+ 'DateOfBirth': 'November 28, 1988',
+ 'Gender': 'Male',
+ 'Email': 'kumar.bharath1988@gmail.com',
+ 'PhoneNumber': '+91-9480-005025, 0821 2567676',
+ 'Address': ['1154 2nd cross lalithadri road', 'G H Block', 'Kuvempunagar', 'Mysore', '570023'],
+ 'Skills': {
+  'technical_skills': ['C++', 'C', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle', 'ADP', 'PHP', 'MySQL', 'C#', 'VB.Net', 'SQL', 'Microsoft Office', 'MatLab', 'SAS', 'SAP', 'ADP', 'Oracle', 'C', 'C++', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle', 'C', 'C++', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle', 'C', 'C++', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle'],
+  'other_skills': ['Negotiation', 'Problem-Solving', 'Strong-willed', 'Optimistic', 'Communication', 'Leadership', 'Team-work', 'Time-management']
+ },
+ 'Education': {
+  'pre_degree': [{'degree_name': '', 'institution': '', 'year_or_duration': '', 'cgpa_or_percentage': ''}],
+  'bachelors': [
+   {
+    'degree_name': 'B.Tech',
+    'institution': 'National Institute of Technology Karnataka Surathkal',
+    'year_or_duration': '2009',
+    'cgpa_or_percentage': '8.31'
+   }
+  ],
+  'masters': [
+   {
+    'degree_name': '',
+    'institution': '',
+    'year_or_duration': '',
+    'cgpa_or_percentage': ''
+   }
+  ]
+ },
+ 'ExtraCurricularActivities': [{'activity': 'NTSE Scholar', 'year': '2004'}, {'activity': 'NITK Chess Club', 'year': ''}, {'activity': 'NITK IEEE', 'year': ''}],
+ 'Projects': [
+  {
+   'project_name': 'Simulation of Cognitive Radio Networks',
+   'skills_used': ['C++', 'C', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle', 'ADP', 'PHP', 'MySQL', 'C#', 'VB.Net', 'SQL', 'Microsoft Office', 'MatLab', 'SAS', 'SAP', 'ADP', 'Oracle', 'C', 'C++', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle']
+  },
+  {
+   'project_name': 'Context Based Data Mining',
+   'skills_used': ['C++', 'C', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle', 'ADP', 'PHP', 'MySQL', 'C#', 'VB.Net', 'SQL', 'Microsoft Office', 'MatLab', 'SAS', 'SAP', 'ADP', 'Oracle', 'C', 'C++', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle']
+  }
+ ],
+ 'Internships': [
+  {
+   'company': 'Indian Institute of Science',
+   'year': 'May-July 2009',
+   'skills': ['C++', 'C', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle', 'ADP', 'PHP', 'MySQL', 'C#', 'VB.Net', 'SQL', 'Microsoft Office', 'MatLab', 'SAS', 'SAP', 'ADP', 'Oracle', 'C', 'C++', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle']
+  },
+  {
+   'company': 'National Institute of Advanced Studies',
+   'year': 'May-July 2008',
+   'skills': ['C++', 'C', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle', 'ADP', 'PHP', 'MySQL', 'C#', 'VB.Net', 'SQL', 'Microsoft Office', 'MatLab', 'SAS', 'SAP', 'ADP', 'Oracle', 'C', 'C++', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle']
+  },
+  {
+   'company': 'Electronics and Embedded Systems Lab',
+   'year': '2008',
+   'skills': ['C++', 'C', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle', 'ADP', 'PHP', 'MySQL', 'C#', 'VB.Net', 'SQL', 'Microsoft Office', 'MatLab', 'SAS', 'SAP', 'ADP', 'Oracle', 'C', 'C++', 'Java', 'Python', 'C#', 'Matlab', 'JavaNetBeans', 'SAP', 'Oracle']
+  }
+ ],
+ 'References': [{'name': '', 'designation': ''}]
+}<|end_of_turn|>

@@ -1,0 +1,94 @@
+{
+    'Name': 'shreya roy chowdhury',
+    'DateOfBirth': 'august 23 1988',
+    'Gender': 'female',
+    'Email': 'roychowdhury.shreya@gmail.com',
+    'PhoneNumber': '080 23394421',
+    'Address': ['permanent address b.tech details semester year s.g.p.a c.g.p.a pre degree 10+2th 10th details discipline institution university board year marks shreya roy chowdhury b.tech room number 109 girls hostel iii nitk hostels srinivasnagar mangalore 575025 flat number 108 block vi skyline city 140 nagarbhavi bangalore 560072'],
+    'Skills': {
+        'technical_skills': [
+            'c', 'c++', 'java', 'sdl', 'ms paint', 'oracle', 'html', 'javascript', 'css', 'php', 'dbms', 'visual basic', 'python', 'databases', 'web usage', 'c#', 'database design techniques', 'transactions', 'negative databases', 'web users information', 'web access logs', 'clustering', 'classification', 'posix message queues', 'dbus mechanism', 'fractal images', 'mathematical morphological techniques'
+        ],
+        'other_skills': ['singing', 'needle work']
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10+2th 10th',
+                'institution': 'sophia high schoolbangalore icse',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '92.6'
+            },
+            {
+                'degree_name': 'xiith national public school rajajinagarbangalore cbse',
+                'institution': 'rajajinagarbangalore',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '90.4'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'b.tech',
+                'institution': 'national institute of technology karnataka surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '8.76'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': ['executive member and girls representative of the technical club called ie institution of engineers.', 'member of the music club at nitk.', 'sincere and hard working person with great eagerness to learn things.', 'believe in committing myself to any task that i have undertaken and giving it my best shot.', 'enjoy singing and needle work.'],
+    'Projects': [
+        {
+            'project_name': 'computer graphics mini project',
+            'skills_used': ['c', 'sdl']
+        },
+        {
+            'project_name': 'database systems mini project',
+            'skills_used': ['visual basic', 'oracle', 'c']
+        },
+        {
+            'project_name': '2 x 2',
+            'skills_used': ['java']
+        },
+        {
+            'project_name': 'internet technologies and applications mini project',
+            'skills_used': ['html', 'javascript', 'css', 'php', 'oracle', 'wamp server']
+        },
+        {
+            'project_name': 'image processing project',
+            'skills_used': ['c']
+        },
+        {
+            'project_name': 'comparison of 2 ipc mechanisms',
+            'skills_used': ['c++']
+        },
+        {
+            'project_name': 'web usage mining based prediction system',
+            'skills_used': ['web users information', 'web access logs', 'clustering', 'classification']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'indian statistical institute',
+            'year': 'may june 09',
+            'skills': ['c', 'mathematical morphological techniques']
+        },
+        {
+            'company': 'software professional',
+            'year': 'june july 09',
+            'skills': ['c++', 'dbus mechanism', 'posix message queues']
+        }
+    ],
+    'References': [
+        {
+            'name': 'reference 1',
+            'designation': 'b.s. dayasagar associate professor computers and communication sciences division indian statistical institute bangalore centre india',
+            'email': 'bsdsagar@isibang.ac.in bsdsagar@yahoo.co.uk'
+        },
+        {
+            'name': 'reference 2',
+            'designation': 'dr. prakash s raghavendra assistant professor department of information technology national institute of technology karnataka surathkal india',
+            'email': 'prakash@nitk.ac.in'
+        }
+    ]
+}<|end_of_turn|>

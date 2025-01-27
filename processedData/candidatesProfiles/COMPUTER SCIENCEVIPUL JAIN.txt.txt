@@ -1,0 +1,21 @@
+{
+ 'Name': 'Vipul Jain',
+ 'DateOfBirth': 'December 15, 1986',
+ 'Gender': 'Male',
+ 'Email': 'hvipul12@gmail.com',
+ 'PhoneNumber': '+91 191 2555025',
+ 'Address': '575025 placements 2009 10 b.tech branch computer science',
+ 'Skills': {
+  'technical_skills': ['Meeting Management Module', 'Database Implementation', 'Artificial Intelligence on granual computing and roughset theory for image classfication', 'Network Scanner Implementation', 'Software Engineering', 'Online Store Implementation', 'C', 'Java', 'PHP', 'SQL', 'Javascript', 'HTML'],
+  'other_skills': ['Cricket', 'Listening to music', 'Cooking']
+ },
+ 'Education': {
+  'pre_degree': [{'degree_name': '10th', 'institution': 'Xth Army School Kaluchak Jammu CBSE', 'year_or_duration': '2003', 'cgpa_or_percentage': '82'}],
+  'bachelors': [{'degree_name': 'B.Tech', 'institution': 'NITK', 'year_or_duration': '2010', 'cgpa_or_percentage': '7.13'}],
+  'masters': []
+ },
+ 'ExtraCurricularActivities': ['Co Curricular Activities'],
+ 'Projects': [{'project_name': 'Snake Game Implementation', 'skills_used': ['C', 'Database']}],
+ 'Internships': [{'company': 'Summer Project Internship 2008', 'year': 'May-July', 'skills': ['Meeting Management Module', 'Database Implementation']}],
+ 'References': [{'name': 'Mr. K Vinay Kumar', 'designation': 'Head of Department Computer Engineering NITK'}, {'name': 'Mr. V.K. Panchal', 'designation': 'Scientist G DTRL DRDO New Delhi'}]
+}<|end_of_turn|>

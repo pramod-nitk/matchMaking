@@ -1,0 +1,52 @@
+{
+ 'Name': 'Amrut Nagasunder',
+ 'DateOfBirth': 'May 19 1988',
+ 'Gender': 'Male',
+ 'Email': 'amrut.nagasunder@gmail.com',
+ 'PhoneNumber': '080 23578501',
+ 'Address': {
+  'PermanentAddress': 'Not Found',
+  'PresentAddress': 'Not Found'
+ },
+ 'Skills': {
+  'technical_skills': ['Developed EPR Electronic Patient Record', 'Simulation of a database system incorporating query optimization techniques', 'Graphical Editor in C++', 'Automatic generation of signatures of musical forms', 'Text mining', 'Mathematical concepts with matrices'],
+  'other_skills': ['Carnatic music', 'Mridangam', 'Vocal', 'Playing the piano', 'Number Theory', 'Crosswords', 'Piano', 'Computer Games']
+ },
+ 'Education': {
+  'pre_degree': [{'degree_name': '10th', 'institution': 'Xth National Public School Rajajinagar', 'year_or_duration': '2004', 'cgpa_or_percentage': '94.2'}],
+  'bachelors': {
+   'degree_name': 'B.Tech',
+   'institution': 'National Institute of Technology Karnataka Surathkal',
+   'year_or_duration': '2009',
+   'cgpa_or_percentage': '8.01'
+  }
+ },
+ 'ExtraCurricularActivities': ['Music', 'Learning Carnatic Music', 'Mridangam', 'Vocal', 'Basketball', 'Crosswords', 'Number Theory', 'Piano', 'Computer Games'],
+ 'Projects': [
+  {
+   'project_name': 'Automatic generation of signatures of musical forms',
+   'skills_used': ['Text mining']
+  },
+  {
+   'project_name': '2x2 Elementary Mathematical Concepts with Matrices',
+   'skills_used': ['Mathematics']
+  }
+ ],
+ 'Internships': [
+  {
+   'company': 'Naabo Solutions Pvt. Limited',
+   'year': 'Jun 2008',
+   'skills': ['Electronic Patient Record', 'Web Development']
+  }
+ ],
+ 'References': [
+  {
+   'name': 'Dr. Ananthanarayana V.S',
+   'designation': 'Professor, Department of Information Technology, NITK'
+  },
+  {
+   'name': 'Prof. Tim Poston',
+   'designation': 'Professor, National Institute of Advanced Studies, IISC Campus Bangalore'
+  }
+ ]
+}<|end_of_turn|>

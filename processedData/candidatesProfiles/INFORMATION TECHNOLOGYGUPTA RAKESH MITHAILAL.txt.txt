@@ -1,0 +1,21 @@
+{
+    'Name': 'Gupta Rakesh Mithailal',
+    'DateOfBirth': 'May 17 1986',
+    'Gender': 'Male',
+    'Email': 'ysrakeshgupta@gmail.com',
+    'PhoneNumber': '+919-5356-15963',
+    'Address': 'permanent address: b.tech details: semester year s.g.p.a c.g.p.a pre degree: 10+2th 10th details: discipline institution university board year marks',
+    'Skills': {
+        'technical_skills': ['c', 'html', 'php', 'javascript', 'java', 'c++', 'database design'],
+        'other_skills': ['leadership', 'humor', 'sincerity', 'responsibility', 'team-playing', 'spiritual understanding based on the knowledge of bhagavad gita']
+    },
+    'Education': {
+        'pre_degree': [{'degree_name': '10th', 'institution': 'Xth R.B.T. Vidyalaya Dombivli Mumbai', 'year_or_duration': '2002', 'cgpa_or_percentage': '82.66'}],
+        'bachelors': [{'degree_name': 'B.Tech', 'institution': 'NITK Surathkal', 'year_or_duration': '1999-2003', 'cgpa_or_percentage': '7.88'}],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [{'activity_name': 'coordinated various camps and events organized by voice club 2'}, {'activity_name': 'participated in many school level quizzes debates presenting seminar competitions'}, {'activity_name': 'hard working committed to complete the assigned task'}, {'activity_name': 'humorous and loving'}, {'activity_name': 'sincere and take responsibility'}, {'activity_name': 'extend myself to complete the work assigned to me as per my capability'}, {'activity_name': 'good team player'}, {'activity_name': 'strong spiritual understanding based on the knowledge of bhagavad gita'}, {'activity_name': 'hobbies are reading very inspiring books like autobiography of great personality reading sprituals books meditation etc.'}],
+    'Projects': [{'project_name': 'paint application with animation capability for two dimensions in c', 'skills_used': ['c']}, {'project_name': 'mini relational database management system in c', 'skills_used': ['c']}, {'project_name': 'website for online drug store in htmlphpcssjavascript', 'skills_used': ['html', 'php', 'css', 'javascript']}, {'project_name': 'designing voice website', 'skills_used': ['Not Found']}],
+    'Internships': [{'company': 'Virtualpages', 'year': '2003', 'skills': ['c', 'java', 'c++']}, {'company': 'IIT KGP', 'year': '2003', 'skills': ['basics of c++ and java']}],
+    'References': [{'name': 'Not Found', 'designation': 'Not Found'}, {'name': 'Not Found', 'designation': 'Not Found'}]
+}<|end_of_turn|>

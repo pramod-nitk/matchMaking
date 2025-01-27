@@ -1,0 +1,127 @@
+{
+    'Name': 'aashendra pratap singh',
+    'DateOfBirth': 'july 9 1987',
+    'Gender': 'male',
+    'Email': 'aashendra986@gmail.com',
+    'PhoneNumber': '09-4154-34828, 9-5356-15953',
+    'Address': 'hm 3658 lda colony kanpur road lucknow 226012',
+    'Skills': {
+        'technical_skills': [
+            'c',
+            'c++',
+            'c language',
+            'c++ language',
+            'java',
+            'python',
+            'html',
+            'css',
+            'javascript',
+            'sql',
+            'database computer language',
+            'graphology',
+            'relational database management systems',
+            'rdbms',
+            'design'
+        ],
+        'other_skills': [
+            'class representative',
+            'class house captain',
+            'line in charge',
+            'cricket a team',
+            'dance dramatic and fashion club',
+            'engineerinter college tech fest',
+            'class house captain',
+            'crrescendointra college cultural fest',
+            'student union',
+            'publicity and event coordinator',
+            'house captain',
+            'tree plantation mission',
+            'hardworking',
+            'honest',
+            'pragmatic',
+            'initiative',
+            'active',
+            'participative',
+            'adaptive',
+            'leadership',
+            'conflict',
+            'optimistic',
+            'punctual',
+            'self-discipline'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'lucknow public school',
+                'year_or_duration': '2002',
+                'cgpa_or_percentage': '84.6'
+            },
+            {
+                'degree_name': '12th',
+                'institution': 'lucknow public school',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '74.6'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'b.tech',
+                'institution': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore',
+                'year_or_duration': '2009 10',
+                'cgpa_or_percentage': '8.2'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'member of student union of nitk for the last three years.',
+        'class representative of the class for the last three years.',
+        'regular member of cricket a team in nitk surathkal.',
+        'executive member of dance dramatic and fashion club in nitk surathkal.',
+        'publicity and event coordinator of m forum club in nitk surathkal.',
+        'executive member of engineerinter college tech fest',
+        'class house captain',
+        'crrescendointra college cultural fest',
+        'house captain for three years',
+        'class house captain',
+        'line in charge',
+        'tree plantation mission of the government of u.p.'
+    ],
+    'Projects': [
+        {
+            'project_name': 'graphics editor with animation',
+            'skills_used': ['c language', 'computer graphics', 'project']
+        },
+        {
+            'project_name': 'mini relational database',
+            'skills_used': ['c', 'database', 'relational database management systems', 'rdbms', 'design', 'retrieval and management of data']
+        },
+        {
+            'project_name': 'organic convertor',
+            'skills_used': ['c++', 'organic', 'structure', 'name']
+        },
+        {
+            'project_name': 'powerpoint presentation',
+            'skills_used': ['c++ language', 'powerpoint', 'hyperlinks', '10th class', 'science exhibition', 'school']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Not Found',
+            'year': 'Not Found',
+            'skills': []
+        }
+    ],
+    'References': [
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        },
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        }
+    ]
+}<|end_of_turn|>

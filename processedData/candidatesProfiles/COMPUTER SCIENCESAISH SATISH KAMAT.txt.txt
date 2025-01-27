@@ -1,0 +1,150 @@
+{
+    'Name': 'Saish Satish Kamat',
+    'DateOfBirth': 'March 31, 1989',
+    'Gender': 'Male',
+    'Email': 'saishkt@gmail.com',
+    'PhoneNumber': '08-3224-53065',
+    'Address': 'National Institute of Technology, Karnataka, Surathkal P.O Srinivasnagar, Mangalore 575025',
+    'Skills': {
+        'technical_skills': [
+            'C#',
+            'Java',
+            'Java Swing API',
+            'Oracle 10g',
+            '.NET Framework',
+            'Intel Open Computer Vision Libraries v1.1',
+            'Win32 Console Programming',
+            'Intel Computer Vision Libraries v1.1',
+            'Turbo C++'
+        ],
+        'other_skills': [
+            'Playing Cricket',
+            'Reading',
+            'Writing'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'Abu Dhabi Indian School Abu Dhabi, UAE',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '92.6'
+            },
+            {
+                'degree_name': '12th',
+                'institution': 'Abu Dhabi Indian School Abu Dhabi, UAE',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '90.8'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology, Karnataka, Surathkal P.O Srinivasnagar, Mangalore, 575025',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '8.6'
+            }
+        ]
+    },
+    'ExtraCurricularActivities': [
+        'Vice President of Computer Society of India NITK Student Branch',
+        'Executive Member of Computer Events in Engineer 200-8200-92010 Technical Festival of our College',
+        'Prefect of my school Abu Dhabi Indian School Abu Dhabi, UAE'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Digital Hampi',
+            'skills_used': [
+                'C#',
+                'Java',
+                'Java Swing API',
+                'Oracle 10g',
+                '.NET Framework',
+                'Intel Open Computer Vision Libraries v1.1',
+                'Win32 Console Programming',
+                'Intel Computer Vision Libraries v1.1',
+                'Turbo C++'
+            ]
+        },
+        {
+            'project_name': 'Bluefire',
+            'skills_used': [
+                'Java'
+            ]
+        },
+        {
+            'project_name': 'Vehicle Detection Systems Using Magnetometers',
+            'skills_used': [
+                'Java',
+                'Java Swing API',
+                'Oracle 10g',
+                '.NET Framework',
+                'Intel Open Computer Vision Libraries v1.1',
+                'Win32 Console Programming',
+                'Intel Computer Vision Libraries v1.1',
+                'Turbo C++'
+            ]
+        },
+        {
+            'project_name': 'Mock Stock',
+            'skills_used': [
+                'Java Swing API',
+                'Oracle 10g'
+            ]
+        },
+        {
+            'project_name': 'Remote Desktop',
+            'skills_used': [
+                'Java',
+                'Java Swing API',
+                'Oracle 10g',
+                '.NET Framework',
+                'Intel Open Computer Vision Libraries v1.1',
+                'Win32 Console Programming',
+                'Intel Computer Vision Libraries v1.1',
+                'Turbo C++'
+            ]
+        },
+        {
+            'project_name': '2 Player LAN Chess',
+            'skills_used': [
+                'Java',
+                'Java Swing API',
+                'Oracle 10g',
+                '.NET Framework',
+                'Intel Open Computer Vision Libraries v1.1',
+                'Win32 Console Programming',
+                'Intel Computer Vision Libraries v1.1',
+                'Turbo C++'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Wipro Technologies',
+            'year': '2008',
+            'skills': [
+                'C#',
+                'Java',
+                'Java Swing API',
+                'Oracle 10g',
+                '.NET Framework',
+                'Intel Open Computer Vision Libraries v1.1',
+                'Win32 Console Programming',
+                'Intel Computer Vision Libraries v1.1',
+                'Turbo C++'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Ramachandra Budihal',
+            'designation': 'Senior Solution Architect'
+        },
+        {
+            'name': 'B.R. Chandavarkar',
+            'designation': 'Senior Lecturer Computer Engg. Dept. NITK Surathkal'
+        }
+    ]
+}<|end_of_turn|>

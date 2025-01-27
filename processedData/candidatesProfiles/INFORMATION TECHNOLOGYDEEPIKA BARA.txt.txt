@@ -1,0 +1,85 @@
+{
+    'Name': 'Deepika Bara',
+    'DateOfBirth': '29-06-1988',
+    'Gender': 'Female',
+    'Email': 'deepikabara@gmail.com',
+    'PhoneNumber': ['0-3192-225082', '9-5356-18449'],
+    'Address': 'permanent address b.tech room 105 new girls block 3 nitk surathkal mangalore karnataka.',
+    'Skills': {
+        'technical_skills': [
+            'mini relational database management software in c',
+            'simple pharmacy database system using vb6.0 and oracle 10g',
+            'web application for the insurance company',
+            'rent collection database system',
+            'employee management system',
+            'network monitoring and anomaly detection',
+        ],
+        'other_skills': [
+            'playing badminton',
+            'basketball',
+            'visiting new places',
+        ],
+    },
+    'Education': {
+        'pre_degree': [
+            {'degree_name': '10th', 'institution': 'Carmel Senior Secondary School Port Blair', 'year_or_duration': '2004', 'cgpa_or_percentage': '84'},
+            {'degree_name': 'XIth', 'institution': 'Carmel Senior Secondary School Port Blair', 'year_or_duration': '2006', 'cgpa_or_percentage': '73'},
+        ],
+        'bachelors': [
+            {'degree_name': 'B.Tech', 'institution': 'National Institute of Technology Karnataka Surathkal', 'year_or_duration': '2009', 'cgpa_or_percentage': '6.89'},
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'member of ieee in the year 2006 2007.',
+        'executive member of silver jubilee auditorium events for the cultural festival incident 2009.',
+        'joint convener of organizing committee which counted for about one third of the budget for annual inter college cultural festival incident 2010 of national institute of technology karnataka.',
+        'represented my school in a number of social service activities and was the discipline and cleanliness minister of my school.',
+        'secured first place in inter school speech competition also stood first in intra school elocution competition.',
+        'hobbies are playing badminton, basketball, and visiting new places.',
+    ],
+    'Projects': [
+        {
+            'project_name': 'a mini relational database management software in c',
+            'skills_used': ['c']
+        },
+        {
+            'project_name': 'simple pharmacy database system using vb6.0 and oracle 10g',
+            'skills_used': ['vb6.0', 'oracle 10g']
+        },
+        {
+            'project_name': 'web application for the insurance company',
+            'skills_used': ['java servlets', 'jdbc', 'html', 'smtp protocol']
+        },
+        {
+            'project_name': 'rent collection database system',
+            'skills_used': ['java servlets', 'javascript', 'html', 'hibernate']
+        },
+        {
+            'project_name': 'employee management system',
+            'skills_used': ['java servlets', 'hibernate']
+        },
+        {
+            'project_name': 'doing the final year major project on network monitoring and anomaly detection',
+            'skills_used': ['c', 'java']
+        },
+    ],
+    'Internships': [
+        {
+            'company': 'National Institute of Technology Karnataka Surathkal',
+            'year': '2009',
+            'skills': ['java servlets', 'hibernate']
+        },
+    ],
+    'References': [
+        {
+            'name': 'dr. g ram mohana reddy',
+            'designation': 'hod it department',
+        },
+        {
+            'name': 'mr. dinesh naik',
+            'designation': 'faculty advisor',
+            'it department': True,
+        },
+    ],
+}<|end_of_turn|>

@@ -1,0 +1,96 @@
+{
+    'Name': 'Sruthi B. Sruthi',
+    'DateOfBirth': 'February 3, 1989',
+    'Gender': 'Female',
+    'Email': 'sruthi.bandi89@gmail.com',
+    'PhoneNumber': '040 24033250',
+    'Address': 'House No 11, 13, 136 Road No 3, Alakapuri Rangareddy District, Hyderabad, Andhra Pradesh 500035',
+    'Skills': {
+        'technical_skills': ['.Net web technology', 'Javascript', 'PHP', 'CSS', 'SQL', 'Oracle', 'Visual Basic', 'C#', 'Java', 'Joomla', 'Different techniques and approaches'],
+        'other_skills': ['Badminton', 'Mathematics', 'Puzzles', 'Reading novels', 'Touring different places']
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'V.D.Prasada Rao Memorial High School',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '91'
+            },
+            {
+                'degree_name': '12th',
+                'institution': 'Sri Chaitanya Junior College',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '96.7'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech Computer Science',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '8.63'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'Played badminton',
+        'Have a great interest in mathematics',
+        'Keep solving many puzzles particularly those including mathematical logic',
+        'Reading novels',
+        'Enjoy touring different places',
+        'Have the ability to grasp and understand concepts very quickly',
+        'Good communication skills',
+        'Flexibility to work well in a team',
+        'Take every situation very sportingly',
+        'Elected as the house captain in 10th standard',
+        'Elected as the class representative during high school continuously for three years',
+        'Participated in various workshops organized as a part of Engineer the Technical Fest at NITK Surathkal',
+        'Member of NSS at NITK',
+        'Selected as the girls representative for the year 2008 09',
+        'Member of SPICMACAY NITK Mangalore Chapter',
+        'Involved greatly in the organization of many fests as a part of the chapter'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Autonomic Computing',
+            'skills_used': [
+                'Prof. K. Chandrashekaran',
+                'Research',
+                'IEEE International Conference on Computer Engineering and Technology (ICCET)',
+                'Published research paper',
+                'Developed a website for ECE Department of NITK using Joomla',
+                'Developed a software for an event management system using PHP, CSS, and SQL',
+                'Designed a database system for banking using Oracle and Visual Basic',
+                'Designed a snake game as a computer graphics project using different techniques and approaches'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Oracle Financial Services Software Limited',
+            'year': 'Summer 2009',
+            'skills': [
+                'Worked on the development of performance appraisal system',
+                '.Net web technology',
+                'Worked on a project on autonomic computing under Prof. K. Chandrashekaran',
+                'Published a research paper',
+                'Developed a website for ECE Department of NITK using Joomla',
+                'Developed a software for an event management system using PHP, CSS, and SQL',
+                'Designed a database system for banking using Oracle and Visual Basic',
+                'Designed a snake game as a computer graphics project using different techniques and approaches'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Sudhir Babu',
+            'designation': 'Project Leader, Business Products Division, Oracle Financial Services Software Limited'
+        },
+        {
+            'name': 'Prof. K. Chandrashekaran',
+            'designation': 'Dept. of Computer Engg, NITK Surathkal'
+        }
+    ]
+}<|end_of_turn|>

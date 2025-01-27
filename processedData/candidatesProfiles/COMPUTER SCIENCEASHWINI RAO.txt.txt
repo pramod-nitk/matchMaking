@@ -1,0 +1,40 @@
+{
+    'Name': 'Ashwini Rao',
+    'DateOfBirth': 'November 5 1988',
+    'Gender': 'Female',
+    'Email': 'b.ashwini.rao@gmail.com',
+    'PhoneNumber': '+919-4800-09079',
+    'Address': 'Not Found',
+    'Skills': {
+        'technical_skills': ['website development', 'autonomic computing', 'asp.net', 'joomla', 'database', 'network topology', 'online banking systems'],
+        'other_skills': ['Not Found']
+    },
+    'Education': {
+        'pre_degree': [
+            {'degree_name': '10th', 'institution': 'Little Rock Indian School', 'year_or_duration': '2004', 'cgpa_or_percentage': '96.2'}
+        ],
+        'bachelors': [
+            {'degree_name': 'B.Tech Computer Science', 'institution': 'National Institute of Technology Karnataka', 'year_or_duration': '2009', 'cgpa_or_percentage': '9.4'}
+        ],
+        'masters': {
+            'M.Tech Computer Science': {
+                'institution': 'Not Found',
+                'year_or_duration': 'Not Found',
+                'cgpa_or_percentage': 'Not Found'
+            }
+        }
+    },
+    'ExtraCurricularActivities': [
+        'Not Found',
+        'Not Found'
+    ],
+    'Projects': [
+        {'project_name': 'Autonomic Computing', 'skills_used': ['autonomic computing']}
+    ],
+    'Internships': [
+        {'company': 'City Synapse Information Pvt Ltd', 'year': 'Not Found', 'skills': ['website development']}
+    ],
+    'References': [
+        {'name': 'Not Found', 'designation': 'Not Found'}
+    ]
+}<|end_of_turn|>

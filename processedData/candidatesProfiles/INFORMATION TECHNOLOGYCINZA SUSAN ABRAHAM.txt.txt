@@ -1,0 +1,104 @@
+{
+    'Name': 'Cinza Susan Abraham',
+    'DateOfBirth': 'March 3, 1988',
+    'Gender': 'Female',
+    'Email': 'cinza.abraham@gmail.com',
+    'PhoneNumber': '04-6822-57212, 0091-9902-518769',
+    'Address': 'Not Found',
+    'Skills': {
+        'technical_skills': [
+            'information technology'
+        ],
+        'other_skills': [
+            'sincere',
+            'dedicated',
+            'hardworking',
+            'team player',
+            'learning new concepts',
+            'able to work well in a team',
+            'understanding of mobile advertising industry in India',
+            'research in communication and marketing areas'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10+2th',
+                'institution': 'Our Own English High School Sharjah',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '80.2'
+            },
+            {
+                'degree_name': 'XIith',
+                'institution': 'Our Own English High School Sharjah',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '75.8'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '6.26'
+            }
+        ],
+        'masters': [
+            {
+                'degree_name': '',
+                'institution': '',
+                'year_or_duration': '',
+                'cgpa_or_percentage': ''
+            }
+        ]
+    },
+    'ExtraCurricularActivities': [
+        'National Service Society active member of the social club NSS and its activities.',
+        'Member of organizing committee for Engineer the annual technical fest of the college in February 2009.',
+        'Member of organizing committee for Incident the annual cultural fest of the college in March 2009.'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Sonorant Technologies',
+            'skills_used': [
+                'Marketing and Market Research',
+                'Mobile Advertising Industry in India'
+            ]
+        },
+        {
+            'project_name': 'Lenovo India',
+            'skills_used': [
+                'Communication and Marketing areas',
+                'Research in communication and marketing areas'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Sonorant Technologies',
+            'year': 'November 2008 - December 2008',
+            'skills': [
+                'Marketing and Market Research',
+                'Mobile Advertising Industry in India'
+            ]
+        },
+        {
+            'company': 'Lenovo India',
+            'year': 'June 2009 - July 2009',
+            'skills': [
+                'Communication and Marketing areas',
+                'Research in communication and marketing areas'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Mr. Dinesh Naik',
+            'designation': 'Senior Lecturer in NITK Information Technology'
+        },
+        {
+            'name': 'Mr. Shanil',
+            'designation': 'General Manager of Lenovo India'
+        }
+    ]
+}<|end_of_turn|>

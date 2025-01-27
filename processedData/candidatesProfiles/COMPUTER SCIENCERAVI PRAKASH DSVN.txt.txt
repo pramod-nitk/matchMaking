@@ -1,0 +1,94 @@
+{
+  'Name': 'Ravi Prakash',
+  'DateOfBirth': 'March 27 1988',
+  'Gender': 'Male',
+  'Email': 'raviprakash.darbha@gmail.com',
+  'PhoneNumber': '08-0421-04138',
+  'Address': 'permanent address b.tech details semester year s.g.p.a c.g.p.a pre degree 10+2th 10th details discipline institution university board year marks ravi prakash dsvn b.tech room no b 203 mega hostel block nitk hostels surathkal karnataka c 001mantri flora sarjapur road ring road junction bangalore',
+  'Skills': {
+    'technical_skills': [
+      'minix',
+      'compaction algorithm',
+      'memory manager',
+      'hypervisors',
+      'hypervisor architecture',
+      'hypercalls',
+      'virtualization technology',
+      'windows vista',
+      'real time features',
+      'minix4rt',
+      'wireless lan miniport drivers',
+      'auditing facility'
+    ],
+    'other_skills': ['social service', 'cricket', 'badminton', 'swimming', 'kernel development']
+  },
+  'Education': {
+    'pre_degree': [
+      {
+        'degree_name': '10+2th',
+        'institution': 'national public school rajajinagar bangalore',
+        'year_or_duration': '2004',
+        'cgpa_or_percentage': '92'
+      }
+    ],
+    'bachelors': [
+      {
+        'degree_name': 'b.tech',
+        'institution': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore',
+        'year_or_duration': '2010',
+        'cgpa_or_percentage': '7.56'
+      }
+    ],
+    'masters': []
+  },
+  'ExtraCurricularActivities': ['social service club', 'cricket', 'badminton', 'swimming'],
+  'Projects': [
+    {
+      'project_name': 'performance evaluation and updating of minix operating system',
+      'skills_used': [
+        'memory manager',
+        'compaction algorithm'
+      ]
+    },
+    {
+      'project_name': 'automation of hostel and mess management system',
+      'skills_used': ['oracle 10g', 'java swing']
+    },
+    {
+      'project_name': 'seminar and report on virtualization technology with special emphasis on hypervisors and hypervisor architecture',
+      'skills_used': ['hypercalls']
+    },
+    {
+      'project_name': 'real time minix',
+      'skills_used': ['real time features', 'minix4rt']
+    },
+    {
+      'project_name': 'understanding the architecture of wireless lan miniport drivers designed for windows vista',
+      'skills_used': ['windows vista']
+    },
+    {
+      'project_name': 'adding auditing facility to linux',
+      'skills_used': ['nfs server', 'client']
+    }
+  ],
+  'Internships': [
+    {
+      'company': 'wipro',
+      'year': 'summer',
+      'skills': [
+        'wireless lan miniport drivers',
+        'windows vista'
+      ]
+    }
+  ],
+  'References': [
+    {
+      'name': 'ramesh naik',
+      'designation': 'technical manager wipro technologies hyderabad'
+    },
+    {
+      'name': 'suresh jayaraman',
+      'designation': 'kernel developer suse labsnovell bangalore'
+    }
+  ]
+}<|end_of_turn|>

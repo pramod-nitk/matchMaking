@@ -19,6 +19,7 @@ from src.extraction import (
 )
 from src.embedding import EmbeddingModel, ingest_embeddings_to_faiss
 from src.matching import create_candidate_profile #, search_candidates
+from src.insights import get_insights
 from utils.parse_json_chatgpt import parse_resume_file_chatapi
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -305,6 +306,12 @@ def task_index_in_faiss(config_path: str):
         }, f)
     logger.info(f"Index map saved to: {map_pickle_path}")
 
+def task_get_insights(config_path: str):
+    config = load_config(config_path)
+    db_path = config["paths"]["database_path"]
+    get_insights(db_path)
+
+
 
 def task_run_api(config_path: str):
     """
@@ -356,7 +363,7 @@ def parse_args():
     parser.add_argument(
         "--function",
         required=True,
-        choices=["split_pdf", "extract_data", "json_extract", "generate_embeddings", "index_embeddings", "run_api"],
+        choices=["split_pdf", "extract_data", "json_extract", "get_insights", "generate_embeddings", "index_embeddings", "run_api"],
         help="Which function to run."
     )
     parser.add_argument(
@@ -393,6 +400,8 @@ def main():
         task_extract_data_and_generate(args.config, args.resume, args.file)
     elif args.function =="json_extract":
         JSON_EXTRACT(args.config, args.file)
+    elif args.function =="get_insights":
+        task_get_insights(args.config)
     elif args.function == "generate_embeddings":
         task_generate_embeddings(args.config)
     elif args.function == "index_embeddings":

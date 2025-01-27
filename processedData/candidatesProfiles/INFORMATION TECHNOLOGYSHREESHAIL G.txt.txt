@@ -1,0 +1,95 @@
+{
+  'Name': 'shreeshail g',
+  'DateOfBirth': 'august 15 1988',
+  'Gender': 'male',
+  'Email': 'shreeshailgumgeri@gmail.com',
+  'PhoneNumber': '09-4488-15581',
+  'Address': 'permanent address',
+  'Skills': {
+    'technical_skills': [
+      'java',
+      'oracle',
+      'vb6',
+      'c++',
+      'html',
+      'css',
+      'php',
+      'python',
+      'sql',
+      'microsoft excel',
+      'microsoft word',
+      'microsoft powerpoint',
+      'microsoft access'
+    ],
+    'other_skills': [
+      'team work',
+      'hardworking',
+      'dedicated',
+      'enthusiasm',
+      'adaptability',
+      'time management',
+      'leadership',
+      'communication'
+    ]
+  },
+  'Education': {
+    'pre_degree': [
+      {
+        'degree_name': '10th',
+        'institution': 'xth javahar navodaya vidyalaya kuknoor koppal karnataka cbse',
+        'year_or_duration': '2004',
+        'cgpa_or_percentage': '75.2'
+      }
+    ],
+    'bachelors': [
+      {
+        'degree_name': 'b.tech',
+        'institution': 'national institute of technology karnataka surathkal p.o',
+        'year_or_duration': '2009',
+        'cgpa_or_percentage': '6.13'
+      }
+    ],
+    'masters': []
+  },
+  'ExtraCurricularActivities': [
+    'convenor of kannada committee in crescendo fest cultural fest 2009',
+    'joint convener of kannada vedike club2009',
+    'active member of ncc',
+    'attended ncc shooting camp thrice'
+  ],
+  'Projects': [
+    {
+      'project_name': 'mini project computer graphics',
+      'skills_used': ['java', 'team of 3']
+    },
+    {
+      'project_name': 'paint application',
+      'skills_used': ['java', 'team of 3']
+    },
+    {
+      'project_name': 'mini relational database system',
+      'skills_used': ['vb6', 'oracle database', 'team of 3']
+    },
+    {
+      'project_name': 'software application sim card management system tool',
+      'skills_used': ['vb6', 'oracle database', 'team of 3']
+    }
+  ],
+  'Internships': [
+    {
+      'company': 'bsnl kadri exchange mangalore',
+      'year': '4 weeks',
+      'skills': ['isdn introduction', 'team of 3']
+    }
+  ],
+  'References': [
+    {
+      'name': 'prof. v.r. sastry',
+      'designation': 'head of department training placement nitk surathkal'
+    },
+    {
+      'name': 'dr. ram mohan reddy',
+      'designation': 'hod information technology nitk surathkal'
+    }
+  ]
+}<|end_of_turn|>

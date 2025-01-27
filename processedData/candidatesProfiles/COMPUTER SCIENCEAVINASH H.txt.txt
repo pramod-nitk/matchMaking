@@ -1,0 +1,99 @@
+{
+  'Name': 'avinash h',
+  'DateOfBirth': 'february 18 1989',
+  'Gender': 'male',
+  'Email': 'avinash947@gmail.com',
+  'PhoneNumber': '08-1826-53926,9-9168-09940',
+  'Address': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025',
+  'Skills': {
+    'technical_skills': [
+      'java',
+      'c',
+      '3d graphics',
+      'sdl'
+    ],
+    'other_skills': [
+      'volleyball',
+      'music',
+      'movies'
+    ]
+  },
+  'Education': {
+    'pre_degree': [
+      {
+        'degree_name': '10+2th',
+        'institution': 'd.v.s. high school shimoga',
+        'year_or_duration': '2004',
+        'cgpa_or_percentage': '85.76'
+      },
+      {
+        'degree_name': 'xiith',
+        'institution': 'd.v.s. pu college ii p.u.c',
+        'year_or_duration': '2006',
+        'cgpa_or_percentage': '87.50'
+      }
+    ],
+    'bachelors': [
+      {
+        'degree_name': 'b.tech',
+        'institution': 'national institute of technology karnataka surathkal',
+        'year_or_duration': '2010',
+        'cgpa_or_percentage': '7.32'
+      }
+    ],
+    'masters': []
+  },
+  'ExtraCurricularActivities': [
+    'member of nss nitk',
+    'member of kannada vedike nitk',
+    'participated in district level volley ball tournament in 2000',
+    'participated in perfect machine in national level tech fest'
+  ],
+  'Projects': [
+    {
+      'project_name': 'major project on transparent load balancingonging',
+      'skills_used': ['java']
+    },
+    {
+      'project_name': 'project on boolean operation on 3d surfaces at nias bangalore under prof. tim poston',
+      'skills_used': ['c']
+    },
+    {
+      'project_name': 'project on an operation system for machine dependent code developer',
+      'skills_used': ['java']
+    },
+    {
+      'project_name': 'project on remote desktop control platform independent using java',
+      'skills_used': ['java']
+    },
+    {
+      'project_name': 'project on library management system for computer science department',
+      'skills_used': ['java']
+    },
+    {
+      'project_name': 'worked at kshipra solution on java based transaction and account management applications for sugarcane industry coconut and aracnut industry. web based jobs like online bank transaction management',
+      'skills_used': ['java']
+    },
+    {
+      'project_name': 'project on graphics editor using sdl',
+      'skills_used': ['sdl']
+    }
+  ],
+  'Internships': [
+    {
+      'company': 'kshipra solution',
+      'year': 'Not Found',
+      'skills': ['java']
+    }
+  ],
+  'References': [
+    {
+      'name': 'Not Found',
+      'designation': 'Not Found'
+    },
+    {
+      'name': 'Not Found',
+      'designation': 'Not Found'
+    }
+  ]
+}<|end_of_turn|>

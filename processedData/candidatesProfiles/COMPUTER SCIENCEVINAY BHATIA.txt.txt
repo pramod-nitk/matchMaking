@@ -1,0 +1,95 @@
+{
+    'Name': 'Vinay Bhatia',
+    'DateOfBirth': 'November 30, 1987',
+    'Gender': 'Male',
+    'Email': 'vinaybhatianitk@gmail.com',
+    'PhoneNumber': '0120 2671861',
+    'Address': 'National Institute of Technology Karnataka Surathkal P.O Srinivasnagar Mangalore 575025',
+    'Skills': {
+        'technical_skills': [
+            'Client Server Module as an aid for teaching',
+            'Microsoft Visual Basic 6.0',
+            'Oracle 10g',
+            'C Language',
+            'Turbo C++',
+            'C++ DevC++'
+        ],
+        'other_skills': [
+            'Hardworking',
+            'Sincere',
+            'Quick Learner',
+            'Team Work'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'Delhi Public School CBSE',
+                'year_or_duration': '2003',
+                'cgpa_or_percentage': '84'
+            },
+            {
+                'degree_name': '12th',
+                'institution': 'Delhi Public School CBSE',
+                'year_or_duration': '2005',
+                'cgpa_or_percentage': '78'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech in Computer Science',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '6.63'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'Member of NSS National Social Service',
+        'Member of DDFc The Only Cultural Club Of The College',
+        'Member of the Judge Committee of Incident Cultural Fest',
+        'House Sports Captain',
+        '1st Prize in Swimming Competition',
+        'Bronze Medal in Chess in Fest Held at DPS Mathura Road'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Database Project',
+            'skills_used': [
+                'C Language',
+                'Turbo C++',
+                'Oracle 10g',
+                'Microsoft Visual Basic 6.0'
+            ]
+        },
+        {
+            'project_name': 'Graphics Project',
+            'skills_used': [
+                'C Language',
+                'Turbo C++',
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'C.Dot',
+            'year': 'Summer Training',
+            'skills': [
+                'Client Server Module',
+                'C Language'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Dr.P.Santhi Thilagam',
+            'designation': 'Head of Department, Department of Computer Engineering, National Institute of Technology Karnataka Srinivasnagar PO Surathkal Karnataka State India Pin 575 025'
+        },
+        {
+            'name': 'Dr.T.G. Basavaraju',
+            'designation': 'Assistant Professor, Department of Computer Engineering, National Institute of Technology Karnataka Srinivasnagar PO Surathkal Karnataka State India Pin 575 025'
+        }
+    ]
+}<|end_of_turn|>

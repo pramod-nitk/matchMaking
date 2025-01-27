@@ -1,0 +1,109 @@
+{
+    "Name": "Richa Bhatla",
+    "DateOfBirth": "July 29, 1988",
+    "Gender": "Female",
+    "Email": "rich88smart@gmail.com",
+    "PhoneNumber": "009-7126-351081",
+    "Address": "Not Found",
+    "Skills": {
+        "technical_skills": [
+            "Not Found"
+        ],
+        "other_skills": [
+            "Not Found"
+        ]
+    },
+    "Education": {
+        "pre_degree": [
+            {
+                "degree_name": "10th",
+                "institution": "Indian School, Abu Dhabi",
+                "year_or_duration": "2004",
+                "cgpa_or_percentage": "83"
+            },
+            {
+                "degree_name": "XIth",
+                "institution": "Indian School, Abu Dhabi",
+                "year_or_duration": "2006",
+                "cgpa_or_percentage": "80.2"
+            }
+        ],
+        "bachelors": [
+            {
+                "degree_name": "B.Tech Information Technology",
+                "institution": "National Institute of Technology Karnataka Surathkal",
+                "year_or_duration": "2010",
+                "cgpa_or_percentage": "7.38"
+            }
+        ],
+        "masters": [
+            {
+                "degree_name": "Not Found",
+                "institution": "Not Found",
+                "year_or_duration": "Not Found",
+                "cgpa_or_percentage": "Not Found"
+            }
+        ]
+    },
+    "ExtraCurricularActivities": [
+        "Aero Modeling Workshop",
+        "Swimming Competition"
+    ],
+    "Projects": [
+        {
+            "project_name": "Computer Graphics Mini Project",
+            "skills_used": [
+                "Not Found"
+            ]
+        },
+        {
+            "project_name": "Database Mini Project",
+            "skills_used": [
+                "Not Found"
+            ]
+        },
+        {
+            "project_name": "Software Engineering Mini Project",
+            "skills_used": [
+                "Not Found"
+            ]
+        },
+        {
+            "project_name": "Internet Technology and Applications Mini Project",
+            "skills_used": [
+                "Not Found"
+            ]
+        },
+        {
+            "project_name": "Kernel Patching",
+            "skills_used": [
+                "Not Found"
+            ]
+        },
+        {
+            "project_name": "Anatomy",
+            "skills_used": [
+                "Not Found"
+            ]
+        }
+    ],
+    "Internships": [
+        {
+            "company": "Not Found",
+            "year": "Not Found",
+            "skills": [
+                "Not Found"
+            ]
+        }
+    ],
+    "References": [
+        {
+            "name": "Not Found",
+            "designation": "Not Found"
+        },
+        {
+            "name": "Not Found",
+            "designation": "Not Found"
+        }
+    ]
+}<|end_of_turn|>

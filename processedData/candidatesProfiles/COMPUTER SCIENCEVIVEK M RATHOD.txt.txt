@@ -1,0 +1,107 @@
+{
+  'Name': 'Vivek M Rathod',
+  'DateOfBirth': 'May 26, 1989',
+  'Gender': 'Male',
+  'Email': 'vivekmrathod@gmail.com',
+  'PhoneNumber': '8352260756',
+  'Address': 'Permanent Address: B.Tech details, Present Address: Plot 13, Shri Vishnu Pragati Nagar, Ashram Road, Bijapur 586103, Karnataka',
+  'Skills': {
+    'technical_skills': [
+      'C',
+      'C++',
+      'Python',
+      'Internet Technology',
+      'Java Servlets',
+      'HTML',
+      'Systems',
+      'Windows XP',
+      'Linux',
+      'Ubuntu'
+    ],
+    'other_skills': []
+  },
+  'Education': {
+    'pre_degree': [],
+    'bachelors': [
+      {
+        'degree_name': 'B.Tech Computer Science',
+        'institution': 'National Institute of Technology Karnataka Surathkal',
+        'year_or_duration': '2009-2014',
+        'cgpa_or_percentage': '8.75'
+      }
+    ],
+    'masters': []
+  },
+  'ExtraCurricularActivities': [
+    'Solving Algorithmic Problems on Sphere Online Judge Spoj',
+    'MLabWrap Development (Python Matlab Bridge)',
+    'Worked on problem set for Algorithmic Debugging Contest during our technical festival',
+    'Worked on problem set for our annual online programming contest Inscription',
+    'Played for the Institute Hockey Team'
+  ],
+  'Projects': [
+    {
+      'project_name': 'Mlabwrap',
+      'skills_used': [
+        'C++',
+        'Python',
+        'Matlab',
+        'N Dimensional Array Support',
+        'C Extension',
+        'Unit Testing',
+        'Regression Testing'
+      ]
+    },
+    {
+      'project_name': 'Content Based Video Retrieval (CBVR) IIT Madras',
+      'skills_used': [
+        'Java',
+        'Servlets',
+        'Gabor Filter Based Trajectory Representation',
+        'Server System for Deploying CBVR on Web',
+        'Google Calendar API',
+        'SMS Reminders'
+      ]
+    },
+    {
+      'project_name': 'Topcoder Event Parser',
+      'skills_used': [
+        'Python',
+        'Google Calendar API',
+        'SMS Reminders'
+      ]
+    },
+    {
+      'project_name': 'Network Audio Streaming',
+      'skills_used': [
+        'Linux',
+        'IP Multicasting',
+        'ALSA File Write Plugin',
+        'C++',
+        'RTSP',
+        'C++ Module',
+        'Audio Device File'
+      ]
+    }
+  ],
+  'Internships': [
+    {
+      'company': 'Stepper Motor and Serial Communication',
+      'year': 'Not Found'
+    },
+    {
+      'company': 'Jooming Advanced Text Display System',
+      'year': 'Not Found'
+    }
+  ],
+  'References': [
+    {
+      'name': 'Mrs Saumya Hegde',
+      'designation': 'Senior Lecturer Computer Engineering Department'
+    },
+    {
+      'name': 'Prof Tim Poston',
+      'designation': 'Nias Bangalore'
+    }
+  ]
+}<|end_of_turn|>

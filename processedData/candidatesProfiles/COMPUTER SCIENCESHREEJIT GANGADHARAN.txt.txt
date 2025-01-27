@@ -1,0 +1,94 @@
+{
+    'Name': 'shreejit gangadharan',
+    'DateOfBirth': 'november 15 1988',
+    'Gender': 'male',
+    'Email': 'sherryssj5@gmail.com',
+    'PhoneNumber': ['09-7176-52646', '9-7407-26724'],
+    'Address': ['permanent address: b.tech details semester year s.g.p.a c.g.p.a pre degree 10+2th 10th details discipline institution university board year marks room no b409 mega hostel block nitk boys hostel surathkal srinivas agar po. 575025 b203 gayatri apartments plot 9 sector 9 dwarka new delhi 110075'],
+    'Skills': {
+        'technical_skills': [
+            'finite automata',
+            'olympic knowledge pool',
+            'pac man game',
+            'video conferencing software',
+            'web based user verification system',
+            'email and sms verification'
+        ],
+        'other_skills': [
+            'astronomy',
+            'web development',
+            'badminton',
+            'reading',
+            'resourceful',
+            'passionate',
+            'energetic',
+            'self motivated',
+            'time management skills'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10+2th 10th',
+                'institution': 'delhi public school cbse',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '81'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'b.tech',
+                'institution': 'national institute of technology karnataka surathkal p.o',
+                'year_or_duration': '2010',
+                'cgpa_or_percentage': '8.14'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'astronomy club',
+        'badminton player',
+        'reading novels',
+        'web development',
+        'inter zone level in delhi'
+    ],
+    'Projects': [
+        {
+            'project_name': 'efficient token operated payphone',
+            'skills_used': ['finite automata']
+        },
+        {
+            'project_name': 'olympic knowledge pool',
+            'skills_used': ['olympic knowledge pool']
+        },
+        {
+            'project_name': 'pac man game',
+            'skills_used': ['pac man game']
+        },
+        {
+            'project_name': 'video conferencing software',
+            'skills_used': ['video conferencing software']
+        },
+        {
+            'project_name': 'web based user verification system',
+            'skills_used': ['web based user verification system', 'email and sms verification']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Not Found',
+            'year': 'Not Found',
+            'skills': 'Not Found'
+        }
+    ],
+    'References': [
+        {
+            'name': 'k. vinay kumar',
+            'designation': 'lecturer computer engineering nitk surathkal ph 2474000 extn. 3403 vinay@nitk.ac.in'
+        },
+        {
+            'name': 't.g.basavaraju',
+            'designation': 'faculty advisor computer engineering nitk surathkal ph 2474000 extn. 3445 basavaraju@nitk.ac.in'
+        }
+    ]
+}<|end_of_turn|>

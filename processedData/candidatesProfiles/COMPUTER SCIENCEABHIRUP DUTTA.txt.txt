@@ -1,0 +1,135 @@
+{
+    'Name': 'Abhirup Dutta',
+    'DateOfBirth': 'January 19, 1989',
+    'Gender': 'Male',
+    'Email': 'abyrupus@gmail.com',
+    'PhoneNumber': '+91 80 23201499 / +91 9-9862-22073',
+    'Address': 'Srinivasnagar Surathkal, Mangalore 575025',
+    'Skills': {
+        'technical_skills': [
+            'Optimizing thinning algorithms for OCR',
+            'Active Math Reader Application',
+            'Assembler clone using C++',
+            'Customized hotkeys for Linux',
+            'Auto image correction and enhancement',
+            'Game of snakes using C graphics',
+            'Library management system',
+            'Game of Monopoly'
+        ],
+        'other_skills': [
+            'Hardworking',
+            'Creative',
+            'Resourceful',
+            'Excellent team player and decision maker',
+            'Leadership',
+            'Public speaking',
+            'Debating',
+            'Poetry',
+            'Pencil sketching',
+            'Drama'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'Vidyaniketan Public School Ullal',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '94.4'
+            },
+            {
+                'degree_name': '12th',
+                'institution': 'Xiith National Public School Rajajinagar',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '94.6'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '8.76'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'Executive Member of Computer Society of India Chapter of NITK',
+        'Public Relation Coordinator of Web Enthusiasts Club of NITK',
+        'Public Speaking',
+        'Debating',
+        'Poetry',
+        'Pencil Sketching',
+        'Drama'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Active Math Reader Application',
+            'skills_used': [
+                'Active Math Reader Application'
+            ]
+        },
+        {
+            'project_name': 'Optimizing thinning algorithms for OCR',
+            'skills_used': [
+                'Optimizing thinning algorithms for OCR'
+            ]
+        },
+        {
+            'project_name': 'Assembler clone using C++',
+            'skills_used': [
+                'Assembler clone using C++'
+            ]
+        },
+        {
+            'project_name': 'Customized hotkeys for Linux',
+            'skills_used': [
+                'Customized hotkeys for Linux'
+            ]
+        },
+        {
+            'project_name': 'Auto image correction and enhancement',
+            'skills_used': [
+                'Auto image correction and enhancement'
+            ]
+        },
+        {
+            'project_name': 'Game of snakes using C graphics',
+            'skills_used': [
+                'Game of snakes using C graphics'
+            ]
+        },
+        {
+            'project_name': 'Library management system',
+            'skills_used': [
+                'Library management system'
+            ]
+        },
+        {
+            'project_name': 'Game of Monopoly',
+            'skills_used': [
+                'Game of Monopoly'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Mindtree',
+            'year': 'After 2nd year',
+            'skills': [
+                'Optimizing thinning algorithms for OCR'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Mr. Hemanth Kumar Sangappa',
+            'designation': 'Module Lead, Mindtree Limited'
+        },
+        {
+            'name': 'Prof. Timothy Poston',
+            'designation': 'NAS IISC Tim@nias.iisc.ernet.in'
+        }
+    ]
+}<|end_of_turn|>

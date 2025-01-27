@@ -1,0 +1,57 @@
+{
+    'Name': 'Vivek Agrawal',
+    'DateOfBirth': 'March 9, 1987',
+    'Gender': 'Male',
+    'Email': 'vik.it06@gmail.com',
+    'PhoneNumber': '+91-9916-816865',
+    'Address': '575025 Mangalore, India',
+    'Skills': {
+        'technical_skills': [
+            'C',
+            'Ogre',
+            'VB',
+            'Oracle DBMS',
+            '3D Boolean Surfaces',
+            'C++',
+            'Graphics Editor'
+        ],
+        'other_skills': [
+            'Honest',
+            'Hard-working',
+            'Consistent',
+            'Group Work',
+            'Patience',
+            'Challenges'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {'degree_name': '', 'institution': 'Xth St.Joseph High School', 'year_or_duration': '2002', 'cgpa_or_percentage': '89'}]],
+        'bachelors': [{'degree_name': 'B.Tech', 'institution': 'NITK', 'year_or_duration': '2009', 'cgpa_or_percentage': '8.10'}]],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'NSS',
+        'IE',
+        'Engineer08',
+        'Engineer09',
+        'Beach Cleaning'
+    ],
+    'Projects': [
+        {'project_name': '',
+         'skills_used': [
+             '3D Boolean Surfaces',
+             'C',
+             'Ogre',
+             'C++',
+             'Graphics Editor'
+         ]},
+        {'project_name': '',
+         'skills_used': [
+             'VB',
+             'Oracle DBMS'
+         ]}
+    ],
+    'Internships': [{'company': '', 'year': '', 'skills': []}],
+    'References': [{'name': '', 'designation': ''}]
+}

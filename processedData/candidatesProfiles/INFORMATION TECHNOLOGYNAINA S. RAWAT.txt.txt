@@ -1,0 +1,50 @@
+{
+  'Name': 'Naina S. Rawat',
+  'DateOfBirth': 'January 19, 1988',
+  'Gender': 'Female',
+  'Email': 'therawats.naina@gmail.com',
+  'PhoneNumber': '+91-9900-405996',
+  'Address': [
+    'Permanent Address: national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025',
+    'Present Address: room no. 213 block no. 10 sector 7 cgs colony antophill mumbai 400037'
+  ],
+  'Skills': {
+    'technical_skills': [],
+    'other_skills': []
+  },
+  'Education': {
+    'pre_degree': [
+      {
+        'degree_name': '10+2th',
+        'institution': 'Xth Kendriya Vidyalaya CGS Colony Oliwada',
+        'year_or_duration': '2004',
+        'cgpa_or_percentage': '88'
+      }
+    ],
+    'bachelors': [
+      {
+        'degree_name': 'B.Tech',
+        'institution': 'National Institute of Technology Karnataka',
+        'year_or_duration': '2010',
+        'cgpa_or_percentage': '8.05'
+      }
+    ],
+    'masters': []
+  },
+  'ExtraCurricularActivities': [
+    'About Myself',
+    'Co-curricular Activities'
+  ],
+  'Projects': [],
+  'Internships': [],
+  'References': [
+    {
+      'name': '',
+      'designation': ''
+    },
+    {
+      'name': '',
+      'designation': ''
+    }
+  ]
+}<|end_of_turn|>

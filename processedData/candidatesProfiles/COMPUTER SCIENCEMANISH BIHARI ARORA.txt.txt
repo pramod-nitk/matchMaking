@@ -1,0 +1,77 @@
+{
+    'Name': 'Manish Bihari Arora',
+    'DateOfBirth': '14 February 1986',
+    'Gender': 'Male',
+    'Email': 'mbanitk@gmail.com',
+    'PhoneNumber': '9-9168-16955',
+    'Address': 'National Institute of Technology Karnataka Surathkal P.O Srinivasnagar Mangalore 575025',
+    'Skills': {
+        'technical_skills': ['C', 'C++', 'HTML'],
+        'other_skills': ['organizing events', 'hard work', 'positive attitude']
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'Sri Sukhdev Academy Ekanger Sarai',
+                'year_or_duration': '2000',
+                'cgpa_or_percentage': '60.85'
+            },
+            {
+                'degree_name': 'XIth',
+                'institution': 'Trimurti Inter College Bihar',
+                'year_or_duration': '2002',
+                'cgpa_or_percentage': '64.44'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '6.41'
+            }
+        ],
+        'masters': [
+            {
+                'degree_name': 'M.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '',
+                'cgpa_or_percentage': ''
+            }
+        ]
+    },
+    'ExtraCurricularActivities': [
+        'Member of NITK IEEE',
+        'Captain of school cricket team in 10th',
+        'Active participant in sports like carom and cricket',
+        'Successful organizer of Engineer 2009'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Boolean operations on volumes defined by mesh surfaces',
+            'skills_used': ['C++', 'Network Management']
+        },
+        {
+            'project_name': 'Teaching Aid Algorithm Emulator',
+            'skills_used': ['C++', 'Algorithm']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'National Institute of Advanced Studies Bangalore',
+            'year': '2009',
+            'skills': ['Hard work', 'Positivity']
+        }
+    ],
+    'References': [
+        {
+            'name': 'Prof. Tim Poston',
+            'designation': 'National Institute of Advanced Studies Bangalore'
+        },
+        {
+            'name': 'Dr. K. Chandrasekaran',
+            'designation': 'National Institute of Technology Karnataka Surathkal'
+        }
+    ]
+}<|end_of_turn|>

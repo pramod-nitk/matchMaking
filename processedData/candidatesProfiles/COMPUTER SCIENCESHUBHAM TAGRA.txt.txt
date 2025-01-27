@@ -1,0 +1,218 @@
+{
+    "Name": "Shubham Tagra",
+    "DateOfBirth": "13 September 1988",
+    "Gender": "Male",
+    "Email": "shubhamtagra@gmail.com",
+    "PhoneNumber": "01-7922-27366, 9-9004-06050",
+    "Address": "Permanent: national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025, Present: Not Found",
+    "Skills": {
+        "technical_skills": [
+            "java",
+            "oracle 10g",
+            "C++",
+            "C",
+            "Python",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Java Media Framework",
+            "JDBC",
+            "MySQL",
+            "Microsoft Word",
+            "Microsoft Excel",
+            "Microsoft PowerPoint",
+            "MS Project",
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Adobe InDesign",
+            "Adobe Dreamweaver",
+            "Adobe Flash",
+            "Adobe Acrobat",
+            "Adobe After Effects",
+            "Adobe Audition",
+            "Adobe Premiere",
+            "Dreamweaver",
+            "Notepad++",
+            "Eclipse",
+            "NetBeans",
+            "Visual Studio",
+            "Windows 7",
+            "Windows XP",
+            "Ubuntu",
+            "Red Hat Linux",
+            "Android Studio",
+            "Android SDK"
+        ],
+        "other_skills": [
+            "Hardworking",
+            "Quick learner",
+            "Sincere",
+            "Good team player",
+            "Excellent communication skills",
+            "Time management",
+            "Problem solving",
+            "Adaptability",
+            "Creative thinking",
+            "Ability to work under pressure",
+            "Excellent interpersonal skills",
+            "Strong analytical skills",
+            "Strong decision making skills",
+            "Negotiation skills",
+            "Project management",
+            "Good planning skills",
+            "Leadership qualities",
+            "Good presentation skills",
+            "Strong teamwork",
+            "Strong computer skills",
+            "Strong software skills",
+            "Strong networking skills",
+            "Good organizational skills"
+        ]
+    },
+    "Education": {
+        "pre_degree": [
+            {
+                "degree_name": "10th",
+                "institution": "Xth Dayanand Adarsh Vidyalaya",
+                "year_or_duration": "2004",
+                "cgpa_or_percentage": "86"
+            },
+            {
+                "degree_name": "XIth",
+                "institution": "XIth Dayanand Adarsh Vidyalaya",
+                "year_or_duration": "2006",
+                "cgpa_or_percentage": "88.6"
+            }
+        ],
+        "bachelors": [
+            {
+                "degree_name": "B.Tech",
+                "institution": "National Institute of Technology Karnataka",
+                "year_or_duration": "2009",
+                "cgpa_or_percentage": "8.84"
+            }
+        ],
+        "masters": [
+            {
+                "degree_name": "Not Found",
+                "institution": "Not Found",
+                "year_or_duration": "Not Found",
+                "cgpa_or_percentage": "Not Found"
+            }
+        ]
+    },
+    "ExtraCurricularActivities": [
+        "Member of Web Enthusiasts Club at NITK",
+        "Member of NSS at NITK",
+        "Badminton",
+        "Debate and Extempore Competition"
+    ],
+    "Projects": [
+        {
+            "project_name": "Graphics Editing Software for Computer Graphics Project",
+            "skills_used": [
+                "C++",
+                "C",
+                "Python",
+                "HTML",
+                "CSS",
+                "Java",
+                "Java Media Framework",
+                "JDBC",
+                "MySQL",
+                "Microsoft Word",
+                "Microsoft Excel",
+                "Microsoft PowerPoint",
+                "MS Project",
+                "Adobe Photoshop",
+                "Adobe Illustrator",
+                "Adobe InDesign",
+                "Adobe Dreamweaver",
+                "Adobe Flash",
+                "Adobe Acrobat",
+                "Adobe After Effects",
+                "Adobe Audition",
+                "Adobe Premiere",
+                "Dreamweaver",
+                "Notepad++",
+                "Eclipse",
+                "NetBeans",
+                "Visual Studio",
+                "Windows 7",
+                "Windows XP",
+                "Ubuntu",
+                "Red Hat Linux",
+                "Android Studio",
+                "Android SDK"
+            ]
+        },
+        {
+            "project_name": "Olympics Information System in Java",
+            "skills_used": [
+                "java",
+                "oracle 10g",
+                "JDBC",
+                "MySQL"
+            ]
+        },
+        {
+            "project_name": "Virtual Classroom Software",
+            "skills_used": [
+                "java",
+                "audiovideo captureplayback and streaming using java media framework api",
+                "JDBC",
+                "MySQL"
+            ]
+        }
+    ],
+    "Internships": [
+        {
+            "company": "Datacom Solutions Pvt. Ltd.",
+            "year": "Not Found",
+            "skills": [
+                "java",
+                "C",
+                "Python",
+                "HTML",
+                "CSS",
+                "Java Media Framework",
+                "JDBC",
+                "MySQL",
+                "Microsoft Word",
+                "Microsoft Excel",
+                "Microsoft PowerPoint",
+                "MS Project",
+                "Adobe Photoshop",
+                "Adobe Illustrator",
+                "Adobe InDesign",
+                "Adobe Dreamweaver",
+                "Adobe Flash",
+                "Adobe Acrobat",
+                "Adobe After Effects",
+                "Adobe Audition",
+                "Adobe Premiere",
+                "Dreamweaver",
+                "Notepad++",
+                "Eclipse",
+                "NetBeans",
+                "Visual Studio",
+                "Windows 7",
+                "Windows XP",
+                "Ubuntu",
+                "Red Hat Linux",
+                "Android Studio",
+                "Android SDK"
+            ]
+        }
+    ],
+    "References": [
+        {
+            "name": "Not Found",
+            "designation": "Not Found"
+        },
+        {
+            "name": "Not Found",
+            "designation": "Not Found"
+        }
+    ]
+}<|end_of_turn|>

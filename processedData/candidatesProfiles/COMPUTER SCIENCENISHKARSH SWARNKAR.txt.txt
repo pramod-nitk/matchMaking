@@ -1,0 +1,84 @@
+{
+    'Name': 'Nishkarsh Swarnkar',
+    'DateOfBirth': 'September 22 1988',
+    'Gender': 'male',
+    'Email': 'nishkarshs@gmail.com',
+    'PhoneNumber': '0294 2491020',
+    'Address': {
+        'permanent': '575025 national institute of technology karnataka surathkal p.o srinivasnagar mangalore',
+        'present': 'government quarters pratap nagar udaipur 313001'
+    },
+    'Skills': {
+        'technical_skills': [
+            'Not Found'
+        ],
+        'other_skills': [
+            'Not Found'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10+2th',
+                'institution': 'Xth Modern School Kota Rajasthan CBSE',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '89'
+            },
+            {
+                'degree_name': 'XIith',
+                'institution': 'Xiith Modi Public School Kota Rajasthan CBSE',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '87'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.tech',
+                'institution': 'National Institute of Technology Karnataka',
+                'year_or_duration': '2010',
+                'cgpa_or_percentage': '7.28'
+            }
+        ],
+        'masters': [
+            {
+                'degree_name': 'Not Found',
+                'institution': 'Not Found',
+                'year_or_duration': 'Not Found',
+                'cgpa_or_percentage': 'Not Found'
+            }
+        ]
+    },
+    'ExtraCurricularActivities': [
+        'member of engineer 2009 annual technical symposium of NITK business committee.',
+        'member of the rotoract club NITK chapter.',
+        'member of the NITK cricket team for three years.',
+        'CBSE cluster volleyball player for Modern School Kota.'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Not Found',
+            'skills_used': [
+                'Not Found'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Not Found',
+            'year': 'Not Found',
+            'skills': [
+                'Not Found'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        },
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        }
+    ]
+}<|end_of_turn|>

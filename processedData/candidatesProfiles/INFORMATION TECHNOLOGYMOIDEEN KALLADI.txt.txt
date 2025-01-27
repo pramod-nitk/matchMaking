@@ -1,0 +1,103 @@
+{
+    'Name': 'Moideen Kalladi',
+    'DateOfBirth': 'January 3, 1988',
+    'Gender': 'male',
+    'Email': 'moideen.janab@gmail.com',
+    'PhoneNumber': '+91-9900-406300',
+    'Address': 'Mill House Mannarkkad Palakkad District Kerala 678582',
+    'Skills': {
+        'technical_skills': [
+            'VB.NET', 'C++', 'PHP', 'MySQL', 'Oracle 10g Express Edition', 'Excel VBA Macros', 'Prototype Framework', 'CodeIgniter Framework', 'TMGS Biometric Attendance System', 'Ajax', 'Excel Macro', 'WordPress', 'Drupal', 'PhpMyAdmin', 'Microsoft Excel', 'SQL'
+        ],
+        'other_skills': [
+            'Amateur Guitar Player', 'LAN Events Coordinator', 'Emcee', 'Trekkie', 'Executive Member of Workshops Committee', 'Hiking and Trekking'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'Indian School Al Ghubra Muscat',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '92.8'
+            },
+            {
+                'degree_name': '12th',
+                'institution': 'Indian School Al Ghubra Muscat',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '89.2'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '6.7'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'Amateur Guitar Player', 'Senior Member of NITK Rotaract Club', 'Lan Events Coordinator', 'Emcee', 'Executive Member of Workshops Committee', 'Hiking and Trekking'
+    ],
+    'Projects': [
+        {
+            'project_name': 'BGI Graphics Package',
+            'skills_used': [
+                'C++', 'Mouse Support'
+            ]
+        },
+        {
+            'project_name': 'MINREL DBMS',
+            'skills_used': [
+                'C++', 'Model Interpol Database'
+            ]
+        },
+        {
+            'project_name': 'Mobile Services Management System',
+            'skills_used': [
+                'PHP', 'MySQL', 'CodeIgniter PHP Framework'
+            ]
+        },
+        {
+            'project_name': 'Major Project',
+            'skills_used': [
+                'Genetic Algorithms'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Embun Elit Sdn Bhd',
+            'year': 'June 2007',
+            'skills': [
+                'Excel VBA Macros'
+            ]
+        },
+        {
+            'company': 'Global Technology Innovations LLC',
+            'year': 'June 2008',
+            'skills': [
+                'Oracle Database', 'Organization Chart'
+            ]
+        },
+        {
+            'company': 'The Magnum Group',
+            'year': 'December 2008',
+            'skills': [
+                'PHP Ajax', 'Prototype Framework', 'Microsoft Excel'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Lakshman Balaraman',
+            'designation': 'Executive Director The Magnum Group'
+        },
+        {
+            'name': 'Prof. Biju R Mohan',
+            'designation': 'Assistant Professor Department of Information Technology NITK Surathkal'
+        }
+    ]
+}<|end_of_turn|>

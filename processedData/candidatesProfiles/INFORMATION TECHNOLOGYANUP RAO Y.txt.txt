@@ -1,0 +1,102 @@
+{
+ 'Name': 'Anup Rao Y',
+ 'DateOfBirth': 'january 15 1989',
+ 'Gender': 'male',
+ 'Email': 'anup.rao.y@gmail.com',
+ 'PhoneNumber': '08-2025-27575',
+ 'Address': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025',
+ 'Skills': {
+  'technical_skills': [
+   'information technology',
+   'course management tool',
+   'website',
+   'customer relation manager software',
+   'graphics editor',
+   'mini relational database',
+   'telecommunication management system',
+   'aieee counseling system'
+  ],
+  'other_skills': [
+   'swimming',
+   'cycling',
+   'convenor of films club',
+   'member of spicmacay nitk chapter',
+   'member of professional and academic counsel pace nitk',
+   'executive member of incident inter college cultural fest',
+   'executive member of engineer inter college technical fest',
+   'executive member of crrescendo intra college fest',
+   'marketing the idea of social way initiative of tavant technologies in nitk',
+   'participated in entrepreneurship awareness programme organised by state bank of india at nitk',
+   'i like to work in a group and love learning new things',
+   'i believe in hard work and like to take responsibilities',
+   'i am an adaptive and flexible person and receptive to suggestions'
+  ]
+ },
+ 'Education': {
+  'pre_degree': [
+   {
+    'degree_name': '10th',
+    'institution': 'xth manipal junior college karnataka secondary education examination board',
+    'year_or_duration': '2004',
+    'cgpa_or_percentage': '92.16'
+   },
+   {
+    'degree_name': 'xiith',
+    'institution': 'xiith manipal pu college department of pre university education karnataka',
+    'year_or_duration': '2006',
+    'cgpa_or_percentage': '82.0 supplementary'
+   }
+  ],
+  'bachelors': [
+   {
+    'degree_name': 'b.tech',
+    'institution': 'national institute of technology karnataka surathkal',
+    'year_or_duration': '2009',
+    'cgpa_or_percentage': '7.21'
+   }
+  ],
+  'masters': [
+   {
+    'degree_name': '',
+    'institution': '',
+    'year_or_duration': '',
+    'cgpa_or_percentage': ''
+   }
+  ]
+ },
+ 'ExtraCurricularActivities': [
+  'about myself co curricular activities reference 1 reference 2 i pursue the following hobbies swimmingcycling convenor of films club nitk member of spicmacay nitk chapter member of professional and academic counsel pace nitk executive member of incident inter college cultural fest 07 08 executive member of engineer inter college technical fest 09 executive member of crrescendo intra college fest 07 08 contributed in marketing the idea of social way initiative of tavant technologies in nitk participated in entrepreneurship awareness programme organised by state bank of india at nitk i like to work in a group and love learning new things. i believe in hard work and like to take responsibilities. i am an adaptive and flexible person and receptive to suggestions'
+ ],
+ 'Projects': [
+  {
+   'project_name': 'course management tool',
+   'skills_used': [
+    'information technology',
+    'course management tool',
+    'website',
+    'customer relation manager software',
+    'graphics editor',
+    'mini relational database',
+    'telecommunication management system',
+    'aieee counseling system'
+   ]
+  },
+  {
+   'project_name': 'website',
+   'skills_used': []
+  }
+ ],
+ 'Internships': [
+  {
+   'company': 'Not Found',
+   'year': 'Not Found',
+   'skills': []
+  }
+ ],
+ 'References': [
+  {
+   'name': 'Not Found',
+   'designation': 'Not Found'
+  }
+ ]
+}<|end_of_turn|>

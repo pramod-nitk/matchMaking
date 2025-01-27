@@ -1,0 +1,150 @@
+{
+"Name": "Rajat Kandoi",
+"DateOfBirth": "February 26, 1987",
+"Gender": "male",
+"Email": "rajatkandoi@gmail.com",
+"PhoneNumber": "08-0255-35111",
+"Address": [
+    {
+        "permanent": "b.tech details semester year s.g.p.a c.g.p.a pre degree 10+2th 10th details discipline institution university board year marks rajat kandoi b.tech b506 mega hostel complex nitk surathkal 34118 f main6th block koramangala bangalore 560095. semester 1 dec 2006 8.21 8.21 semester 2 may 2007 8.67 8.42 semester 3 dec 2007 8.4 8.42 semester 4 may 2008 8.21 8.37 semester 5 dec 2008 8.22 8.34 semester 6 may 2009 7.21 8.16 xth bishop cotton boys icse 2003 91.3 xiith bishop cotton boys isc 2005 91.5"
+    }
+],
+"Skills": {
+    "technical_skills": [
+        "digital audio coding perceptual models used in mpeg layer 1",
+        "psychoacoustic model 1 and 2 as described by the standard",
+        "database design",
+        "java",
+        "oracle db",
+        "html",
+        "php",
+        "c",
+        "c++",
+        "sql functions",
+        "drupal",
+        "matlab",
+        "french"
+    ],
+    "other_skills": [
+        "communication skills",
+        "entrepreneurship",
+        "teamwork"
+    ]
+},
+"Education": {
+    "pre_degree": [
+        {
+            "degree_name": "",
+            "institution": "",
+            "year_or_duration": "",
+            "cgpa_or_percentage": ""
+        }
+    ],
+    "bachelors": [
+        {
+            "degree_name": "b.tech",
+            "institution": "national institute of technology karnataka surathkal",
+            "year_or_duration": "2006",
+            "cgpa_or_percentage": "8.16"
+        }
+    ],
+    "masters": [
+        {
+            "degree_name": "",
+            "institution": "",
+            "year_or_duration": "",
+            "cgpa_or_percentage": ""
+        }
+    ]
+},
+"ExtraCurricularActivities": [
+    {
+        "activity": "karnataka and goa ncc contingent at the republic day parade 2002",
+        "role": "participant"
+    },
+    {
+        "activity": "best cadet competition",
+        "role": "participant"
+    },
+    {
+        "activity": "music group in school as well as college",
+        "role": "participant"
+    },
+    {
+        "activity": "french course 1 a and 1 b at the alliance francaise bangalore",
+        "role": "completed"
+    }
+],
+"Projects": [
+    {
+        "project_name": "mpeg 1 layer 1 standard",
+        "skills_used": [
+            "matlab",
+            "psychoacoustic model 1 and 2"
+        ]
+    },
+    {
+        "project_name": "database for rescue a 24 hour vehicle breakdown assistance in bangalore",
+        "skills_used": [
+            "java",
+            "oracle db"
+        ]
+    },
+    {
+        "project_name": "expository web site named 2x2 about the nature of vectors and matrices",
+        "skills_used": [
+            "html",
+            "applets",
+            "java",
+            "dr.tim poston"
+        ]
+    },
+    {
+        "project_name": "4th semester mini project",
+        "skills_used": [
+            "c",
+            "animations",
+            "dr. g. ram mohana reddy"
+        ]
+    },
+    {
+        "project_name": "5th semester mini project",
+        "skills_used": [
+            "java",
+            "netbeans api"
+        ]
+    },
+    {
+        "project_name": "6th semester mini project",
+        "skills_used": [
+            "drupal",
+            "html",
+            "php",
+            "sales management system",
+            "computer peripherals",
+            "software engineering",
+            "dr. g. ram mohana reddy"
+        ]
+    }
+],
+"Internships": [
+    {
+        "company": "nitk surathkal",
+        "year": "2009",
+        "skills": [
+            "digital audio coding",
+            "perceptual models used in mpeg layer 1",
+            "psychoacoustic model 1 and 2",
+            "matlab",
+            "java",
+            "dr.g.ram mohana reddy"
+        ]
+    }
+],
+"References": [
+    {
+        "name": "prasanna sivan",
+        "designation": "partner, rescue bangalore"
+    }
+]
+}<|end_of_turn|>

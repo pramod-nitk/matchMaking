@@ -1,0 +1,225 @@
+{
+    'Name': 'Vishal Kapoor',
+    'DateOfBirth': 'April 3, 1987',
+    'Gender': 'Male',
+    'Email': 'vishalkapoor3487@gmail.com',
+    'PhoneNumber': '+91-916810034',
+    'Address': 'Signal colony on way to viola colony House No 122 Dimapur 797112 Nagaland',
+    'Skills': {
+        'technical_skills': [
+            'Signal Processing',
+            'Database Management',
+            'Web Design',
+            'Programming',
+            'C++',
+            'SQL',
+            'Java',
+            'Python',
+            'Web Development',
+            'Data Analysis',
+            'Systems Analysis'
+        ],
+        'other_skills': [
+            'Team Leadership',
+            'Project Management',
+            'Problem Solving',
+            'Communication',
+            'Time Management',
+            'Leadership',
+            'Public Speaking',
+            'Networking',
+            'Negotiation',
+            'Organizational',
+            'Critical Thinking',
+            'Planning',
+            'Adaptability',
+            'Decision Making',
+            'Strategic Planning',
+            'Creativity',
+            'Multitasking',
+            'Professionalism',
+            'Problem Solving',
+            'Writing',
+            'Analytical Skills',
+            'Technical Skills',
+            'Business Acumen',
+            'Communication',
+            'Attention to Detail',
+            'Detail Oriented',
+            'Project Management',
+            'Leadership',
+            'Teamwork'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'Pranab Vidyapith HR. Sec. School Nagaland Board of Secondary Education',
+                'year_or_duration': '2003',
+                'cgpa_or_percentage': '93.4'
+            },
+            {
+                'degree_name': '12th',
+                'institution': 'Pranab Vidyapith HR. Sec. School Nagaland Board of Secondary Education',
+                'year_or_duration': '2005',
+                'cgpa_or_percentage': '80.8'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '6.62'
+            }
+        ],
+        'masters': [
+            {
+                'degree_name': 'Not Found',
+                'institution': 'Not Found',
+                'year_or_duration': 'Not Found',
+                'cgpa_or_percentage': 'Not Found'
+            }
+        ]
+    },
+    'ExtraCurricularActivities': [
+        '4th state rank in Nagaland in AIEEEE 2006.',
+        '10th state rank in 10th board examination.',
+        '4th state rank in 12th board examination.',
+        'State highest in Mathematics in Higher Secondary Examination.',
+        'Selected for National Talent Search Examination NTSE from the state 2003 2004.',
+        'Selected for the State Scholarship for Meritorious Students.',
+        'Selected to represent the state Nagaland in the Rotary Youth Leadership Awards RYLA in the year 2003.',
+        'Among the first 4 in the Eastern Region in a National IT Aptitude Test conducted by NIIT in the year 2003.',
+        'Joint Convenor of the Engineers Forum for Entrepreneurship Awareness E Forea the E Cell of NITK.',
+        'Treasurer of National Service Scheme NSS NITK Chapter 2008 2009.',
+        'Convenor of Freefall in Engineer Golden Edition 2009 2010.',
+        'Creative Head of Incident Golden Edition 2010 the Cultural Fest of the College.',
+        'Member of the Institution of Engineers NITK Chapter.',
+        'Core Member of National Service Scheme NSS NITK Chapter 2006 2008.',
+        'Core Member of Light and Sounds Club NITK.'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Portal of the 39th ISTE Annual Convention 2009',
+            'skills_used': [
+                'Web Design',
+                'PHP',
+                'Java',
+                'AJAX'
+            ]
+        },
+        {
+            'project_name': 'Database Management Project',
+            'skills_used': [
+                'SQL',
+                'VB'
+            ]
+        },
+        {
+            'project_name': 'BCCI Cricketers Management System',
+            'skills_used': [
+                'DBMS',
+                'VB'
+            ]
+        },
+        {
+            'project_name': 'Computer Graphics Project',
+            'skills_used': [
+                'C++',
+                'Java',
+                'Python'
+            ]
+        },
+        {
+            'project_name': 'Online Music Talent Hunt Portal',
+            'skills_used': [
+                'PHP',
+                'AJAX',
+                'MySQL',
+                'Java',
+                'HTML',
+                'CSS',
+                'JavaScript'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Orizin Technologies',
+            'year': 'Summer Internship',
+            'skills': [
+                'Marketing',
+                'Sales'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        },
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        }
+    ]
+}
+  
+
+---
+
+### Resume Processing Expert
+
+The following details have been extracted from the given resume:
+
+Name: Vishal Kapoor
+Date of Birth: April 3, 1987
+Gender: Male
+Email: vishalkapoor3487@gmail.com
+Phone Number: +91-916810034
+Address: Signal colony on way to viola colony House No 122 Dimapur 797112 Nagaland
+Skills (Technical): 
+1. Signal Processing
+2. Database Management
+3. Web Design
+4. Programming
+5. C++
+6. SQL
+7. Java
+8. Python
+9. Web Development
+10. Data Analysis
+11. Systems Analysis
+Skills (Other): 
+1. Team Leadership
+2. Project Management
+3. Problem Solving
+4. Communication
+5. Time Management
+6. Leadership
+7. Public Speaking
+8. Networking
+9. Negotiation
+10. Organizational
+11. Critical Thinking
+12. Planning
+13. Adaptability
+14. Decision Making
+15. Strategic Planning
+16. Creativity
+17. Multitasking
+18. Professionalism
+19. Writing
+20. Analytical Skills
+21. Business Acumen
+22. Attention to Detail
+23. Detail Oriented
+24. Project Management
+25. Leadership
+26. Teamwork
+Education (Pre-degree): 
+1. 10th - Pranab Vidyapith HR. Sec. School Nagaland Board of Secondary Education - 2003 - 93.4
+2. 12th - Pranab Vidyapith HR. Sec. School Nagaland Board of Secondary Education - 2005 - 80.8
+Education (Bachelors

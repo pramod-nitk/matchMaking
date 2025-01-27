@@ -1,0 +1,66 @@
+{
+ 'Name': 'Tanuj Tekriwal',
+ 'DateOfBirth': 'december 28 1987',
+ 'Gender': 'male',
+ 'Email': 'tanujtekriwal@gmail.com',
+ 'PhoneNumber': '03-3225-94717',
+ 'Address': '52 maharshi debendra road kolkata 700006 west bengal',
+ 'Skills': {
+   'technical_skills': ['Not Found'],
+   'other_skills': ['Not Found']
+ },
+ 'Education': {
+   'pre_degree': [
+     {
+       'degree_name': 'xiith birla high school',
+       'institution': 'Not Found',
+       'year_or_duration': '2005',
+       'cgpa_or_percentage': '79.4'
+     }
+   ],
+   'bachelors': {
+     'degree_name': 'b.tech',
+     'institution': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore',
+     'year_or_duration': '2009',
+     'cgpa_or_percentage': '7.36'
+   },
+   'masters': [
+     {
+       'degree_name': 'Not Found',
+       'institution': 'Not Found',
+       'year_or_duration': 'Not Found',
+       'cgpa_or_percentage': 'Not Found'
+     }
+   ]
+ },
+ 'ExtraCurricularActivities': [
+   'Not Found'
+ ],
+ 'Projects': [
+   {
+     'project_name': 'Not Found',
+     'skills_used': [
+       'Not Found'
+     ]
+   }
+ ],
+ 'Internships': [
+   {
+     'company': 'Not Found',
+     'year': 'Not Found',
+     'skills': [
+       'Not Found'
+     ]
+   }
+ ],
+ 'References': [
+   {
+     'name': 'Not Found',
+     'designation': 'Not Found'
+   },
+   {
+     'name': 'Not Found',
+     'designation': 'Not Found'
+   }
+ ]
+}<|end_of_turn|>

@@ -1,0 +1,59 @@
+{
+    'Name': 'Jeevan Venkatesh',
+    'DateOfBirth': 'May 15, 1988',
+    'Gender': 'Male',
+    'Email': 'jeevan88@gmail.com',
+    'PhoneNumber': '8-0235-33075, 9-9027-72160',
+    'Address': 'Not Found',
+    'Skills': {
+        'technical_skills': [
+            'Java',
+            'C',
+            'C++',
+            'HTML',
+            'CSS',
+            'JavaScript',
+            'Latex'
+        ],
+        'other_skills': ['Guitar']
+    },
+    'Education': {
+        'pre_degree': [
+            {'degree_name': 'X',
+             'institution': 'Xth Florence Public High School',
+             'year_or_duration': '2004',
+             'cgpa_or_percentage': '88.3'},
+            {'degree_name': 'XI',
+             'institution': 'XIth Sheshadripuram Composite PU College',
+             'year_or_duration': '2006',
+             'cgpa_or_percentage': '88'}
+        ],
+        'bachelors': [
+            {'degree_name': 'B.Tech',
+             'institution': 'National Institute of Technology Karnataka Surathkal',
+             'year_or_duration': '2006',
+             'cgpa_or_percentage': '8.43, 8.75, 8.04, 7.29, 7.33, 7.08, 7.83'}
+        ],
+        'masters': [{'degree_name': 'Not Found', 'institution': 'Not Found', 'year_or_duration': 'Not Found', 'cgpa_or_percentage': 'Not Found'}]
+    },
+    'ExtraCurricularActivities': [
+        'Student Member of IEEEITK Chapter',
+        'Attended Energy Conservation Workshop'
+    ],
+    'Projects': [
+        {'project_name': 'Digital Signal Processing using Texas Instruments DSP Hardware',
+         'skills_used': ['C', 'C++']},
+        {'project_name': 'Database Project on IMDb International Movie Database using Java Tools',
+         'skills_used': ['Java']},
+        {'project_name': 'Computer Graphics Project', 'skills_used': ['C++', 'C#']},
+        {'project_name': 'Software Engineering Project on IMDb International Movie Database',
+         'skills_used': ['Java', 'C#']}
+    ],
+    'Internships': [
+        {'company': 'Aptech Bangalore', 'year': '2008', 'skills': ['Java']}
+    ],
+    'References': [
+        {'name': 'Not Found', 'designation': 'Not Found'},
+        {'name': 'Not Found', 'designation': 'Not Found'}
+    ]
+}<|end_of_turn|>

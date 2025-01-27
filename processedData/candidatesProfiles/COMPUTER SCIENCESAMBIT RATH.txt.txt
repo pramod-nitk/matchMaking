@@ -1,0 +1,82 @@
+{
+  'Name': 'Sambit Rath',
+  'DateOfBirth': 'January 17, 1989',
+  'Gender': 'Male',
+  'Email': 'sambitrath1989@gmail.com',
+  'PhoneNumber': '09-4373-52561',
+  'Address': 'National Institute of Technology Karnataka Surathkal P.O Srinivasnagar Mangalore 575025',
+  'Skills': {
+    'technical_skills': [
+      'C++',
+      'PHP',
+      'HTML',
+      'MySQL',
+      'Joomla',
+      'Java',
+      'Oracle'
+    ],
+    'other_skills': [
+      'Mathematics',
+      'Drawing',
+      'Gaming',
+      'Website Design'
+    ]
+  },
+  'Education': {
+    'pre_degree': [
+      {
+        'degree_name': '10th',
+        'institution': 'Xth Saraswati Sishu Vidya Mandir Bhanjanagar',
+        'year_or_duration': '2004',
+        'cgpa_or_percentage': '93.4'
+      }
+    ],
+    'bachelors': [
+      {
+        'degree_name': 'B.Tech',
+        'institution': 'National Institute of Technology Karnataka Surathkal',
+        'year_or_duration': '2009',
+        'cgpa_or_percentage': '6.83'
+      }
+    ],
+    'masters': []
+  },
+  'ExtraCurricularActivities': [
+    'Mathematics Olympiad',
+    'Drawing Competitions',
+    'Gaming Competitions',
+    'Bleach Cleaning Activity'
+  ],
+  'Projects': [
+    {
+      'project_name': 'Virtual Classroom Software',
+      'skills_used': [
+        'NetBeans',
+        'JMF'
+      ]
+    },
+    {
+      'project_name': 'Snake Game',
+      'skills_used': [
+        'C++'
+      ]
+    }
+  ],
+  'Internships': [
+    {
+      'company': 'National Informatics Center Berhampur',
+      'year': '2006',
+      'skills': [
+        'PHP',
+        'HTML',
+        'MySQL'
+      ]
+    }
+  ],
+  'References': [
+    {
+      'name': 'Prof. Vinay Kumar H.O.D Computer Engg. Prof T.G. Vasavarajju',
+      'designation': 'Assistant Professor'
+    }
+  ]
+}<|end_of_turn|>

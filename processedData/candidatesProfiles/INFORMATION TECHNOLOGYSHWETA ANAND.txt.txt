@@ -1,0 +1,83 @@
+{
+ 'Name': 'Shweta Anand',
+ 'DateOfBirth': '28 May 1988',
+ 'Gender': 'Female',
+ 'Email': 'shweta.anand.88@gmail.com',
+ 'PhoneNumber': '0484 2366455',
+ 'Address': '3rd block nitk ladies hostel srinivasnagar po mangalore 575025',
+ 'Skills': {
+  'technical_skills': [
+   'information technology'
+  ],
+  'other_skills': [
+   'good communication and inter personal skills',
+   'fast learner',
+   'can grasp concepts quickly'
+  ]
+ },
+ 'Education': {
+  'pre_degree': [
+   {
+    'degree_name': '10th',
+    'institution': 'Indian School Muscat CBSE',
+    'year_or_duration': '2004',
+    'cgpa_or_percentage': '93.2'
+   },
+   {
+    'degree_name': '12th',
+    'institution': 'Indian School Muscat CBSE',
+    'year_or_duration': '2006',
+    'cgpa_or_percentage': '90.2'
+   }
+  ],
+  'bachelors': [
+   {
+    'degree_name': 'B.Tech',
+    'institution': 'National Institute of Technology Karnataka Surathkal',
+    'year_or_duration': '2009',
+    'cgpa_or_percentage': '7.94'
+   }
+  ]
+ },
+ 'ExtraCurricularActivities': [
+  'executive member of computer society of india in nitk',
+  'member of the mangalore chapter of spic macay',
+  'trained in bharathnatyam for a period of 12 years from the shiva shakthi school of dance and completed arangetram in the year 2003',
+  'member of organizing committees for engineer annual technical fest of nitk and incident annual cultural fest of nitk in 2008 and 2009'
+ ],
+ 'Projects': [
+  {
+   'project_name': 'Not Found',
+   'skills_used': []
+  }
+ ],
+ 'Internships': [
+  {
+   'company': 'Sonorant Technologies',
+   'year': '2008',
+   'skills': []
+  },
+  {
+   'company': 'Lenovo',
+   'year': '2009',
+   'skills': []
+  },
+  {
+   'company': 'London School of Economics',
+   'year': '2009',
+   'skills': []
+  }
+ ],
+ 'References': [
+  {
+   'name': 'Mr. Shanil M',
+   'designation': 'General Manager, Lenovo',
+   'phone': '9-8863-27279'
+  },
+  {
+   'name': 'Mr. Dinesh Naik',
+   'designation': 'Lecturer, Dept of Information Technology NITK',
+   'phone': '9-4804-01300'
+  }
+ ]
+}<|end_of_turn|>

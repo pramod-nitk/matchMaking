@@ -1,0 +1,40 @@
+{
+    'Name': 'Naveen',
+    'DateOfBirth': 'June 4, 1988',
+    'Gender': 'Male',
+    'Email': 'naveen.4688@gmail.com',
+    'PhoneNumber': '044 23762073',
+    'Address': ['6 e1 vignesh flats', 'a.r.k st devaraj nagar', 'saligramam', 'chennai', '600093', 'tamil nadu', 'india'],
+    'Skills': {
+        'technical_skills': ['Programming Languages: C++, Java, C, Visual Basic, Database: MySQL, Oracle 10g, Scripting Languages: PHP, Unix Shell, Platforms: Linux, Windows', 'Worked on Joomla Content Management System', 'Worked with .Net in Domain Image Processing', 'Worked on Joomla Content Management System', 'Developed an application for constructing animated scenes from stills using .Net at Bluechip Technologies Chennai. May-July 2009'],
+        'other_skills': ['Technical Skills: Programming Languages: C++, Java, C, Visual Basic, Database: MySQL, Oracle 10g, Scripting Languages: PHP, Unix Shell, Platforms: Linux, Windows', 'Worked on Joomla Content Management System', 'Worked with .Net in Domain Image Processing', 'Worked on Joomla Content Management System', 'Developed an application for constructing animated scenes from stills using .Net at Bluechip Technologies Chennai. May-July 2009'],
+        'other_skills': ['Participated in Coastal Day Cleanup Programmes organised by the Indian Coast Guard', 'Active member of school cricket and football teams', 'Participated and a winner of many quizzes in school and college', 'Took part in blood donation camps organised at NITK', 'Sincere and hardworking person', 'Always keen to learn new things', 'Aim is to help the society in whichever way possible']
+    },
+    'Education': {
+        'pre_degree': [{'degree_name': '10th', 'institution': 'Xth Chinmaya VidyalayaVirugambakkam Chennai CBSE 2003', 'year_or_duration': '2003', 'cgpa_or_percentage': '88.4'}],
+        'bachelors': [
+            {'degree_name': 'B.Tech', 'institution': 'National Institute of Technology Karnataka Surathkal', 'year_or_duration': '2009', 'cgpa_or_percentage': '6.89', 'semester_details': [
+                {'semester': '1', 'year': 'Dec 2006', 'sgpa': '6.79', 'cgpa': '6.79'},
+                {'semester': '2', 'year': 'May 2007', 'sgpa': '7.42', 'cgpa': '7.08'},
+                {'semester': '3', 'year': 'Dec 2007', 'sgpa': '7.04', 'cgpa': '7.07'},
+                {'semester': '4', 'year': 'May 2008', 'sgpa': '6', 'cgpa': '6.81'},
+                {'semester': '5', 'year': 'Dec 2008', 'sgpa': '6.92', 'cgpa': '6.83'},
+                {'semester': '6', 'year': 'May 2009', 'sgpa': '7.44', 'cgpa': '6.93'},
+                {'semester': '7', 'year': 'Dec 2009', 'sgpa': '6.58', 'cgpa': '6.89'}
+            ]}
+        ],
+        'masters': []
+    },
+    'Projects': [
+        {'project_name': 'Domain Image Processing', 'skills_used': ['C++, Java, C, Visual Basic, Database: MySQL, Oracle 10g, Scripting Languages: PHP, Unix Shell, Platforms: Linux, Windows']},
+        {'project_name': 'Network Scanner', 'skills_used': ['Java', 'Database: MySQL', 'Website: HTML, CSS']},
+        {'project_name': 'Graphics Editor', 'skills_used': ['C']}
+    ],
+    'Internships': [
+        {'company': 'Bluechip Technologies Chennai', 'year': 'May-July 2009', 'skills': ['Programming Languages: C++, Java, C, Visual Basic, Database: MySQL, Oracle 10g, Scripting Languages: PHP, Unix Shell, Platforms: Linux, Windows', 'Worked on Joomla Content Management System', 'Worked with .Net in Domain Image Processing', 'Worked on Joomla Content Management System', 'Developed an application for constructing animated scenes from stills using .Net at Bluechip Technologies Chennai. May-July 2009']}
+    ],
+    'References': [
+        {'name': 'Prof. K.C.Shet', 'designation': 'Computer Engineering Dept NITK Surathkal'},
+        {'name': 'Dr T.G.Basavaraju', 'designation': 'Asst. Professor Computer Engineering Dept NITK Surathkal'}
+    ]
+}<|end_of_turn|>

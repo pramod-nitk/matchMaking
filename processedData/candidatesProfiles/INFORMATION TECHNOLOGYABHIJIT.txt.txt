@@ -1,0 +1,141 @@
+{
+    "Name": "Abhijit",
+    "DateOfBirth": "May 13, 1988",
+    "Gender": "Male",
+    "Email": "nitk.abhi13@gmail.com",
+    "PhoneNumber": "08-2025-72678",
+    "Address": "Not Found",
+    "Skills": {
+        "technical_skills": [
+            "C",
+            "Java",
+            "VB.NET",
+            "MySQL",
+            "ASP.NET",
+            "C#",
+            "C++",
+            "HTML",
+            "CSS",
+            "Javascript",
+            "SQL"
+        ],
+        "other_skills": [
+            "Cricket",
+            "Football",
+            "Outdoor Games",
+            "Entrepreneurship Skills",
+            "Graphic Designing",
+            "Website Development"
+        ]
+    },
+    "Education": {
+        "pre_degree": [
+            {
+                "degree_name": "10th",
+                "institution": "Manipal Pre University College Karnataka",
+                "year_or_duration": "2004",
+                "cgpa_or_percentage": "85.76"
+            },
+            {
+                "degree_name": "12th",
+                "institution": "Manipal Pre University College Karnataka",
+                "year_or_duration": "2006",
+                "cgpa_or_percentage": "86"
+            }
+        ],
+        "bachelors": [
+            {
+                "degree_name": "B.Tech",
+                "institution": "National Institute of Technology Karnataka Surathkal",
+                "year_or_duration": "2009",
+                "cgpa_or_percentage": "7.42"
+            }
+        ],
+        "masters": []
+    },
+    "ExtraCurricularActivities": [
+        "Member of NITK IEEE Student Chapter",
+        "Member of Genesis",
+        "Coastal Cleanup Programme",
+        "Enterpreneurship Training Programme",
+        "Phoenix",
+        "Cricket and Football Fan",
+        "Outdoor Games Enthusiast"
+    ],
+    "Projects": [
+        {
+            "project_name": "Computer Graphics Application",
+            "skills_used": [
+                "C"
+            ]
+        },
+        {
+            "project_name": "IT Department Website",
+            "skills_used": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+        },
+        {
+            "project_name": "Course Management Tool",
+            "skills_used": [
+                "C#",
+                "VB.NET",
+                "MySQL",
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+        },
+        {
+            "project_name": "Database Management System",
+            "skills_used": [
+                "Java",
+                "VB.NET",
+                "MySQL",
+                "C#"
+            ]
+        },
+        {
+            "project_name": "Customer Relations Manager Software",
+            "skills_used": [
+                "Java",
+                "VB.NET",
+                "MySQL",
+                "C#"
+            ]
+        },
+        {
+            "project_name": "Online Student Admission Counseling System",
+            "skills_used": [
+                "ASP.NET",
+                "MySQL",
+                "HTML",
+                "CSS"
+            ]
+        }
+    ],
+    "Internships": [
+        {
+            "company": "State Bank of India Mangalore Branch",
+            "year": "2009",
+            "skills": [
+                "Java",
+                "VB.NET",
+                "MySQL",
+                "C#"
+            ]
+        }
+    ],
+    "References": [
+        {
+            "name": "Dr. Ananthanarayana V. S.",
+            "designation": "Professor Department of Information Technology, National Institute of Technology Karnataka Surathkal"
+        },
+        {
+            "name": "Mrs. Geetha V.",
+            "designation": "Lecturer Department of Information Technology, National Institute of Technology Karnataka Surathkal"
+        }
+    ]
+}<|end_of_turn|>

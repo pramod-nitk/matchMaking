@@ -1,0 +1,21 @@
+{
+    'Name': 'A.Narayana Vyas',
+    'DateOfBirth': '16 June 1990',
+    'Gender': 'Male',
+    'Email': 'narayana.vyas.a@gmail.com',
+    'PhoneNumber': '09-9804-65079',
+    'Address': ['Not Found', 'Not Found'],
+    'Skills': {
+        'technical_skills': ['C', 'C++', 'C#', 'Java', 'Python', 'SQL', 'UNIX', 'Web Design', 'HTML', 'CSS', 'PHP', 'MySQL', 'LaTeX', 'MATLAB'],
+        'other_skills': ['Not Found']
+    },
+    'Education': {
+        'pre_degree': [{'degree_name': '10th', 'institution': 'Dilsukhnagar Public School', 'year_or_duration': '2004', 'cgpa_or_percentage': '90.33'}],
+        'bachelors': [{'degree_name': 'B.Tech.', 'institution': 'National Institute of Technology Karnataka Surathkal', 'year_or_duration': '2009', 'cgpa_or_percentage': '7.93'}],
+        'masters': []
+    },
+    'ExtraCurricularActivities': ['Not Found', 'Not Found', 'Not Found', 'Not Found', 'Not Found', 'Not Found', 'Not Found', 'Not Found'],
+    'Projects': [{'project_name': 'Not Found', 'skills_used': []}],
+    'Internships': [{'company': 'Not Found', 'year': 'Not Found', 'skills': []}],
+    'References': [{'name': 'Not Found', 'designation': 'Not Found'}, {'name': 'Not Found', 'designation': 'Not Found'}]
+}<|end_of_turn|>

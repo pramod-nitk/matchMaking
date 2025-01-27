@@ -1,0 +1,21 @@
+{
+    'Name': 'Manjunath S V',
+    'DateOfBirth': 'May 20 1989',
+    'Gender': 'Male',
+    'Email': 'manjunathsvit@gmail.com',
+    'PhoneNumber': '+919-6869-14246',
+    'Address': 'Not Found',
+    'Skills': {
+        'technical_skills': ['sql', 'php', 'java', 'paint'],
+        'other_skills': ['Not Found']
+    },
+    'Education': {
+        'pre_degree': [{'degree_name': '10+2th', 'institution': 'Xth vasavi vidya samasthe', 'year_or_duration': '2004', 'cgpa_or_percentage': '84.64'}],
+        'bachelors': [{'degree_name': 'B.Tech', 'institution': 'National Institute of Technology Karnataka Surathkal', 'year_or_duration': '2010', 'cgpa_or_percentage': '6.11'}],
+        'masters': [{'degree_name': 'Not Found', 'institution': 'Not Found', 'year_or_duration': 'Not Found', 'cgpa_or_percentage': 'Not Found'}]
+    },
+    'ExtraCurricularActivities': ['co curricular activities', 'reference 1', 'reference 2', 'joint convenor of kannada events committee of our college cultural fest incident2010.', 'executive member of kannada events committee of our college cultural fest incident.', 'active member of kannada vedike forumnitk.', 'member of college athletics team.', 'took part in many intra and inter college sports.'],
+    'Projects': [{'project_name': 'adatabase project', 'skills_used': ['sql']}, {'project_name': 'bchess masters club', 'skills_used': ['php']}, {'project_name': 'cgraphics', 'skills_used': ['java']}],
+    'Internships': [{'company': 'bsnl mangalore', 'year': 'May-June', 'skills': ['Not Found']}],
+    'References': [{'name': 'Dr. Ananthnarayan', 'designation': 'Assistant Professor'}, {'name': 'Dr. V R Shastri', 'designation': 'Assistant Professor'}]
+}<|end_of_turn|>

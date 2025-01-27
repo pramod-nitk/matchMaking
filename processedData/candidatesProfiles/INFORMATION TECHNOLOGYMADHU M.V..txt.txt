@@ -1,0 +1,84 @@
+{
+    'Name': 'Madhu Venkatesha',
+    'DateOfBirth': 'March 24, 1989',
+    'Gender': 'Male',
+    'Email': 'madhu.venkatesha@gmail.com',
+    'PhoneNumber': '080 26395249, 9-8864-12862',
+    'Address': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025',
+    'Skills': {
+        'technical_skills': [
+            'C++', 'C', 'Java', 'Python', 'HTML', 'CSS', 'Javascript', 'Oracle', 'Visual Basic', 'SQL', 'Adobe Photoshop', 'Adobe Illustrator', 'Adobe InDesign'
+        ],
+        'other_skills': [
+            'Swimming', 'Basketball', 'Carrom', 'Table Tennis', 'Cryptic crosswords', 'History', 'Physics'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': 'X',
+                'institution': 'Sri Ramakrishna Vidyashala Yadavagiri',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '94.88'
+            },
+            {
+                'degree_name': 'XI',
+                'institution': 'S.S.L.C',
+                'year_or_duration': '2004',
+                'cgpa_or_percentage': '94.88'
+            },
+            {
+                'degree_name': 'XII',
+                'institution': 'XIth Mes P.U. College Malleshwaram',
+                'year_or_duration': '2006',
+                'cgpa_or_percentage': '85.33'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka Surathkal',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '8.22'
+            }
+        ]
+    },
+    'ExtraCurricularActivities': [
+        'Star gazing club', 'Swimming', 'Basketball', 'Carrom', 'Table Tennis', 'Cryptic crosswords', 'History', 'Physics'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Designing a graphics package capable of 2d animation',
+            'skills_used': ['C', 'C++']
+        },
+        {
+            'project_name': 'Designing a database application for a construction company using Oracle and Visual Basic',
+            'skills_used': ['Visual Basic', 'Oracle']
+        },
+        {
+            'project_name': 'Efficient clustering and retrieval of short stories',
+            'skills_used': ['Python', 'C++']
+        },
+        {
+            'project_name': 'Porting tinySTM from linuxx86 platform to hp uxitanium platform',
+            'skills_used': ['C++', 'Linuxx86']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Dr. Prakash Raghavendra',
+            'year': 'Not Found',
+            'skills': ['C++', 'C', 'Python', 'HTML', 'CSS', 'Javascript', 'Oracle', 'Visual Basic', 'SQL', 'Adobe Photoshop', 'Adobe Illustrator', 'Adobe InDesign']
+        }
+    ],
+    'References': [
+        {
+            'name': 'Dr. Ananthanarayana V.S',
+            'designation': 'Guide'
+        },
+        {
+            'name': 'Dr. Prakash Raghavendra',
+            'designation': 'Asst. Professor'
+        }
+    ]
+}<|end_of_turn|>

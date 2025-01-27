@@ -1,0 +1,133 @@
+{
+    "Name": "Vidit Jindal",
+    "DateOfBirth": "may 25 1988",
+    "Gender": "male",
+    "Email": "viditjindal@ymail.com",
+    "PhoneNumber": "011 22131074, 9-9025-18825",
+    "Address": {
+        "permanent_address": "west jyoti nagar shahdara delhi 110094",
+        "present_address": "b.tech room no.b 015 mega hostel block nitk surathkal mangalore karnataka 575025 h 48"
+    },
+    "Skills": {
+        "technical_skills": [
+            "c language",
+            "java",
+            "visual basics",
+            "sql",
+            "web design",
+            "database handling"
+        ],
+        "other_skills": [
+            "analytical and problem solving skills",
+            "ability to work amicably in groups",
+            "ability to adapt to new methods and technologies",
+            "drawing and animation toolkit",
+            "drawing and animation",
+            "optical character recognition",
+            "image processing",
+            "hard working",
+            "enthusiastic",
+            "punctual",
+            "willing to accept challenges",
+            "look at problems differently",
+            "stress management techniques"
+        ]
+    },
+    "Education": {
+        "pre_degree": [
+            {
+                "degree_name": "10th",
+                "institution": "xth navin bharti senior secondary school",
+                "year_or_duration": "2003",
+                "cgpa_or_percentage": "83"
+            },
+            {
+                "degree_name": "xiith",
+                "institution": "vivekanand school",
+                "year_or_duration": "2005",
+                "cgpa_or_percentage": "80.8"
+            }
+        ],
+        "bachelors": [
+            {
+                "degree_name": "b.tech",
+                "institution": "national institute of technology karnataka surathkal",
+                "year_or_duration": "2009 10",
+                "cgpa_or_percentage": "7.59"
+            }
+        ],
+        "masters": []
+    },
+    "ExtraCurricularActivities": [
+        "worked in core committee in organizing inter college fest incident 2008 2009.",
+        "was elected as mess manager for 2007 08.",
+        "executive member of ddfc dance dramatics and fashion club nitk chapter.",
+        "executive member of light and sound club nitk chapter.",
+        "volunteer of national service scheme.",
+        "represented 2nd year in inter college dramatics competition 2007 08.",
+        "practicing stress management techniques.",
+        "ability to look at problems differently",
+        "strong analytical and problem solving skills",
+        "ability to work amicably in groups"
+    ],
+    "Projects": [
+        {
+            "project_name": "drawing and animation toolkit",
+            "skills_used": [
+                "c language",
+                "computer graphics"
+            ]
+        },
+        {
+            "project_name": "database system",
+            "skills_used": [
+                "visual basics 6.0",
+                "sql"
+            ]
+        },
+        {
+            "project_name": "sql",
+            "skills_used": [
+                "c"
+            ]
+        },
+        {
+            "project_name": "web designing",
+            "skills_used": [
+                "web design"
+            ]
+        },
+        {
+            "project_name": "tensigrity structures",
+            "skills_used": [
+                "java"
+            ]
+        }
+    ],
+    "Internships": [
+        {
+            "company": "national institute of advanced studiesiisc bangalore",
+            "year": "Not Found",
+            "skills": [
+                "Not Found"
+            ]
+        },
+        {
+            "company": "Not Found",
+            "year": "Not Found",
+            "skills": [
+                "Not Found"
+            ]
+        }
+    ],
+    "References": [
+        {
+            "name": "Not Found",
+            "designation": "Not Found"
+        },
+        {
+            "name": "Not Found",
+            "designation": "Not Found"
+        }
+    ]
+}<|end_of_turn|>

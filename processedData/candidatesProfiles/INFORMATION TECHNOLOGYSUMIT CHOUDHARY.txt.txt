@@ -1,0 +1,75 @@
+{
+  'Name': 'Sumit Choudhary',
+  'DateOfBirth': 'November 13, 1987',
+  'Gender': 'Male',
+  'Email': 'choudhary.sumit87@gmail.com',
+  'PhoneNumber': '0341 2441353, 9-9004-06331',
+  'Address': 'Permanent Address: B.Tech Details, National Institute of Technology Karnataka Surathkal P.O Srinivasnagar Mangalore 575025, Present Address: C.G.P.A. 8.53',
+  'Skills': {
+    'technical_skills': ['C314Mega Hostel Block NITKS Hostels'],
+    'other_skills': []
+  },
+  'Education': {
+    'pre_degree': [
+      {
+        'degree_name': '10+2th',
+        'institution': 'Ukhra ICSE',
+        'year_or_duration': '2004',
+        'cgpa_or_percentage': '86.4'
+      }
+    ],
+    'bachelors': [
+      {
+        'degree_name': 'B.Tech',
+        'institution': 'National Institute of Technology Karnataka Srinivasnagar',
+        'year_or_duration': '',
+        'cgpa_or_percentage': ''
+      }
+    ],
+    'masters': []
+  },
+  'ExtraCurricularActivities': [
+    'About Myself',
+    'Co Curricular Activities',
+    'Reference 1',
+    'Reference 2',
+    'Business Events - Convener of Engineer',
+    'Engineer is the technical fest of our college',
+    'Jt. Convener Events of E Forea - Engineer Forum for Entrepreneurship Awareness',
+    'E Forea is the E Cell of the College with a motive of spreading entrepreneurship and innovation in and around the College',
+    'Executive Member of Indian Society for Technical Education NIT Surathkal Chapter',
+    'Executive Member of Media Committee of Incident 08 09 - Incident is the cultural fest of NIT Surathkal',
+    'I am very passionate about my work and believe in maintaining my commitment to it throughout its duration',
+    'I like exploring social avenues and indulge in every college activity that gives me an opportunity to expand my social horizon',
+    'I believe that our thoughts influence our decisions and hence create the path to our future goals, and hence I try to be positive in my thoughts',
+    'I believe in sharing knowledge and hence utilize every opportunity to impart what I know to those interested around me',
+    'On a lighter note I love eating different cuisines and dont miss an opportunity to travel or make new friends',
+    '1 mini project in Computer Graphics in 4th semester: Here we made an application where we can draw shapes and then animate them',
+    '2 Database Management System mini project in 5th semester: Here we developed mini relational dbase',
+    '3 Software Engineering mini project in 6th semester',
+    '3 Internship at Tavant Technology Bangalore - Duration 2 months, Dates 8 May 08 to 10 July 08'
+  ],
+  'Projects': [
+    {
+      'project_name': 'Supporting a Start Up in At Technolgy Pvt Ltd. In NITK Step As Tech. Lead For Their Projects',
+      'skills_used': []
+    }
+  ],
+  'Internships': [
+    {
+      'company': 'Tavant Technology Bangalore',
+      'year': '2 months, Dates 8 May 08 to 10 July 08',
+      'skills': ['C314Mega Hostel Block NITKS Hostels']
+    }
+  ],
+  'References': [
+    {
+      'name': 'Dr. T. Srinivasan Tech Lead Tavant Technologies Pvt Ltd Bangalore',
+      'designation': 'Phone 09-8809-23532'
+    },
+    {
+      'name': 'Dr. Ananthanarayana V S',
+      'designation': 'Professor Dept of Information Technology National Institute of Technology Karnataka, Email anvs@nitk.ac.in'
+    }
+  ]
+}<|end_of_turn|>

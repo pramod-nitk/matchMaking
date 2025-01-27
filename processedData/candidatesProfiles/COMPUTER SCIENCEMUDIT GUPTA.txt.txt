@@ -1,0 +1,98 @@
+{
+    'Name': 'Mudit Gupta',
+    'DateOfBirth': 'November 14 1987',
+    'Gender': 'male',
+    'Email': 'gupta.mudit87@gmail.com',
+    'PhoneNumber': '9-8713-06989',
+    'Address': 'flat no f8 prakrati residency c34 model townw ghaziabad uttar pradesh 201001',
+    'Skills': {
+        'technical_skills': ['algorithm emulator', 'e commerce system', 'publicity material', 'graphics editor', 'billing and inventory management system', 'user interface', 'graphically rich applications'],
+        'other_skills': ['second prize in movie spoof contest', 'organizing committee for annual technical symposium', 'member of engineers forum for entrepreneurship', 'active participation in creative contests and competitions', 'designed an algorithm emulator program', 'designed an e commerce system for online book store', 'designed publicity material for crescendo 07 and incident 08', 'designed a graphics editor using c++ libraries', 'designed and developed a billing and inventory management system for a chain of photo labs and studios', 'worked as branding consultant at inat technologies limited', 'worked as software developer at inat technologies'],
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'Ch. Chhabil Dass Public School',
+                'year_or_duration': '2003',
+                'cgpa_or_percentage': '77.8'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'B.Tech',
+                'institution': 'National Institute of Technology Karnataka',
+                'year_or_duration': '2009',
+                'cgpa_or_percentage': '6.86'
+            }
+        ],
+        'masters': []
+    },
+    'ExtraCurricularActivities': [
+        'member of E forea engineers forum for entrepreneurship awareness',
+        'member of organizing committee for annual technical symposium',
+        'active participation in creative contests and competitions',
+        'won second prize in movie spoof contest',
+        'member of organizing committee for annual cultural festival',
+        'have represented my school in a number of science fests',
+        'designed an algorithm emulator program which can be used as a teaching aid',
+        'designed an e commerce system for online book store capable of secure user login browsing and searching books on basis of author title etc. order tracking',
+        'designed publicity material for crescendo 07 and incident 08 the annual college festivals of the college',
+        'designed a graphics editor using c++ libraries',
+        'designed a billing and inventory management system for a chain of photo labs and studios',
+        'developed and delivered a billing and inventory management system',
+        'my role in the project was to prepare srs design various modules of the system during initial stages and development of user interface during later stages of the project'
+    ],
+    'Projects': [
+        {
+            'project_name': 'Designed an algorithm emulator program',
+            'skills_used': ['algorithm emulator']
+        },
+        {
+            'project_name': 'Designed an e commerce system for online book store',
+            'skills_used': ['e commerce system']
+        },
+        {
+            'project_name': 'Designed publicity material for crescendo 07 and incident 08',
+            'skills_used': ['publicity material']
+        },
+        {
+            'project_name': 'Designed a graphics editor using c++ libraries',
+            'skills_used': ['graphics editor']
+        },
+        {
+            'project_name': 'Designed a billing and inventory management system for a chain of photo labs and studios',
+            'skills_used': ['billing and inventory management']
+        },
+        {
+            'project_name': 'Prepared SRS and design of various modules of the system during initial stages',
+            'skills_used': ['prepared SRS', 'design various modules']
+        },
+        {
+            'project_name': 'Developed and delivered a billing and inventory management system',
+            'skills_used': ['developed and delivered']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Inat Technologies Limited',
+            'year': 'December 2008 till April 2009',
+            'skills': ['designed the look and feel of user interface', 'designing of logos and brochures', 'putting in place document standards and guidelines for all professional communications as well as for project related documentations']
+        },
+        {
+            'company': 'Inat Technologies',
+            'year': 'May 2009 till date',
+            'skills': ['graphically rich applications both online and desktop based', 'currently working on a saas based web application']
+        }
+    ],
+    'References': [
+        {
+            'name': 'Mr. Flavian Dsouza',
+            'designation': 'CEO Inat Technologies Pvt. Ltd.'
+        },
+        {
+            'name': 'Mr. Flavian Dsouza',
+            'designation': 'CEO Inat Technologies Pvt. Ltd.'
+        }
+    ]
+}<|end_of_turn|>

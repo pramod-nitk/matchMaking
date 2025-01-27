@@ -1,0 +1,46 @@
+{
+    'Name': 'darryl nikhil lewis',
+    'DateOfBirth': 'august 3 1988',
+    'Gender': 'male',
+    'Email': 'darryl.nl.13@gmail.com',
+    'PhoneNumber': '08-2025-20350',
+    'Address': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025',
+    'Skills': {
+        'technical_skills': ['java', 'html', 'php', 'mysql', 'c++', 'c#'],
+        'other_skills': ['quizzer']
+    },
+    'Education': {
+        'pre_degree': [{'degree_name': '10th', 'institution': 'xth little rock indian school', 'year_or_duration': '2004', 'cgpa_or_percentage': '88.2'}],
+        'bachelors': [{'degree_name': 'b.tech', 'institution': 'vidyashri anand rao road ambalpady udupi', 'year_or_duration': '2009', 'cgpa_or_percentage': '6.11'}],
+        'masters': []
+    },
+    'ExtraCurricularActivities': ['co curricular activities'],
+    'Projects': [
+        {
+            'project_name': 'brainvita',
+            'skills_used': ['c++']
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'symbol technologies india pvt ltd.',
+            'year': 'Not Found',
+            'skills': ['java', 'rsa encryption simulator', 'dbms']
+        },
+        {
+            'company': 'a 100 subsidiary of motorola inc.',
+            'year': 'Not Found',
+            'skills': ['stress testing', 'motodc a data monitoring engine for mobile devices']
+        }
+    ],
+    'References': [
+        {
+            'name': 'mr. k vinay kumar',
+            'designation': 'asst professor department of computer engineering nitk surathkal'
+        },
+        {
+            'name': 'mr. t g basavaraju',
+            'designation': 'asst professor department of computer engineering nitk surathkal'
+        }
+    ]
+}<|end_of_turn|>

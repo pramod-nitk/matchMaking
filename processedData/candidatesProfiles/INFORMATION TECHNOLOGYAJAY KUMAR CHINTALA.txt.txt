@@ -1,0 +1,38 @@
+{
+  'Name': 'Ajay Kumar Chintala',
+  'DateOfBirth': '14 May 1988',
+  'Gender': 'Male',
+  'Email': 'nitk.ajay@gmail.com',
+  'PhoneNumber': '09-9494-69471',
+  'Address': 'National Institute of Technology Karnataka, Surathkal P.O Srinivasnagar Mangalore 575025',
+  'Skills': {
+    'technical_skills': ['C', 'C++', 'C#', 'Java', 'JavaScript', 'Python', 'HTML', 'CSS', 'PHP', 'MySQL', 'SQL', 'Ajax', 'SDL', 'Adobe Photoshop'],
+    'other_skills': ['Painting', 'Placement Coordinator']
+  },
+  'Education': {
+    'pre_degree': [
+      {'degree_name': 'Xth', 'institution': 'Sri Saraswathi Vidya Vihar Secondary School', 'year_or_duration': '2003', 'cgpa_or_percentage': '89'}
+    ],
+    'bachelors': [
+      {'degree_name': 'B.Tech', 'institution': 'National Institute of Technology Karnataka', 'year_or_duration': '2009', 'cgpa_or_percentage': '7.6'}
+    ],
+    'masters': []
+  },
+  'ExtraCurricularActivities': ['Artist Forum'],
+  'Projects': [
+    {'project_name': 'Animation Package', 'skills_used': ['C', 'SDL']},
+    {'project_name': 'Toy Relational Database', 'skills_used': ['C']},
+    {'project_name': 'Railway Ticket and Train Management System', 'skills_used': ['HTML', 'PHP']},
+    {'project_name': 'iDocs', 'skills_used': ['C', 'PHP', 'MySQL']},
+    {'project_name': 'Smartbod.nl', 'skills_used': ['HTML', 'PHP', 'MySQL', 'Ajax']}
+  ],
+  'Internships': [
+    {'company': 'World Famous Oasis', 'year': 'Not Found', 'skills': ['HTML', 'PHP', 'MySQL', 'Ajax']},
+    {'company': 'Search All Deals', 'year': 'Not Found', 'skills': ['HTML', 'PHP', 'MySQL']},
+    {'company': 'Jonas Brothers', 'year': 'Not Found', 'skills': ['HTML', 'PHP', 'MySQL']}
+  ],
+  'References': [
+    {'name': 'Dr. Ananthanarayana V.S.', 'designation': 'Professor and Head Dept. of Information Technology'},
+    {'name': 'Dr. Prakash Raghavendra', 'designation': 'Assistant Professor Department of Information Technology'}
+  ]
+}<|end_of_turn|>

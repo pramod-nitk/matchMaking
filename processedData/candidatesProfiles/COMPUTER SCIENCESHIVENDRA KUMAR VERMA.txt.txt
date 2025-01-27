@@ -1,0 +1,127 @@
+{
+    'Name': 'shivendra kumar verma',
+    'DateOfBirth': 'july 1 1988',
+    'Gender': 'male',
+    'Email': 'shivanitk06@gmail.com',
+    'PhoneNumber': '09-4157-51736',
+    'Address': 'national institute of technology karnataka surathkal p.o srinivasnagar mangalore 575025',
+    'Skills': {
+        'technical_skills': [
+            'operating system',
+            'php',
+            'c',
+            'ogre',
+            'c++',
+            'oracle 9i',
+            'public key infrastructure',
+            '3d boolean operation on meshes'
+        ],
+        'other_skills': [
+            'active participation in blood donation organized in college campus by nss',
+            'active member of engineertech fest incidentcultural fest. active member of ddfc m forum yoga club',
+            'have attended various workshops on spirituality',
+            'have attended workshop on public key infrastructure organised by c dac',
+            'have done a project named 3d boolean operation on meshes under prof. tim poston prof at national institute of advanced science',
+            'under this project we have generated various 3d objects like cubeteterahedron and applied boolean operation like union intersection. the ogre is used to develop this project',
+            'have done a project under database course named online shopping cart. in this a website is developed which keeps tacks of all the tranction done by a user. php is used to develop this tool',
+            'have done a project under software engineering named network scanner. this is basically a networking tool which can be used to search all the local computer connected to that network',
+            'have done a oracle 9i course certified by uptec',
+            'have done a project under computer graphics course named fish game. in this game we have designed verious fishes. which go on incresing on eating the other fish. c language is used to develop this',
+            'prof tim poston nias bangalore mr.vinay kumar nitk surathkal'
+        ]
+    },
+    'Education': {
+        'pre_degree': [
+            {
+                'degree_name': '10th',
+                'institution': 'xth peoples inter college dumaria ganjuttar pradesh state board',
+                'year_or_duration': '2003',
+                'cgpa_or_percentage': '65.8'
+            },
+            {
+                'degree_name': 'xiith',
+                'institution': 'xiith bal guide inter collegeindira nagar lucknowu.p. state board',
+                'year_or_duration': '2005',
+                'cgpa_or_percentage': '79.8'
+            }
+        ],
+        'bachelors': [
+            {
+                'degree_name': 'b.tech',
+                'institution': 'b.tech details',
+                'year_or_duration': '2008',
+                'cgpa_or_percentage': '7.32'
+            }
+        ],
+        'masters': [
+            {
+                'degree_name': 'b.tech',
+                'institution': 'b.tech nitk surathkal deemed university',
+                'year_or_duration': '2010',
+                'cgpa_or_percentage': '7.33'
+            }
+        ]
+    },
+    'ExtraCurricularActivities': [
+        'active participation in blood donation organized in college campus by nss',
+        'active member of engineertech fest incidentcultural fest. active member of ddfc m forum yoga club',
+        'have attended various workshops on spirituality',
+        'have attended workshop on public key infrastructure organised by c dac',
+        'have done a project named 3d boolean operation on meshes under prof. tim poston prof at national institute of advanced science',
+        'under this project we have generated various 3d objects like cubeteterahedron and applied boolean operation like union intersection. the ogre is used to develop this project',
+        'have done a project under database course named online shopping cart. in this a website is developed which keeps tacks of all the tranction done by a user. php is used to develop this tool',
+        'have done a project under software engineering named network scanner. this is basically a networking tool which can be used to search all the local computer connected to that network',
+        'have done a oracle 9i course certified by uptec',
+        'have done a project under computer graphics course named fish game. in this game we have designed verious fishes. which go on incresing on eating the other fish. c language is used to develop this',
+        'prof tim poston nias bangalore mr.vinay kumar nitk surathkal'
+    ],
+    'Projects': [
+        {
+            'project_name': '3d boolean operation on meshes',
+            'skills_used': [
+                'ogre',
+                'c++',
+                '3d boolean operation on meshes'
+            ]
+        },
+        {
+            'project_name': 'online shopping cart',
+            'skills_used': [
+                'php'
+            ]
+        },
+        {
+            'project_name': 'network scanner',
+            'skills_used': [
+                'c',
+                'network scanner'
+            ]
+        },
+        {
+            'project_name': 'fish game',
+            'skills_used': [
+                'c language',
+                'fish game'
+            ]
+        }
+    ],
+    'Internships': [
+        {
+            'company': 'Not Found',
+            'year': 'Not Found',
+            'skills': [
+                'Not Found'
+            ]
+        }
+    ],
+    'References': [
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        },
+        {
+            'name': 'Not Found',
+            'designation': 'Not Found'
+        }
+    ]
+}<|end_of_turn|>
