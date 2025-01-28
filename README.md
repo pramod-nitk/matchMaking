@@ -155,6 +155,7 @@ python main.py --function index_embeddings
 # 6. Run Interactive Search
 python main.py --function run_api
 ```
+** Some of the codes are replicated need to refactor and remove the unused code pieces
 
 License
 This project is licensed under the Personal License. You can not update or replace this license as needed.
